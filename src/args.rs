@@ -45,8 +45,9 @@ fn handle_argument(parsed_args: &mut ProgramArgs, arg: String) {
 
     let (name, value) = arg.split_at(eq_position);
 
+    let name_key = name.replace('-', "");
 
-    if name == "course" {
+    if name_key == "course" {
         match load_course_file(&PathBuf::from(value[1..].to_string())) {
             Ok(mut courses) => parsed_args.courses.append(&mut courses),
             Err(err) => eprintln!("Error adding courses: {:?}", err)

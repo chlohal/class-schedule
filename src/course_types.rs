@@ -3,8 +3,8 @@ use std::str::FromStr;
 #[derive(Debug)]
 pub struct Course {
     pub campus_code: u32,
-    pub term_code: u32,
-    pub ptrm_code: u32,
+    pub term_code: String,
+    pub ptrm_code: String,
     pub crn: u32,
     pub sub_group_list: Vec<Department>,
     pub course: String,
@@ -12,28 +12,37 @@ pub struct Course {
     pub title: String,
     pub long_title: String,
     pub attr_code: Vec<CourseAttribute>,
-    pub units: f64,
+    pub units: String,
     pub cap: u32,
     pub enr: u32,
     pub permission_only: bool,
     pub instructor: String,
-    pub days: Vec<CourseDay>,
-    pub times: Vec<TimeRange>,
+    pub days: Vec<Vec<CourseDay>>,
+    pub times: Vec<ClassPeriod>,
     pub building_abbrev: String,
     pub note: String,
 }
+
+#[derive(Debug)]
+pub enum ClassPeriod { Specific(TimeRange), Unspecified }
+
 #[derive(Debug)]
 pub struct TimeRange {
     pub start: ClassTime,
     pub end: ClassTime,
 }
-impl FromStr for TimeRange {
+impl FromStr for ClassPeriod {
     type Err = ();
 
-    fn from_str(input: &str) -> Result<TimeRange, Self::Err> {
+    fn from_str(input: &str) -> Result<ClassPeriod, Self::Err> {
+
+        if input == "-" {
+            return Ok(ClassPeriod::Unspecified);
+        }
+
         let (start, end) = input.split_once("-").ok_or(())?;
 
-        Ok(TimeRange { start: start.trim().parse()?, end: end.trim().parse()? })
+        Ok(ClassPeriod::Specific(TimeRange { start: start.trim().parse()?, end: end.trim().parse()? }))
     }
 }
 
@@ -105,6 +114,7 @@ pub enum CourseDay {
     W,
     R,
     F,
+    UNSPECIFIED
 }
 
 impl TryFrom<char> for CourseDay {
@@ -117,6 +127,7 @@ impl TryFrom<char> for CourseDay {
             'W' => Ok(CourseDay::W),
             'R' => Ok(CourseDay::R),
             'F' => Ok(CourseDay::F),
+            '-' => Ok(CourseDay::UNSPECIFIED),
             _ => Err(()),
         }
     }

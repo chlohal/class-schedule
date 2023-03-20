@@ -1,12 +1,13 @@
 use std::{
-    fs::{File},
+    fs::File,
     io::{BufReader, Error, ErrorKind},
     path::PathBuf,
+    str::FromStr,
 };
 
-use serde_json::Value;
+use serde_json::{Map, Value};
 
-use crate::course_types::{Course, CourseAttribute, CourseDay, Department, TimeRange};
+use crate::course_types::{Course, CourseDay};
 
 pub fn load_course_file(path: &PathBuf) -> Result<Vec<Course>, Error> {
     let f = File::open(path)?;
@@ -27,49 +28,111 @@ pub fn load_course_file(path: &PathBuf) -> Result<Vec<Course>, Error> {
     }
 }
 
+fn get_stringy_parsable_key<T: FromStr>(data: &Map<String, Value>, key: &str) -> Result<T, Error> {
+    (data
+        .get(key)
+        .ok_or(err(&("No ".to_owned() + key + " property")))?
+        .as_str()
+        .ok_or(err(&(key.to_owned() + " property is not a string")))?)
+    .parse()
+    .map_err(|_| err(&(key.to_owned() + " does not represent a parsable type")))
+}
+
+fn parse_char_list<T: TryFrom<char>>(list: &String) -> Result<Vec<T>, Error> {
+    list.chars()
+        .map(|d| {
+            d.try_into().map_err(|_| {
+                err(&(d.to_string() + " couldn't be parsed as a member of a char list"))
+            })
+        })
+        .collect()
+}
+
+fn parse_pipe_sep_list_key<T: FromStr>(
+    data: &Map<String, Value>,
+    key: &str,
+) -> Result<Vec<T>, Error> {
+    let string_content = match data
+        .get(key)
+        .ok_or(err(&("No ".to_owned() + key + " property")))?
+        .as_str()
+    {
+        Some(s) => s,
+        None => return Ok(Vec::new()),
+    };
+
+    string_content
+        .split("|")
+        .map(|d| {
+            d.parse()
+                .map_err(|_| err(&("Could not parse member of ".to_owned() + key + " list: " + d)))
+        })
+        .collect()
+}
+
+fn get_string_key(data: &Map<String, Value>, key: &str) -> Result<String, Error> {
+    Ok(data
+        .get(key)
+        .ok_or(err(&("No ".to_owned() + key + " property")))?
+        .as_str()
+        .unwrap_or("")
+        .to_string())
+}
+
+fn get_u32_key(data: &Map<String, Value>, key: &str) -> Result<u32, Error> {
+    Ok(data
+        .get(key)
+        .ok_or(err(&("No ".to_owned() + key + " property")))?
+        .as_u64()
+        .ok_or(err(&(key.to_owned() + " property is not an integer")))? as u32)
+}
+
+fn get_yn_bool_key(data: &Map<String, Value>, key: &str) -> Result<bool, Error> {
+    Ok(data
+        .get(key)
+        .ok_or(err(&("No ".to_owned() + key + " property")))?
+        .as_str()
+        .ok_or(err(&(key.to_owned().clone() + " property is not a string")))?
+        == "Y")
+}
+
 fn data_array_to_courses(data: &Vec<Value>) -> Result<Vec<Course>, Error> {
     let courses = data
         .iter()
-        .map(|alleged_course| -> Option<Course> {
-            let course = alleged_course.as_object()?;
-            Some(Course {
-                campus_code: (course.get("campus_code")?.as_str()?).parse().ok()?,
-                term_code: (course.get("campus_code")?.as_str()?).parse().ok()?,
-                ptrm_code: (course.get("campus_code")?.as_str()?).parse().ok()?,
-                crn: (course.get("campus_code")?.as_str()?).parse().ok()?,
-                sub_group_list: (course.get("sub_group_list")?.as_str()?)
-                    .split("|")
-                    .map(|d| d.parse().ok())
-                    .collect::<Option<Vec<Department>>>()?,
-                course: course.get("course")?.as_str()?.to_string(),
-                seq_num: (course.get("seq_num")?.as_str()?).parse().ok()?,
-                title: course.get("title")?.as_str()?.to_string(),
-                long_title: course.get("long_title")?.as_str()?.to_string(),
-                attr_code: course
-                    .get("attr_code")?
-                    .as_str()
-                    .unwrap_or("")
-                    .split("|")
-                    .map(|d| d.parse().ok())
-                    .collect::<Option<Vec<CourseAttribute>>>()?,
-                units: (course.get("units")?.as_str()?).parse().ok()?,
-                cap: course.get("cap")?.as_i64()? as u32,
-                enr: course.get("enr")?.as_i64()? as u32,
-                permission_only: (course.get("permission_only")?.as_str()?) == "Y",
-                instructor: (course.get("instructor")?.as_str()?).to_string(),
-                days: (course.get("days")?.as_str()?)
-                    .chars()
-                    .map(|d| d.try_into().ok())
-                    .collect::<Option<Vec<CourseDay>>>()?,
-                times: (course.get("times")?.as_str()?)
-                    .split("|")
-                    .map(|d| d.parse().ok())
-                    .collect::<Option<Vec<TimeRange>>>()?,
-                building_abbrev: course.get("building_abbrev")?.as_str()?.to_string(),
-                note: course.get("ssrtext_text")?.as_str()?.to_string(),
+        .map(|alleged_course| -> Result<Course, Error> {
+            let course = alleged_course
+                .as_object()
+                .ok_or(err("data field is not object!"))?;
+            Ok(Course {
+                campus_code: get_stringy_parsable_key(course, "campus_code")?,
+                term_code: get_string_key(course, "term_code")?,
+                ptrm_code: get_string_key(course, "ptrm_code")?,
+                crn: get_stringy_parsable_key(course, "crn")?,
+                sub_group_list: parse_pipe_sep_list_key(course, "sub_group_list")?,
+                course: get_string_key(course, "course")?,
+                seq_num: get_stringy_parsable_key(course, "seq_num")?,
+                title: get_string_key(course, "title")?,
+                long_title: get_string_key(course, "long_title")?,
+                attr_code: parse_pipe_sep_list_key(course, "attr_code")?,
+                units: get_string_key(course, "units")?,
+                cap: get_u32_key(course, "cap")?,
+                enr: get_u32_key(course, "enr")?,
+                permission_only: get_yn_bool_key(course, "permission_only")?,
+                instructor: get_string_key(course, "instructor")?,
+                days: parse_pipe_sep_list_key::<String>(course, "days")?
+                    .iter()
+                    .map(|day_series| -> Result<Vec<CourseDay>, Error> {parse_char_list::<CourseDay>(day_series)})
+                    .collect::<Result<Vec<Vec<CourseDay>>, Error>>()?,
+                times: parse_pipe_sep_list_key(course, "times")?,
+                building_abbrev: get_string_key(course, "building_abbrev")?,
+                note: get_string_key(course, "ssrtext_text")?,
             })
         })
-        .collect::<Option<Vec<Course>>>();
+        .collect::<Result<Vec<Course>, Error>>();
 
-    return courses.ok_or(Error::new(ErrorKind::InvalidData, "Invalid JSON Schema"));
+    return courses;
+}
+
+fn err(msg: &str) -> Error {
+    Error::new(ErrorKind::InvalidData, msg)
 }
