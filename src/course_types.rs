@@ -1,6 +1,12 @@
 use std::str::FromStr;
 
 #[derive(Debug)]
+pub struct CourseCredit {
+    pub course: String,
+    pub attr_code: Vec<CourseAttribute>
+}
+
+#[derive(Debug)]
 pub struct Course {
     pub campus_code: u32,
     pub term_code: String,
@@ -17,14 +23,56 @@ pub struct Course {
     pub enr: u32,
     pub permission_only: bool,
     pub instructor: String,
-    pub days: Vec<Vec<CourseDay>>,
+    pub days: Vec<CourseDays>,
     pub times: Vec<ClassPeriod>,
-    pub building_abbrev: String,
+    pub location: Vec<ClassLocation>,
     pub note: String,
 }
 
 #[derive(Debug)]
-pub enum ClassPeriod { Specific(TimeRange), Unspecified }
+pub enum ClassLocation {
+    Classroom(String),
+    Unspecified,
+}
+
+impl FromStr for ClassLocation {
+    type Err = ();
+
+    fn from_str(s: &str) -> Result<Self, Self::Err> {
+        let mut classroom = String::new();
+
+        let mut depth = 0;
+        let mut quote = false;
+        for char in s.chars() {
+            if quote && char != '"' {
+                continue;
+            }
+
+            match char {
+                '<' => depth += 1,
+                '>' => depth -= 1,
+                '"' => quote = !quote,
+                _ => {
+                    if depth == 0 {
+                        classroom.push(char)
+                    }
+                }
+            }
+        }
+
+        if classroom == "-" {
+            Ok(ClassLocation::Unspecified)
+        } else {
+            Ok(ClassLocation::Classroom(classroom))
+        }
+    }
+}
+
+#[derive(Debug)]
+pub enum ClassPeriod {
+    Specific(TimeRange),
+    Unspecified,
+}
 
 #[derive(Debug)]
 pub struct TimeRange {
@@ -35,14 +83,16 @@ impl FromStr for ClassPeriod {
     type Err = ();
 
     fn from_str(input: &str) -> Result<ClassPeriod, Self::Err> {
-
         if input == "-" {
             return Ok(ClassPeriod::Unspecified);
         }
 
         let (start, end) = input.split_once("-").ok_or(())?;
 
-        Ok(ClassPeriod::Specific(TimeRange { start: start.trim().parse()?, end: end.trim().parse()? }))
+        Ok(ClassPeriod::Specific(TimeRange {
+            start: start.trim().parse()?,
+            end: end.trim().parse()?,
+        }))
     }
 }
 
@@ -60,7 +110,7 @@ impl FromStr for ClassTime {
             return Err(());
         }
 
-        let hour_offset = if input.ends_with("PM") {12} else {0};
+        let hour_offset = if input.ends_with("PM") { 12 } else { 0 };
 
         let hour: u32 = input[0..2].parse().map_err(|_| ())?;
         let min: u32 = input[3..5].parse().map_err(|_| ())?;
@@ -71,7 +121,6 @@ impl FromStr for ClassTime {
         })
     }
 }
-
 
 #[derive(Debug)]
 pub enum CourseAttribute {
@@ -108,13 +157,34 @@ impl FromStr for CourseAttribute {
 }
 
 #[derive(Debug)]
+pub enum CourseDays {
+    Specified(Vec<CourseDay>),
+    Unspecified,
+}
+
+impl FromStr for CourseDays {
+    type Err = ();
+
+    fn from_str(input: &str) -> Result<CourseDays, Self::Err> {
+        match input {
+            "-" => Ok(CourseDays::Unspecified),
+            _ => Ok(CourseDays::Specified(
+                input
+                    .chars()
+                    .map(|d| d.try_into())
+                    .collect::<Result<Vec<CourseDay>, _>>()?
+            )),
+        }
+    }
+}
+
+#[derive(Debug)]
 pub enum CourseDay {
     M,
     T,
     W,
     R,
     F,
-    UNSPECIFIED
 }
 
 impl TryFrom<char> for CourseDay {
@@ -127,7 +197,6 @@ impl TryFrom<char> for CourseDay {
             'W' => Ok(CourseDay::W),
             'R' => Ok(CourseDay::R),
             'F' => Ok(CourseDay::F),
-            '-' => Ok(CourseDay::UNSPECIFIED),
             _ => Err(()),
         }
     }

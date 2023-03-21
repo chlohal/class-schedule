@@ -1,13 +1,13 @@
 use std::{
     fs::File,
-    io::{BufReader, Error, ErrorKind},
+    io::{BufReader, Error},
     path::PathBuf,
     str::FromStr,
 };
 
 use serde_json::{Map, Value};
 
-use crate::course_types::{Course, CourseDay};
+use crate::{course_types::Course, helpers::err};
 
 pub fn load_course_file(path: &PathBuf) -> Result<Vec<Course>, Error> {
     let f = File::open(path)?;
@@ -36,16 +36,6 @@ fn get_stringy_parsable_key<T: FromStr>(data: &Map<String, Value>, key: &str) ->
         .ok_or(err(&(key.to_owned() + " property is not a string")))?)
     .parse()
     .map_err(|_| err(&(key.to_owned() + " does not represent a parsable type")))
-}
-
-fn parse_char_list<T: TryFrom<char>>(list: &String) -> Result<Vec<T>, Error> {
-    list.chars()
-        .map(|d| {
-            d.try_into().map_err(|_| {
-                err(&(d.to_string() + " couldn't be parsed as a member of a char list"))
-            })
-        })
-        .collect()
 }
 
 fn parse_pipe_sep_list_key<T: FromStr>(
@@ -119,20 +109,13 @@ fn data_array_to_courses(data: &Vec<Value>) -> Result<Vec<Course>, Error> {
                 enr: get_u32_key(course, "enr")?,
                 permission_only: get_yn_bool_key(course, "permission_only")?,
                 instructor: get_string_key(course, "instructor")?,
-                days: parse_pipe_sep_list_key::<String>(course, "days")?
-                    .iter()
-                    .map(|day_series| -> Result<Vec<CourseDay>, Error> {parse_char_list::<CourseDay>(day_series)})
-                    .collect::<Result<Vec<Vec<CourseDay>>, Error>>()?,
+                days: parse_pipe_sep_list_key(course, "days")?,
                 times: parse_pipe_sep_list_key(course, "times")?,
-                building_abbrev: get_string_key(course, "building_abbrev")?,
+                location: parse_pipe_sep_list_key(course, "building_abbrev")?,
                 note: get_string_key(course, "ssrtext_text")?,
             })
         })
         .collect::<Result<Vec<Course>, Error>>();
 
     return courses;
-}
-
-fn err(msg: &str) -> Error {
-    Error::new(ErrorKind::InvalidData, msg)
 }
