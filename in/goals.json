@@ -1,0 +1,12 @@
+[
+    {
+        "field": "schedule.days",
+        "target": {"direction": "down"},
+        "important": 3
+    },
+    {
+        "field": "attr_code",
+        "target": {"direction": "up"},
+        "important": 7
+    }
+]
