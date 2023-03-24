@@ -6,12 +6,15 @@ import scheduleOverlaps from "./schedule_overlaps.js";
 const MAX_CLASSES = 4;
 
 export default function findBestStrategies(args: ProgramArgs) {
-    let baseQueue = [new Set()];
+
+    let baseQueue: Set<Course>[] = [new Set()];//Array.from(args.courses).filter(x=>!args.taken.find(y=>x.course == y.course)).map(x=>new Set([x]));
 
     let bestOverall: Set<Set<Course>> = new Set();
 
-    while (baseQueue.length) {
-        const base = baseQueue.shift() as Set<Course>;
+    while (true) {
+        const base = baseQueue.shift();
+        if(!base) break;
+
         const best = findBestStratsFromBase(base, args);
         for (const b of best) {
             baseQueue.push(b);
@@ -26,9 +29,9 @@ export default function findBestStrategies(args: ProgramArgs) {
 }
 
 function findBestStratsFromBase(base: Set<Course>, args: ProgramArgs): Set<Set<Course>> {
-    if (base.size >= MAX_CLASSES) return new Set;
+    if (base.size >= MAX_CLASSES) return new Set();
 
-    let bestScore = evaluateStrategy(base, args.taken);;
+    let bestScore = -Infinity;
     const bests: Set<Set<Course>> = new Set();
 
     for (const course of args.courses) {
@@ -41,7 +44,7 @@ function findBestStratsFromBase(base: Set<Course>, args: ProgramArgs): Set<Set<C
         const score = evaluateStrategy(tryStrat, args.taken);
 
         if (score > bestScore) {
-            //bests.clear();
+            bests.clear();
             bests.add(tryStrat);
             bestScore = score;
         }

@@ -118,7 +118,7 @@ function parseTime(time: string): ClassTime {
     if (isNaN(hour) || isNaN(minute)) throw new Error(`Bad time format ${time}`);
 
     return {
-        hour,
+        hour: hour == 24 ? 12 : hour,
         minute
     }
 }
