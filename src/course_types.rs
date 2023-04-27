@@ -1,32 +1,58 @@
-use std::str::FromStr;
+use std::{str::FromStr, sync::Arc};
 
 #[derive(Debug)]
 pub struct CourseCredit {
-    pub course: String,
-    pub attr_code: Vec<CourseAttribute>
+    pub course: Arc<String>,
+    pub attr_code: Arc<Vec<CourseAttribute>>
 }
 
 #[derive(Debug)]
-pub struct Course {
+pub struct CourseSection {
     pub campus_code: u32,
     pub term_code: String,
     pub ptrm_code: String,
     pub crn: u32,
-    pub sub_group_list: Vec<Department>,
-    pub course: String,
-    pub seq_num: u32,
-    pub title: String,
-    pub long_title: String,
-    pub attr_code: Vec<CourseAttribute>,
-    pub units: String,
     pub cap: u32,
     pub enr: u32,
     pub permission_only: bool,
     pub instructor: String,
-    pub days: Vec<CourseDays>,
-    pub times: Vec<ClassPeriod>,
+    pub schedule: Vec<ClassPeriod>,
     pub location: Vec<ClassLocation>,
     pub note: String,
+    pub course: Arc<Course>
+}
+
+impl std::hash::Hash for CourseSection {
+    fn hash<H: std::hash::Hasher>(&self, state: &mut H) {
+        self.crn.hash(state);
+    }
+}
+
+impl Eq for CourseSection {
+    fn assert_receiver_is_total_eq(&self) {}
+}
+
+impl PartialEq for CourseSection {
+    fn eq(&self, other: &Self) -> bool {
+        self.crn == other.crn
+    }
+}
+
+#[derive(Debug)]
+pub struct Course {
+    pub sub_group_list: Vec<Department>,
+    pub course: Arc<String>,
+    pub seq_num: u32,
+    pub title: String,
+    pub long_title: String,
+    pub attr_code: Arc<Vec<CourseAttribute>>,
+    pub units: String,
+}
+
+impl PartialEq for Course {
+    fn eq(&self, other: &Self) -> bool {
+        self.course == other.course
+    }
 }
 
 #[derive(Debug)]
@@ -69,27 +95,33 @@ impl FromStr for ClassLocation {
 }
 
 #[derive(Debug)]
-pub enum ClassPeriod {
-    Specific(TimeRange),
+pub struct  ClassPeriod {
+    pub days: Vec<CourseDay>,
+    pub time: TimeRange
+}
+
+#[derive(Debug)]
+pub enum ClassTime {
+    Specified(TimeRange),
     Unspecified,
 }
 
 #[derive(Debug)]
 pub struct TimeRange {
-    pub start: ClassTime,
-    pub end: ClassTime,
+    pub start: TimeOfDay,
+    pub end: TimeOfDay,
 }
-impl FromStr for ClassPeriod {
+impl FromStr for ClassTime {
     type Err = ();
 
-    fn from_str(input: &str) -> Result<ClassPeriod, Self::Err> {
+    fn from_str(input: &str) -> Result<ClassTime, Self::Err> {
         if input == "-" {
-            return Ok(ClassPeriod::Unspecified);
+            return Ok(ClassTime::Unspecified);
         }
 
         let (start, end) = input.split_once("-").ok_or(())?;
 
-        Ok(ClassPeriod::Specific(TimeRange {
+        Ok(ClassTime::Specified(TimeRange {
             start: start.trim().parse()?,
             end: end.trim().parse()?,
         }))
@@ -97,15 +129,15 @@ impl FromStr for ClassPeriod {
 }
 
 #[derive(Debug)]
-pub struct ClassTime {
+pub struct TimeOfDay {
     pub hour: u32,
     pub minute: u32,
 }
 
-impl FromStr for ClassTime {
+impl FromStr for TimeOfDay {
     type Err = ();
 
-    fn from_str(input: &str) -> Result<ClassTime, Self::Err> {
+    fn from_str(input: &str) -> Result<TimeOfDay, Self::Err> {
         if input.len() != 8 {
             return Err(());
         }
@@ -115,14 +147,14 @@ impl FromStr for ClassTime {
         let hour: u32 = input[0..2].parse().map_err(|_| ())?;
         let min: u32 = input[3..5].parse().map_err(|_| ())?;
 
-        Ok(ClassTime {
+        Ok(TimeOfDay {
             hour: hour + hour_offset,
             minute: min,
         })
     }
 }
 
-#[derive(Debug)]
+#[derive(Debug, Copy, Clone, Hash, Eq, PartialEq)]
 pub enum CourseAttribute {
     AP,
     DI,

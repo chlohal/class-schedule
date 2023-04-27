@@ -1,4 +1,4 @@
-use std::{env::args_os, path::PathBuf};
+use std::{env::args_os, path::PathBuf, option::Iter};
 
 use crate::{load_course_input::load_course_file, course_types::{CourseCredit}, load_classes_taken_input::load_classes_taken, course_library::CourseLibrary};
 
@@ -7,8 +7,9 @@ use crate::{load_course_input::load_course_file, course_types::{CourseCredit}, l
 #[derive(Debug, Default)]
 pub struct ProgramArgs {
     pub goals: Vec<Goal>,
-    pub position: Vec<CourseCredit>,
+    pub taken: Vec<CourseCredit>,
     pub courses: CourseLibrary,
+    pub extra: Vec<String>
 }
 
 #[derive(Debug)]
@@ -39,8 +40,8 @@ fn handle_argument(parsed_args: &mut ProgramArgs, arg: String) {
     let eq_position = match arg.find("=") {
         Some(n) => n,
         None => {
-            eprintln!("Bad argument format: you must use `term=value`.");
-            arg.len()
+            parsed_args.extra.push(arg.replace('-', ""));
+            return;
         }
     };
 
@@ -52,12 +53,15 @@ fn handle_argument(parsed_args: &mut ProgramArgs, arg: String) {
 
     if name_key == "coursesfile" {
         match load_course_file(&PathBuf::from(value)) {
-            Ok(courses) => parsed_args.courses.append(courses),
+            Ok(courses) => parsed_args.courses = courses,
             Err(err) => eprintln!("Error adding courses: {:?}", err)
         }
     }
 
     if name_key == "classestakenfile" {
-        load_classes_taken(&PathBuf::from(value), &parsed_args.courses);
+        match load_classes_taken(&PathBuf::from(value), &parsed_args.courses) {
+            Ok(mut credits) => parsed_args.taken.append(&mut credits),
+            Err(err) => eprintln!("Error adding courses taken: {:?}", err),
+        }
     }
 }
