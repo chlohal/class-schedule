@@ -1,6 +1,12 @@
 [
-    "MATH 120",
-    "CSCI 103",
+    {
+      "course": "MATH 120",
+      "attr_code": "FA"
+    },
+    {
+      "course": "CSCI 103",
+      "attr_code": "DI"
+    },
     "CSCI 120",
     "LAT 103",
     "PHIL 141",
