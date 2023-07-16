@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('25', '3', '81215', '', this, ''); return false;">
+				CHEM 233 - Synthetic Organic Chemistry			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=25&coid=81215&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>CHEM 233 - Synthetic Organic Chemistry </h3>  <hr>There is a huge variety of organic molecules that are interesting and exciting, yet need  to be made through organic synthesis before they can be studied.  This course focuses on the synthesis of organic compounds including the scope and limitations of general methods, mechanistic aspects, and stereochemistry.  Special emphasis is placed on the total synthesis of complex molecules including design and execution of the syntheses as well as the importance of the targets. The course material will draw from text books as well as primary research articles, and a substantial amount of class participation will be expected.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=25&coid=81210" onclick="acalogPopup('preview_course.php?catoid=25&coid=81210&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=25&coid=81210&display_options[location]=tooltip&show" id="tt5786" target="_blank">CHEM 132</a><span style="display: none !important">&#160;</span> (minimum grade = B-) or permission of instructor.<br><br><strong>Anticipated Terms Offered:</strong> Offered every other year<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt5786"></div></div>		</td>
+	</tr>
+</table>
+<br>

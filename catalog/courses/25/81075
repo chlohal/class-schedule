@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('25', '3', '81075', '', this, ''); return false;">
+				ARTS 208 - Typography			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=25&coid=81075&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>ARTS 208 - Typography </h3>  <hr>Study of the informational and expressive dimensions of typographical language. The history and technology of type is considered, with an opportunity to handset metal type, as well as do extensive work on the computer. Applications to a variety of problems, including letterhead, poster and publication design.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=25&coid=81059" onclick="acalogPopup('preview_course.php?catoid=25&coid=81059&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=25&coid=81059&display_options[location]=tooltip&show" id="tt5956" target="_blank">ARTS 124</a><span style="display: none !important">&#160;</span> and/or <a href="preview_course_nopop.php?catoid=25&coid=81060" onclick="acalogPopup('preview_course.php?catoid=25&coid=81060&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=25&coid=81060&display_options[location]=tooltip&show" id="tt3546" target="_blank">ARTS 125</a><span style="display: none !important">&#160;</span>, or permission of instructor.<br><br><strong>Anticipated Terms Offered:</strong> Periodically<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt5956"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt3546"></div></div>		</td>
+	</tr>
+</table>
+<br>

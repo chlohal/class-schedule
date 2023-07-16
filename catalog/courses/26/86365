@@ -1,0 +1,15 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('26', '3', '86365', '', this, ''); return false;">
+				MATH 121 - Calculus II			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=26&coid=86365&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>MATH 121 - Calculus II </h3>  <p><hr>See <a href="preview_course_nopop.php?catoid=26&coid=86364" onclick="acalogPopup('preview_course.php?catoid=26&coid=86364&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=26&coid=86364&display_options[location]=tooltip&show" id="tt9060" target="_blank">MATH 120</a><span style="display: none !important">&#160;</span>.<br><br><strong>Prerequisites:</strong>  </p>
+
+<p>A passing grade in MATH 120.<br><br><strong>Course Designation/Attribute:</strong> FA<br><br><strong>Anticipated Terms Offered:</strong> Offered every Spring<br><br></p><div style="display: none; z-index: 1000;" class="tooltip for_tt9060"></div></div>		</td>
+	</tr>
+</table>
+<br>

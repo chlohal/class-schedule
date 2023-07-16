@@ -1,0 +1,15 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('25', '3', '81085', '', this, ''); return false;">
+				ARTS 289 - Senior Thesis			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=25&coid=81085&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>ARTS 289 - Senior Thesis </h3>  <p><hr>Advanced seminar for studio art majors in any concentration. Working independently, but in close consultation with the instructor and interaction with the class peer group, the student will prepare a cohesive and mature body of work to be presented in a group exhibition in the University Gallery and to a committee with oral and written support to be considered for honors. This work should demonstrate original thinking and a high level of technical mastery.</p>
+
+<p> <br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=25&coid=81079" onclick="acalogPopup('preview_course.php?catoid=25&coid=81079&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=25&coid=81079&display_options[location]=tooltip&show" id="tt1586" target="_blank">ARTS 234</a><span style="display: none !important">&#160;</span> with a grade of B or higher or instructor permission.<br><br><strong>Anticipated Terms Offered:</strong> Offered every year/spring semester<br><br></p><div style="display: none; z-index: 1000;" class="tooltip for_tt1586"></div></div>		</td>
+	</tr>
+</table>
+<br>

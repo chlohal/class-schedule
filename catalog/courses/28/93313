@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('28', '3', '93313', '', this, ''); return false;">
+				GEOG 383 - Introduction to Remote Sensing			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=28&coid=93313&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>GEOG 383 - Introduction to Remote Sensing </h3>  <hr>This course is designed to introduce the students to the principles and analytical methods of satellite remote sensing as applied to environmental systems (e.g., land-cover classification, vegetation monitoring, etc.). Lectures will cover principles of remote sensing, sensor types, as well as the processing and analysis of multispectral satellite images (e.g. Landsat and SPOT). A series of hands-on lab exercises will complement students&#8217; understanding of lecture material and also helps students to become familiar with image processing functions of the IDRISI image analysis software. Particular emphasis will be placed on final group project that brings a real world perspective to the learning process. Open to doctoral and masters students.<br><br><strong>Prerequisites:</strong> Vector GIS or Raster GIS, and must register for Lab.<br><br><strong>Anticipated Terms Offered:</strong> Offered every year.<br><br></div>		</td>
+	</tr>
+</table>
+<br>

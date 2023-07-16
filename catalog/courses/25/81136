@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('25', '3', '81136', '', this, ''); return false;">
+				BIOL 143 - Neuroscience			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=25&coid=81136&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>BIOL 143 - Neuroscience </h3>  <hr>Biology 143 introduces students to the biology of nervous systems and their relationship to behavior and disease.  Mammalian nervous systems are emphasized, but from a comparative standpoint.  The course covers topics ranging from neuronal structure and function, synaptic communication, and intra- and intercellular signaling systems, to the development and regeneration of nervous systems, the processing of sensory information, and complex functions such as learning, memory, cognition, and emotion.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=25&coid=81131" onclick="acalogPopup('preview_course.php?catoid=25&coid=81131&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=25&coid=81131&display_options[location]=tooltip&show" id="tt2615" target="_blank">BIOL 111</a><span style="display: none !important">&#160;</span>  , <a href="preview_course_nopop.php?catoid=25&coid=81133" onclick="acalogPopup('preview_course.php?catoid=25&coid=81133&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=25&coid=81133&display_options[location]=tooltip&show" id="tt5036" target="_blank">BIOL 118</a><span style="display: none !important">&#160;</span> , or <a href="preview_course_nopop.php?catoid=25&coid=81134" onclick="acalogPopup('preview_course.php?catoid=25&coid=81134'+((location.search.match(/&print/i)) ? '&print' : '')+'', '3', 770, 530, 'yes');return false;" target="_blank" aria-label="BIOL 137 - Cell Biology opens a new window">BIOL 137 - Cell Biology</a><span style="display: none !important">&#160;</span><br><br><strong>Anticipated Terms Offered:</strong> Offered every year.<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt2615"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt5036"></div></div>		</td>
+	</tr>
+</table>
+<br>

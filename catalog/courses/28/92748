@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('28', '3', '92748', '', this, ''); return false;">
+				BCMB 272 - Biochemistry II			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=28&coid=92748&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>BCMB 272 - Biochemistry II </h3>  <hr>A comprehensive survey of the carbohydrates, energy metabolism and metabolic biochemical pathways. Topics include glycolysis, TCA cycle, oxidative and photosynthetic phosphorylation, catabolism and anabolism. The discussion section reviews articles from the literature on recombinant DNA, inter - and intracellular signal transduction, enzymology, and other current topics.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=28&coid=92838" onclick="acalogPopup('preview_course.php?catoid=28&coid=92838&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=28&coid=92838&display_options[location]=tooltip&show" id="tt7013" target="_blank">CHEM 132</a><span style="display: none !important">&#160;</span> or <span class="acalog-permalink-inactive">CHEM 134</span><span style="display: none !important">&#160;</span> and <a href="preview_course_nopop.php?catoid=28&coid=92747" onclick="acalogPopup('preview_course.php?catoid=28&coid=92747&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=28&coid=92747&display_options[location]=tooltip&show" id="tt2588" target="_blank">BCMB 271</a><span style="display: none !important">&#160;</span>.<br><br><strong>Anticipated Terms Offered:</strong> Offered every year<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt7013"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt2588"></div></div>		</td>
+	</tr>
+</table>
+<br>

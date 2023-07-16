@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('25', '3', '81396', '', this, ''); return false;">
+				ECON 322 - Labor Economics			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=25&coid=81396&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>ECON 322 - Labor Economics </h3>  <hr>Graduate-level course analyzing models of labor supply, labor demand, and labor market equilibrium.  Particular attention is paid to connecting theoretical models to empirical applications.  Variations on models that account for market imperfections and non-market forces such as trade unions and government regulations are also addressed.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=25&coid=81391" onclick="acalogPopup('preview_course.php?catoid=25&coid=81391&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=25&coid=81391&display_options[location]=tooltip&show" id="tt1781" target="_blank">ECON 302</a><span style="display: none !important">&#160;</span><br><br><strong>Anticipated Terms Offered:</strong> Offered every other year<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt1781"></div></div>		</td>
+	</tr>
+</table>
+<br>

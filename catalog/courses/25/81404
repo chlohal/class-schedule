@@ -1,0 +1,14 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('25', '3', '81404', '', this, ''); return false;">
+				ECON 366 - Applied Econometrics			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=25&coid=81404&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>ECON 366 - Applied Econometrics </h3>  <p><hr>Full-year graduate-level course studying a wide range of econometric techniques, beginning with cross-section models (linear regression, limited dependent variables, instrumental variables, GMM, and non-parametrics) and extending to time-series and panel data.  Extensive applied assignments and an empirical research project are an integral part of the course.</p>
+<p>May be repeatable for credit.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=25&coid=81403" onclick="acalogPopup('preview_course.php?catoid=25&coid=81403&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=25&coid=81403&display_options[location]=tooltip&show" id="tt7818" target="_blank">ECON 365</a><span style="display: none !important">&#160;</span><br><br><strong>Anticipated Terms Offered:</strong> Full-year course. Offered every other year<br><br></p><div style="display: none; z-index: 1000;" class="tooltip for_tt7818"></div></div>		</td>
+	</tr>
+</table>
+<br>

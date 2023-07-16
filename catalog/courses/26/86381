@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('26', '3', '86381', '', this, ''); return false;">
+				MATH 226 - Modern Algebra II			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=26&coid=86381&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>MATH 226 - Modern Algebra II </h3>  <hr>In the early 1800s, Abel showed that a general equation of degree at least five cannot be solved by extracting roots. Today, group theory, developed by Galois to determine which equations are solvable, is used throughout mathematics and in much of physics and chemistry. This course focuses on groups and Galois theory. Other possible topics include canonical forms of matrices and modules.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=26&coid=86380" onclick="acalogPopup('preview_course.php?catoid=26&coid=86380&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=26&coid=86380&display_options[location]=tooltip&show" id="tt337" target="_blank">MATH 225</a><span style="display: none !important">&#160;</span>.<br><br><strong>Anticipated Terms Offered:</strong> Offered every other year<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt337"></div></div>		</td>
+	</tr>
+</table>
+<br>

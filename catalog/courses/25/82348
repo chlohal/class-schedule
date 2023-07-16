@@ -1,0 +1,18 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('25', '3', '82348', '', this, ''); return false;">
+				MIS 5573 - Business Intelligence			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=25&coid=82348&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>MIS 5573 - Business Intelligence </h3>  <p><hr>By leveraging enterprise information assets, business intelligence tools and technologies can help businesses become more efficient and effective in their operations. Business Intelligence utilizes technology, expertise, knowledge, statistics, and creative thinking to find solutions to problems. The focus of this class is to learn about enterprise approaches to business intelligence through case studies, decision support systems (DSS), development methodologies and enabling technologies. This course will provide students experience to conduct an analytic project from gathering the data to interpretation in the business intelligence technologies such as Tableau, KNIME, frontline solver, and others.</p>
+
+<p>The analytics content is divided into three parts: descriptive, predictive and prescriptive analytics. The descriptive analytics will take around four to five weeks and will be performed in Tableau. The following four to five weeks will be spent to learn predictive analytics methods using KNIME software. The remaining weeks will be utilized to learn linear programming and other prescriptive analytics methods using Excel Frontline Software. The course also involves a project in the form of a creative component. The details are given later in the syllabus.</p>
+
+<p>At the end of course, students will develop an understanding about the role of computer based information systems in direct support of managerial decision making.<br>
+ <br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=25&coid=82338" onclick="acalogPopup('preview_course.php?catoid=25&coid=82338&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=25&coid=82338&display_options[location]=tooltip&show" id="tt7982" target="_blank">MIS 4500</a><span style="display: none !important">&#160;</span> <br><br><strong>Corequisites:</strong> <a href="preview_course_nopop.php?catoid=25&coid=82339" onclick="acalogPopup('preview_course.php?catoid=25&coid=82339&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=25&coid=82339&display_options[location]=tooltip&show" id="tt6519" target="_blank">MIS 5501</a><span style="display: none !important">&#160;</span> <br><br><strong>Anticipated Terms Offered:</strong> Offered annually<br><br></p><div style="display: none; z-index: 1000;" class="tooltip for_tt7982"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt6519"></div></div>		</td>
+	</tr>
+</table>
+<br>

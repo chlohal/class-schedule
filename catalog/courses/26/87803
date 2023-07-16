@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('26', '3', '87803', '', this, ''); return false;">
+				CSCI 2040 - Data Communication			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=26&coid=87803&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>CSCI 2040 - Data Communication </h3>  <hr>The main goal of this course is to provide you with a comprehensive understanding of data communications and networking technologies, concepts and terminology. Students learn how to design, install, maintain and troubleshoot both local area networks (LANs) and wide area networks (WANs). Students will learn the basics of telecommunications, home and office networking technologies, wireless networking technologies, protocols of data communications, LAN cabling, and internetworking. This course prepares students to sit for CompTIA¿s Net+ certification examinations. You will learn about the equipment and technologies used in LANs and WANs. You will learn about the network topologies used today and design a network using these topologies. A variety of network equipment will be discussed, including hubs, routers, switches, and NICs. LAN architectures are covered including Ethernet, token ring, and FDDI. Also, you will learn about wide area networking technologies and remote access technologies such as X.25, ISDN, frame relay, ATM, DSL, SMDS, and SONET networks. Wireless networking and handheld computing is also discussed.<br><br><strong>Anticipated Terms Offered:</strong> varies<br><br></div>		</td>
+	</tr>
+</table>
+<br>

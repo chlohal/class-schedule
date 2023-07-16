@@ -1,0 +1,16 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('25', '3', '83852', '', this, ''); return false;">
+				GEOG 330 - Introduction to Species Distribution Modeling			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=25&coid=83852&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>GEOG 330 - Introduction to Species Distribution Modeling </h3>  <p><hr>An Introduction to species distribution modeling methods and applications.  Species distribution models (SDM), are increasingly used to evaluate the impacts of global change on biodiversity, to assess protection status, and for protected areas planning. The course starts with an introduction to ecological niche modeling, and continues with topics of data gathering, pre-processing, modeling (including statistical and machine learning algorithms), and validation. Topics will be covered through a combination of lectures, discussion of assigned readings and hands-on exercises.</p>
+
+<p><br>
+ <br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=25&coid=82096" onclick="acalogPopup('preview_course.php?catoid=25&coid=82096&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=25&coid=82096&display_options[location]=tooltip&show" id="tt555" target="_blank">IDCE 310</a><span style="display: none !important">&#160;</span>  <a href="preview_course_nopop.php?catoid=25&coid=81694" onclick="acalogPopup('preview_course.php?catoid=25&coid=81694&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=25&coid=81694&display_options[location]=tooltip&show" id="tt5724" target="_blank">GEOG 190</a><span style="display: none !important">&#160;</span> <span class="acalog-permalink-inactive">ID 190</span><span style="display: none !important">&#160;</span> Introduction to GIS<br><br><strong>Anticipated Terms Offered:</strong> annually<br><br></p><div style="display: none; z-index: 1000;" class="tooltip for_tt555"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt5724"></div></div>		</td>
+	</tr>
+</table>
+<br>

@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('29', '3', '99735', '', this, ''); return false;">
+				MSIT 3350 - Data Mining With Splunk			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=29&coid=99735&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>MSIT 3350 - Data Mining With Splunk </h3>  <hr>The Internet of Things (IoT) is the standard platform for billions of smart devices that generate machine log data. Splunk Enterprise can harness and leverage this valuable machine data (which contains a definitive record of all user transactions, customer behavior, machine behavior, security threats, system health, fraudulent activity and more) to provide enterprises valuable business, operational, and security intelligence. Coursework will cover Business Intelligence key concepts, Splunk Enterprise architecture and hands-on working sessions requiring students to install Splunk to complete the exercises (mine machine data, identify data patterns, create Splunk reports, dashboards, alerts, and applications). <br><br><strong>Anticipated Terms Offered:</strong> Varied<br><br></div>		</td>
+	</tr>
+</table>
+<br>

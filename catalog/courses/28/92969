@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('28', '3', '92969', '', this, ''); return false;">
+				ECON 303 - Macroeconomics - Growth			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=28&coid=92969&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>ECON 303 - Macroeconomics - Growth </h3>  <hr>This is one course in a two-semester core course series in Macroeconomics at the first-year graduate-level.  The focus of this course will be on the theory and empirics of the macroeconomics of the long-run; i.e., economic growth.  The treatment of topics will be mathematically rigorous.  Topics include the Neoclassical Growth model, the Optimal Growth model, Endogenous Technological growth models, Unified Growth theories, fundamental growth theories, and will also include a derivation of the Canonical Growth Regression and a detailed discussion of Growth Econometrics.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=28&coid=92967" onclick="acalogPopup('preview_course.php?catoid=28&coid=92967&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=28&coid=92967&display_options[location]=tooltip&show" id="tt9933" target="_blank">ECON 301</a><span style="display: none !important">&#160;</span><br><br><strong>Anticipated Terms Offered:</strong> Offered every year<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt9933"></div></div>		</td>
+	</tr>
+</table>
+<br>

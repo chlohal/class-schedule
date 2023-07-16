@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('28', '3', '94584', '', this, ''); return false;">
+				CSCI 1900 - Introduction to Computer Security Essentials			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=28&coid=94584&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>CSCI 1900 - Introduction to Computer Security Essentials </h3>  <hr>A practical survey of network security applications and standards. The emphasis is on applications and standards that are widely used on the Internet and for corporate networks.<br><br><strong>Anticipated Terms Offered:</strong> varies<br><br></div>		</td>
+	</tr>
+</table>
+<br>

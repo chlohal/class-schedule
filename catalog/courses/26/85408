@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('26', '3', '85408', '', this, ''); return false;">
+				CHEM 102 - Introductory Chemistry II			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=26&coid=85408&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>CHEM 102 - Introductory Chemistry II </h3>  <hr>Continues <a href="preview_course_nopop.php?catoid=26&coid=85407" onclick="acalogPopup('preview_course.php?catoid=26&coid=85407&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=26&coid=85407&display_options[location]=tooltip&show" id="tt7318" target="_blank">CHEM 101</a><span style="display: none !important">&#160;</span> with a discussion of thermodynamics, equilibrium theory, kinetics, electrochemistry and the application of such theories to studies of structure and reactivity of molecules. The laboratory studies experimental techniques related to the lecture material. In-class and final exams, laboratory reports and quizzes.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=26&coid=85407" onclick="acalogPopup('preview_course.php?catoid=26&coid=85407&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=26&coid=85407&display_options[location]=tooltip&show" id="tt2287" target="_blank">CHEM 101</a><span style="display: none !important">&#160;</span> or advanced placement.<br><br><strong>Course Designation/Attribute:</strong> SP<br><br><strong>Anticipated Terms Offered:</strong> Offered ever year<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt7318"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt2287"></div></div>		</td>
+	</tr>
+</table>
+<br>

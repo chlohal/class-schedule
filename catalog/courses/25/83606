@@ -1,0 +1,14 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('25', '3', '83606', '', this, ''); return false;">
+				MATH 220 - Introduction to Stochastic Modeling			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=25&coid=83606&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>MATH 220 - Introduction to Stochastic Modeling </h3>  <hr>Stochastic processes considered in this course are collections of random variables indexed by a time parameter. These processes are used to model the dynamics of random events over time. Our focus is on Markov chains in discrete and continuous time, which form a widely used and relatively simple class of stochastic processes. The Markov property basically says that the future random behavior depends only on the current state of the process, and not on its past. These processes are used in a wide range of fields such as physics, chemistry, information sciences, queuing theory, statistics, economics and finance, social sciences, mathematical biology, and many more. This course is not only well suited for math majors but also for students in other fields with a background in probability and an interest in modeling.<br>
+Poisson processes which model events that occur continuously and independently of each other form a particular class of continuous time Markov processes. Examples include such diverse phenomena as the radioactive decay of atoms and telephone calls arriving at a call center. The probability distribution of the waiting time until the next occurrence of an event in a Poisson process is an exponential distribution. The generalization of waiting time to arbitrary distribution leads to the notion of renewal processes, which are often more realistic but harder to analyze. We will use these processes to model problems in a variety of fields, depending on students&#8217; interests.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=25&coid=82273" onclick="acalogPopup('preview_course.php?catoid=25&coid=82273'+((location.search.match(/&print/i)) ? '&print' : '')+'', '3', 770, 530, 'yes');return false;" target="_blank" aria-label="MATH 217 opens a new window">MATH 217</a><span style="display: none !important">&#160;</span><br><br><strong>Anticipated Terms Offered:</strong> Every other Spring<br><br></div>		</td>
+	</tr>
+</table>
+<br>

@@ -1,0 +1,21 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('29', '3', '100002', '', this, ''); return false;">
+				BIOT 1300 - Introduction to Bioinformatics			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=29&coid=100002&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>BIOT 1300 - Introduction to Bioinformatics </h3>  <p><hr>This course will provide students with a technical foundation and an understanding of the current advances in bioinformatics and database analytics searches.  These fields have grown significantly and become an essential tool for professionals in health care, biotechnology, forensic science, diagnostic and medical research.</p>
+
+<p>The course will focus on the science of DNA sequencing and databases assembly, leading to the extrapolation of protein structures through in silico modeling.  Some discussion of the sequencing technology, hardware, software and programming languages are integrated into the course, so that students will appreciate the impact of the recent technical and technological advances propelling this discipline.  Furthermore, the practice of artificial intelligence and machine learning will be critical for our understanding of gene expression, metabolic pathway, and system biology.  Together, this integrative knowledge has allowed major breakthroughs in drug discovery for the biotech industry.<br><br><strong>Prerequisites:</strong> BIOL 1010 Intro to Biology I</p>
+
+<p><a href="preview_course_nopop.php?catoid=29&coid=99356" onclick="acalogPopup('preview_course.php?catoid=29&coid=99356&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=99356&display_options[location]=tooltip&show" id="tt4388" target="_blank"> CHEM 1010 - Introduction to Chemistry I</a><span style="display: none !important">&#160;</span> </p>
+
+<p>BIOL 1180 Genetics</p>
+
+<p><a href="preview_course_nopop.php?catoid=29&coid=99974" onclick="acalogPopup('preview_course.php?catoid=29&coid=99974&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=99974&display_options[location]=tooltip&show" id="tt6194" target="_blank"> BCMB 2000 - Biochemistry I</a><span style="display: none !important">&#160;</span> <br><br><strong>Anticipated Terms Offered:</strong> fall, spring<br><br></p><div style="display: none; z-index: 1000;" class="tooltip for_tt4388"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt6194"></div></div>		</td>
+	</tr>
+</table>
+<br>

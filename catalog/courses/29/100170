@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('29', '3', '100170', '', this, ''); return false;">
+				GAME 165 - Game Audio 1			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=29&coid=100170&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>GAME 165 - Game Audio 1 </h3>  <hr>This course focuses on game audio production, and the techniques and methodologies commonly used in implementing sound and music assets into an electronic game environment. Game engine components are introduced, as well as middleware tools for designing interactive, dynamic and adaptive systems. Asset management and general project workflow will be examined as part of the game development structure.<br><br><strong>Prerequisites:</strong> GAME 130 and GAME 090<br><br><strong>Anticipated Terms Offered:</strong> Fall<br><br></div>		</td>
+	</tr>
+</table>
+<br>

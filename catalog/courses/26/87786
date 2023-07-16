@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('26', '3', '87786', '', this, ''); return false;">
+				CSCI 2930 - Project Management			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=26&coid=87786&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>CSCI 2930 - Project Management </h3>  <hr>This course provides you with a practical understanding of successful IT project planning and management in a business or personal setting. Emphasis will be on using project management tools and techniques tailored for small and medium-sized organizations. The course will help you to develop your project management skills and provide you with the tools required to manage all phases of project including initiation, planning, executing, controlling and closing projects. The use of project management techniques such as developing a project charter, stakeholder identification, developing the scope of the project via a work breakdown structure (WBS), schedule development, team management and tracking projects will be covered. The role of the successful project manager will also be discussed.<br><br><strong>Anticipated Terms Offered:</strong> varies<br><br></div>		</td>
+	</tr>
+</table>
+<br>

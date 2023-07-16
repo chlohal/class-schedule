@@ -1,0 +1,19 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('29', '3', '100254', '', this, ''); return false;">
+				CSCI 244 - Web Development			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=29&coid=100254&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>CSCI 244 - Web Development </h3>  <hr>The course introduces foundational web-development concepts and skills for building modern fullstack applications. This course is designed for computer science majors who already have basic<br>
+programming and software engineering knowledge. The goal is to let students experience front-end and<br>
+back-end development by learning essential web-programming languages, having hands-on tutorials, and<br>
+building real-world applications. The course focuses on the front-end but covers basic knowledge in the<br>
+back-end. The course covers internet basics, HTML, CSS, JavaScript, React, RESTful API, NodeJS, and<br>
+database. Through the course, students are expected to be able to design, develop, and deploy full-stack<br>
+web applications for different use cases.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=29&coid=97254" onclick="acalogPopup('preview_course.php?catoid=29&coid=97254&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=97254&display_options[location]=tooltip&show" id="tt6973" target="_blank">CSCI 160</a><span style="display: none !important">&#160;</span> or <a href="preview_course_nopop.php?catoid=29&coid=97253" onclick="acalogPopup('preview_course.php?catoid=29&coid=97253&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=97253&display_options[location]=tooltip&show" id="tt2702" target="_blank">CSCI 140</a><span style="display: none !important">&#160;</span> or <a href="preview_course_nopop.php?catoid=29&coid=97255" onclick="acalogPopup('preview_course.php?catoid=29&coid=97255&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=97255&display_options[location]=tooltip&show" id="tt6740" target="_blank">CSCI 170</a><span style="display: none !important">&#160;</span> <br><br><strong>Course Designation/Attribute:</strong> POP<br><br><strong>Anticipated Terms Offered:</strong> Bi-annually<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt6973"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt2702"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt6740"></div></div>		</td>
+	</tr>
+</table>
+<br>

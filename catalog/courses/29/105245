@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('29', '3', '105245', '', this, ''); return false;">
+				CSCI 103 - Introduction to Societal Computing			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=29&coid=105245&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>CSCI 103 - Introduction to Societal Computing </h3>  <hr>This course teaches the principles of computer science and the effects of digital technology on society. Although digital technology may feel like a force of nature, ultimately it is people who decide how technology is developed, and how it is deployed; we are responsible for maximizing technology&#8217;s benefits, while minimizing its downsides. However, it is impossible to meaningfully discuss technology without understanding how it works. This course teaches introductory computer programming and other relevant computing skills. No prior experience with computer programming is expected. Upon completing this course, you will have a solid understanding of how computer programs are created and how information is stored digitally. You will also have developed opinions about digital privacy, technological bias, and other matters of critical importance to society<br><br><strong>Course Designation/Attribute:</strong> FA, DI<br><br><strong>Anticipated Terms Offered:</strong> Annually or Each Semester<br><br></div>		</td>
+	</tr>
+</table>
+<br>

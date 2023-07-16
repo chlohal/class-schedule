@@ -1,0 +1,17 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('25', '3', '81015', '', this, ''); return false;">
+				ACCT 5104 - Accounting Information Systems			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=25&coid=81015&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>ACCT 5104 - Accounting Information Systems </h3>  <p><hr>Accountants need thorough knowledge of computer-based information systems and their role in accounting and finance functions and in managerial decision-making. In addition, this course also covers use of information systems in design and execution of financial and internal audits.  It also deals with the nature and flows of accounting information in various processes and organizations, information security, ramifications of Sarbanes-Oxley act, challenges of rapid changes in information technology. Students will work with data collection and management software.</p>
+
+<p> </p>
+
+<p> <br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=25&coid=81011" onclick="acalogPopup('preview_course.php?catoid=25&coid=81011'+((location.search.match(/&print/i)) ? '&print' : '')+'', '3', 770, 530, 'yes');return false;" target="_blank" aria-label="ACCT 4100 opens a new window">ACCT 4100</a><span style="display: none !important">&#160;</span>, or <a href="preview_course_nopop.php?catoid=25&coid=83907" onclick="acalogPopup('preview_course.php?catoid=25&coid=83907&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=25&coid=83907&display_options[location]=tooltip&show" id="tt2736" target="_blank">ACCT 4101</a><span style="display: none !important">&#160;</span>, or waiver.<br><br><strong>Anticipated Terms Offered:</strong> Varies<br><br></p><div style="display: none; z-index: 1000;" class="tooltip for_tt2736"></div></div>		</td>
+	</tr>
+</table>
+<br>

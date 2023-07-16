@@ -1,0 +1,18 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('25', '3', '83967', '', this, ''); return false;">
+				IDCE 339 - Spatial Statistics with R			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=25&coid=83967&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>IDCE 339 - Spatial Statistics with R </h3>  <hr>The objective of this course is to introduce students to the broad range of spatial statistical techniques available in the R statistical software to manage, visualize and estimate models applicable to spatial data. This course is ideal for students who want to learn R, study in depth spatial statistical techniques developed by the research community, and apply them to address research questions of their own interest. Topics include an introduction to R, how spatial data are managed and mapped using R, different functions that assess spatial point patterns, extensive capabilities of R to create a variety of spatial weights, global and local tests of spatial autocorrelation, fitting simultaneous and conditional autoregressive models, and geostatistical analysis. Different spatial statistical techniques will be demonstrated during the class and students will work on weekly assignments in order to master the material.<br>
+Prerequisites: IDCE302 Python Programming (or another introduction to programming course) and IDCE388 Advanced Vector GIS.<br>
+<br>
+ <br><br><strong>Prerequisites:</strong> IDCE302 Python Programming (or another introduction to programming course) and IDCE388 Advanced Vector GIS. Or by permission<br>
+<br>
+ <br><br><strong>Anticipated Terms Offered:</strong> Annually<br><br></div>		</td>
+	</tr>
+</table>
+<br>

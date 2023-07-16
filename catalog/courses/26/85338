@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('26', '3', '85338', '', this, ''); return false;">
+				BIOL 118 - Genetics			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=26&coid=85338&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>BIOL 118 - Genetics </h3>  <hr>Investigates the nature of genes and genomes in both prokaryotes and eukaryotes. A combination of approaches from classical Mendelian and modern Molecular Genetics are explored in order to examine the inheritance of both nuclear and extranuclear genes, how genes are expressed and regulated, mutation and DNA repair, and the nature of chromosome-level mutation. Also includes an integrated laboratory that highlights many aspects of the lectures and involves a bioinformatic annotation project using a novel genome.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=26&coid=85328" onclick="acalogPopup('preview_course.php?catoid=26&coid=85328&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=26&coid=85328&display_options[location]=tooltip&show" id="tt9651" target="_blank">BIOL 101</a><span style="display: none !important">&#160;</span> or <span class="acalog-permalink-inactive">BIOL 103</span><span style="display: none !important">&#160;</span>, and <a href="preview_course_nopop.php?catoid=26&coid=85329" onclick="acalogPopup('preview_course.php?catoid=26&coid=85329&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=26&coid=85329&display_options[location]=tooltip&show" id="tt3524" target="_blank">BIOL 102</a><span style="display: none !important">&#160;</span>.<br><br><strong>Anticipated Terms Offered:</strong> Offered every year.<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt9651"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt3524"></div></div>		</td>
+	</tr>
+</table>
+<br>

@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('25', '3', '83165', '', this, ''); return false;">
+				PHYS 169 - Information Theory, Inference, and Networks			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=25&coid=83165&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>PHYS 169 - Information Theory, Inference, and Networks </h3>  <hr><span style="color:#000000;font-family:'times new roman', serif;font-size:12pt;">This course will explore the basic concepts of Information theory &#8211; a topic that lies at the heart of many exciting areas of contemporary science and engineering &#8211; and its applications to statistical inference and network theory. Topics covered in the course include entropy as a measure of information, mutual information, information transmission and communication through noiseless or noisy channels, maximum likelihood methods for data analysis, and neural network models. The basic concepts developed will be applied to examples from a wide range of academic fields such as data compression and storage, biophysics, signal processing, neuroscience, machine learning, and finance, where information theory can be related to the theory of optimal investment in the stock market. Finally we will discuss how methods from information theory can be used to study and quantify interaction networks, a subject that lies at the heart of the modern science of complex systems. </span><br><br><strong>Prerequisites:</strong> <span style="color:#000000;font-family:'times new roman', serif;font-size:12pt;">Math 120 or Math 124, and Math 121 or Math 125</span><br><br><strong>Anticipated Terms Offered:</strong> varied<br><br></div>		</td>
+	</tr>
+</table>
+<br>

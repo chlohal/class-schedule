@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('28', '3', '96914', '', this, ''); return false;">
+				CSCI 301 - Introduction to Computing			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=28&coid=96914&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>CSCI 301 - Introduction to Computing </h3>  <hr>Develops computational problem-solving skills through programming, and exposes students to a variety of other topics from computer science and its applications. The focus of the course is to learn fundamental computational concepts (information, algorithms, abstraction and programming) that are central to computer science, and that also happen to be instrumental for the computational investigation of science. Design, analysis, and testing of problem-solving techniques are applied to a variety of domains across the sciences and liberal arts. This is the first course for computer science majors and anyone seeking a rigorous introduction. No prior knowledge of programming is required, but good analytical skills are helpful<br><br><strong>Anticipated Terms Offered:</strong> Fall 2021<br><br></div>		</td>
+	</tr>
+</table>
+<br>

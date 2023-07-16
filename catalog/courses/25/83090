@@ -1,0 +1,17 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('25', '3', '83090', '', this, ''); return false;">
+				MIS 5900 - Special Topics in Management Information Systems			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=25&coid=83090&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>MIS 5900 - Special Topics in Management Information Systems </h3>  <p><hr>Each year, the Graduate School of Management offers courses under the &#8220;special topics&#8221; category. These courses are often different each semester and can be either .5 or one unit courses. For descriptions of current special topics courses, please see the <a href="http://www.clarku.edu/gsom/currentstudents/courses/index.cfm" target="_blank">Course Descriptions</a> page on GSOM&#8217;s website.</p>
+
+<p><em>May be repeted for credit.</em></p>
+
+<p> <br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=25&coid=82338" onclick="acalogPopup('preview_course.php?catoid=25&coid=82338'+((location.search.match(/&print/i)) ? '&print' : '')+'', '3', 770, 530, 'yes');return false;" target="_blank" aria-label="MIS 4500 opens a new window">MIS 4500</a><span style="display: none !important">&#160;</span> <br><br><strong>Anticipated Terms Offered:</strong> Varies<br><br></p></div>		</td>
+	</tr>
+</table>
+<br>

@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('29', '3', '99638', '', this, ''); return false;">
+				STAT 4600 - Intermediary Statistical Modeling for Analytics			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=29&coid=99638&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>STAT 4600 - Intermediary Statistical Modeling for Analytics </h3>  <hr>Intermediary Statistical Modeling for Analytics emphasizes understanding descriptive and diagnostic methodologies to identify critical aspects of a business question, from data collection to the formulation and testing of hypotheses. This course is essentially a data science course emphasizing statistical methodologies. At the same time, the course emphasizes the practical aspects of business analytics by embedding the methodologies in applications and underlining the general objective of improving the speed, reliability, and quality of decisions. Topics include sampling, inferential statistics, statistical visualization, and linear regression. The course uses real-life data sets as illustrations and R to build answers to business questions.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=29&coid=99637" onclick="acalogPopup('preview_course.php?catoid=29&coid=99637&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=99637&display_options[location]=tooltip&show" id="tt9402" target="_blank">STAT 4450</a><span style="display: none !important">&#160;</span>  and <a href="preview_course_nopop.php?catoid=29&coid=99733" onclick="acalogPopup('preview_course.php?catoid=29&coid=99733&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=99733&display_options[location]=tooltip&show" id="tt4038" target="_blank">BAN 4550</a><span style="display: none !important">&#160;</span> <br><br><strong>Anticipated Terms Offered:</strong> Offered annually<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt9402"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt4038"></div></div>		</td>
+	</tr>
+</table>
+<br>

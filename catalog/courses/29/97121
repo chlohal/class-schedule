@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('29', '3', '97121', '', this, ''); return false;">
+				BIOL 240 - Comparative and Human Physiology			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=29&coid=97121&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>BIOL 240 - Comparative and Human Physiology </h3>  <hr>Introduces the principles underlying the physical and chemical processes that maintain animal life. Lectures cover the interdependent function of molecules, cells, organs and tissues as they relate to organismal performance. Human physiology is emphasized from a comparative standpoint.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=29&coid=97102" onclick="acalogPopup('preview_course.php?catoid=29&coid=97102&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=97102&display_options[location]=tooltip&show" id="tt4399" target="_blank">BIOL 137</a><span style="display: none !important">&#160;</span> or <a href="preview_course_nopop.php?catoid=29&coid=97078" onclick="acalogPopup('preview_course.php?catoid=29&coid=97078&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=97078&display_options[location]=tooltip&show" id="tt3109" target="_blank">BCMB 271</a><span style="display: none !important">&#160;</span> or <a href="preview_course_nopop.php?catoid=29&coid=97099" onclick="acalogPopup('preview_course.php?catoid=29&coid=97099&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=97099&display_options[location]=tooltip&show" id="tt1181" target="_blank">BIOL 111</a><span style="display: none !important">&#160;</span> <br><br><strong>Anticipated Terms Offered:</strong> Offered every other year.<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt4399"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt3109"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt1181"></div></div>		</td>
+	</tr>
+</table>
+<br>

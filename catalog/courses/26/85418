@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('26', '3', '85418', '', this, ''); return false;">
+				CHEM 236 - Organometallic Chemistry			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=26&coid=85418&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>CHEM 236 - Organometallic Chemistry </h3>  <hr>Covers material related to compounds containing one or more covalent metal-carbon bonds. The material progresses from the traditional organometallics, such as Grignards and cuprates, through the transition metal and main group complexes. Emphasis is placed on the properties of organometallic compounds and mechanisms of their formation and subsequent reactions. Because of the continuing development of the field, use of the primary literature is stressed. A comparison of traditional organic and inorganic chemistry is developed through this intermediate field.<br><br><strong>Prerequisites:</strong>  <a href="preview_course_nopop.php?catoid=26&coid=85411" onclick="acalogPopup('preview_course.php?catoid=26&coid=85411&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=26&coid=85411&display_options[location]=tooltip&show" id="tt9473" target="_blank">CHEM 132</a><span style="display: none !important">&#160;</span> and <a href="preview_course_nopop.php?catoid=26&coid=85420" onclick="acalogPopup('preview_course.php?catoid=26&coid=85420&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=26&coid=85420&display_options[location]=tooltip&show" id="tt4333" target="_blank">CHEM 250</a><span style="display: none !important">&#160;</span> or permission of instructor.  Chem 250 may be taken as a co-requisite<br><br><strong>Anticipated Terms Offered:</strong> Offered every other year<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt9473"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt4333"></div></div>		</td>
+	</tr>
+</table>
+<br>

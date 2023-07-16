@@ -1,0 +1,15 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('29', '3', '98023', '', this, ''); return false;">
+				MATH 114 - Discrete Mathematics			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=29&coid=98023&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>MATH 114 - Discrete Mathematics </h3>  <p><hr>Covers mathematical structures that naturally arise in computer science. Includes elementary logic and set theory, equivalence relations, functions, counting arguments, asymptotic complexity, inductively defined sets, recursion, graphs and trees, Boolean algebra and combinatorial circuits, finite state automata, and diagonalization and countability arguments. Emphasizes proofs and problem solving.</p>
+
+<p>Suggested for CS Majors.<br><br><strong>Prerequisites:</strong> One semester of calculus (<a href="preview_course_nopop.php?catoid=29&coid=98025" onclick="acalogPopup('preview_course.php?catoid=29&coid=98025&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=98025&display_options[location]=tooltip&show" id="tt3687" target="_blank">MATH 120</a><span style="display: none !important">&#160;</span> or <a href="preview_course_nopop.php?catoid=29&coid=98027" onclick="acalogPopup('preview_course.php?catoid=29&coid=98027&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=98027&display_options[location]=tooltip&show" id="tt7839" target="_blank">MATH 124</a><span style="display: none !important">&#160;</span>) or <a href="preview_course_nopop.php?catoid=29&coid=97250" onclick="acalogPopup('preview_course.php?catoid=29&coid=97250&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=97250&display_options[location]=tooltip&show" id="tt7746" target="_blank">CSCI 120</a><span style="display: none !important">&#160;</span>.<br><br><strong>Course Designation/Attribute:</strong> FA<br><br><strong>Anticipated Terms Offered:</strong> Offered every year<br><br></p><div style="display: none; z-index: 1000;" class="tooltip for_tt3687"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt7839"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt7746"></div></div>		</td>
+	</tr>
+</table>
+<br>

@@ -1,0 +1,14 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('25', '3', '82990', '', this, ''); return false;">
+				MATH 102 - Concepts of Elementary Mathematics II			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=25&coid=82990&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>MATH 102 - Concepts of Elementary Mathematics II </h3>  <p><hr>This is the second part of the two-semester sequence described in  <a href="preview_course_nopop.php?catoid=25&coid=82253" onclick="acalogPopup('preview_course.php?catoid=25&coid=82253'+((location.search.match(/&print/i)) ? '&print' : '')+'', '3', 770, 530, 'yes');return false;" target="_blank" aria-label="MATH 101 opens a new window">MATH 101</a><span style="display: none !important">&#160;</span></p>
+<p> <br><br><strong>Anticipated Terms Offered:</strong> Offered every year<br><br></p></div>		</td>
+	</tr>
+</table>
+<br>

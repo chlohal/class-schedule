@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('25', '3', '81104', '', this, ''); return false;">
+				BCMB 228 - Molecular Genetics			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=25&coid=81104&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>BCMB 228 - Molecular Genetics </h3>  <hr>Explores recent discoveries in the molecular genetics of prokaryotes and eukaryotes, with emphasis on new findings related to catalytic activities of RNA. Topics include: protein synthesis, RNA transcription, gene regulation, RNA splicing, catalytic RNA and origins of living systems. Intended primarily for seniors and graduate students.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=25&coid=81109" onclick="acalogPopup('preview_course.php?catoid=25&coid=81109&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=25&coid=81109&display_options[location]=tooltip&show" id="tt5658" target="_blank">BCMB 271</a><span style="display: none !important">&#160;</span> or <a href="preview_course_nopop.php?catoid=25&coid=81133" onclick="acalogPopup('preview_course.php?catoid=25&coid=81133&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=25&coid=81133&display_options[location]=tooltip&show" id="tt8889" target="_blank">BIOL 118</a><span style="display: none !important">&#160;</span>  or permission of instructor.<br><br><strong>Anticipated Terms Offered:</strong> Offered every year<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt5658"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt8889"></div></div>		</td>
+	</tr>
+</table>
+<br>

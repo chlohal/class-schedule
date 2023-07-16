@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('26', '3', '86363', '', this, ''); return false;">
+				MATH 119 - Precalculus Mathematics			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=26&coid=86363&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>MATH 119 - Precalculus Mathematics </h3>  <hr>Intended for students who plan to go on to calculus. MATH 119 is to be used, when necessary, as preparation for <a href="preview_course_nopop.php?catoid=26&coid=86364" onclick="acalogPopup('preview_course.php?catoid=26&coid=86364&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=26&coid=86364&display_options[location]=tooltip&show" id="tt8933" target="_blank">MATH 120</a><span style="display: none !important">&#160;</span> or <a href="preview_course_nopop.php?catoid=26&coid=86366" onclick="acalogPopup('preview_course.php?catoid=26&coid=86366&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=26&coid=86366&display_options[location]=tooltip&show" id="tt4812" target="_blank">MATH 124</a><span style="display: none !important">&#160;</span> and does not satisfy any requirement of either the major or the minor in mathematics or computer science. Students should have a solid grasp of elementary algebra. Covers more advanced algebraic techniques (linear and nonlinear inequalities, quadratic equations, linear systems) and gives a rigorous look at elementary functions (polynomial, exponential, logarithmic, trigonometric).<br><br><strong>Prerequisites:</strong> A suitable score on the mathematics placement test.<br><br><strong>Anticipated Terms Offered:</strong> Offered every semester<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt8933"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt4812"></div></div>		</td>
+	</tr>
+</table>
+<br>

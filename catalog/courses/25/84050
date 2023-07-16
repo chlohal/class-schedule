@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('25', '3', '84050', '', this, ''); return false;">
+				BIOL 212 - Microbiomes			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=25&coid=84050&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>BIOL 212 - Microbiomes </h3>  <hr>The course will explore current research on microbiomes found in a variety of habitats:  human and plant associated, marine, and soil. Through a mixture of lectures and discussions, students will learn about core ecological concepts relevant to microbiomes and microbiology. Throughout the course, students will read primary scientific literature and gain practical skills in how to understand and interpret research articles. Students will learn about current sequencing and molecular techniques (including 16S rDNA sequncing, metagenomics, and metatranscriptomics) used to study microbiomes. Each student will give a final presentation on a microbiome research article of their choice.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=25&coid=81129" onclick="acalogPopup('preview_course.php?catoid=25&coid=81129&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=25&coid=81129&display_options[location]=tooltip&show" id="tt2946" target="_blank">BIOL 109</a><span style="display: none !important">&#160;</span> - Microbiology<br><br><strong>Anticipated Terms Offered:</strong> Spring Annually<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt2946"></div></div>		</td>
+	</tr>
+</table>
+<br>

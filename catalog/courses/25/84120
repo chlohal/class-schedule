@@ -1,0 +1,15 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('25', '3', '84120', '', this, ''); return false;">
+				MGMT 212 - Project Management			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=25&coid=84120&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>MGMT 212 - Project Management </h3>  <hr><p style="margin-left:-.25pt;">The course introduces students to basic project management concepts and techniques.  Students will study contemporary problems and challenges and apply the latest techniques for tracking and controlling projects, managing innovation under cost and time pressures, managing project teams in decentralized organizations, and dealing with interruptions, risks, issues conflict and commitments.</p>
+
+<p style="margin-left:-.25pt;">This is a 0.5 unit course. Students may take a combination of two 0.5 unit courses to meet 1 unit of Management Elective requirements.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=25&coid=82283" onclick="acalogPopup('preview_course.php?catoid=25&coid=82283&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=25&coid=82283&display_options[location]=tooltip&show" id="tt3539" target="_blank">MGMT 100</a><span style="display: none !important">&#160;</span> <br><br><strong>Anticipated Terms Offered:</strong> Periodically<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt3539"></div></div>		</td>
+	</tr>
+</table>
+<br>

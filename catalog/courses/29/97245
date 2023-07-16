@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('29', '3', '97245', '', this, ''); return false;">
+				CSCI 099 - Computers In Our World			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=29&coid=97245&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>CSCI 099 - Computers In Our World </h3>  <hr>An introduction to computer technology with an emphasis on social implications where applicable. Lectures will survey topics such as history of computer development from number-crunchers to information-management systems, how computers work, networking protocols including the Internet and World Wide Web. Additionally, the course will explore data representation and programming. Students will learn binary algebra and develop two or three short programs. A laboratory component will give students hands-on experience with software applications, which demonstrate the possibilities enabled by current computer technology. Not applicable to the major requirements in computer science.<br><br><strong>Prerequisites:</strong> no prior computer experience is necessary.<br><br><strong>Course Designation/Attribute:</strong> FA<br><br><strong>Anticipated Terms Offered:</strong> Offered periodically<br><br></div>		</td>
+	</tr>
+</table>
+<br>

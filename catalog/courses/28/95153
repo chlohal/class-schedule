@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('28', '3', '95153', '', this, ''); return false;">
+				BIOL 309 - The Genome Project			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=28&coid=95153&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>BIOL 309 - The Genome Project </h3>  <hr>The Genome Project offers students a unique opportunity to directly apply the bioinformatics and comparative genomics skills they acquired during Introduction to Bioinformatics (BINF 101) in the analysis of a novel genome. Each year, students will work collaboratively in small research teams to piece together the entire DNA blueprint of an organism with no existing reference genome. Students will evaluate and apply genome assembly, gene prediction, functional annotation, and variant discovery algorithms to better understand the genome structure, and functional biology of sequenced organisms. Analysis will be conducted within a LINUX environment through the Clark University Supercomputing Cluster.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=28&coid=92756" onclick="acalogPopup('preview_course.php?catoid=28&coid=92756&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=28&coid=92756&display_options[location]=tooltip&show" id="tt3544" target="_blank">MBB 101</a><span style="display: none !important">&#160;</span> <br><br><strong>Anticipated Terms Offered:</strong> Spring<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt3544"></div></div>		</td>
+	</tr>
+</table>
+<br>

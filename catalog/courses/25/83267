@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('25', '3', '83267', '', this, ''); return false;">
+				CSCI 2050 - Introduction to Operating Systems			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=25&coid=83267&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>CSCI 2050 - Introduction to Operating Systems </h3>  <hr>The most fundamental of all computer system programs is the operating system, which controls the computers resources and provides the foundation for application programs. This course introduces and investigates the fundamentals of operating systems. Among the areas discussed are process scheduling, memory management and file items. A case study is used to compare and contrast various operating systems.<br><br></div>		</td>
+	</tr>
+</table>
+<br>

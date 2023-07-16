@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('28', '3', '94332', '', this, ''); return false;">
+				PHYS 327 - Advanced Computer Simulation Laboratory			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=28&coid=94332&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>PHYS 327 - Advanced Computer Simulation Laboratory </h3>  <hr>Similar to <a href="preview_course_nopop.php?catoid=28&coid=94331" onclick="acalogPopup('preview_course.php?catoid=28&coid=94331&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=28&coid=94331&display_options[location]=tooltip&show" id="tt6173" target="_blank">PHYS 127</a><span style="display: none !important">&#160;</span> but more advanced. Suitable for graduate students in the sciences or undergraduates with prior programming experience.<br><br><strong>Prerequisites:</strong> Instructor permission.<br><br><strong>Anticipated Terms Offered:</strong> Offered every year<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt6173"></div></div>		</td>
+	</tr>
+</table>
+<br>

@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('29', '3', '100204', '', this, ''); return false;">
+				GCPT 020 - Computer Programming C++			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=29&coid=100204&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>GCPT 020 - Computer Programming C++ </h3>  <hr>This course will improve upon existing object-oriented programming skills and introduce new concepts in programming. Topics covered are classes/objects and constructors, overloading operators, strings, pointers, namespaces, encapsulation, and reading and writing files.<br><br><strong>Prerequisites:</strong> <span style="color:#000000;font-size:12pt;"><a href="preview_course_nopop.php?catoid=29&coid=100203" onclick="acalogPopup('preview_course.php?catoid=29&coid=100203&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=100203&display_options[location]=tooltip&show" id="tt9122" target="_blank">GCPT 010 - Computer Programming I</a><span style="display: none !important">&#160;</span> or <a href="preview_course_nopop.php?catoid=29&coid=97250" onclick="acalogPopup('preview_course.php?catoid=29&coid=97250&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=97250&display_options[location]=tooltip&show" id="tt829" target="_blank">CSCI 120 - Introduction to Computing</a><span style="display: none !important">&#160;</span> </span><br><br><strong>Anticipated Terms Offered:</strong> Fall & Spring<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt9122"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt829"></div></div>		</td>
+	</tr>
+</table>
+<br>

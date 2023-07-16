@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('28', '3', '92923', '', this, ''); return false;">
+				CSCI 160 - Algorithms			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=28&coid=92923&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>CSCI 160 - Algorithms </h3>  <hr>Emphasizes how the design of algorithms is supported by advanced data structures such as sets, trees, and graphs. Applications to searching and sorting are discussed. Topics include: design and analysis of algorithms, general trees, balanced trees, priority queues, hash tables, merge-sort, quick-sort, radix sorting and searching, and elementary graph algorithms. Programming projects are assigned for the laboratory component.<br><br><strong>Prerequisites:</strong> Prerequisites for this course require a grade of C- or better in (<a href="preview_course_nopop.php?catoid=28&coid=92920" onclick="acalogPopup('preview_course.php?catoid=28&coid=92920&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=28&coid=92920&display_options[location]=tooltip&show" id="tt6483" target="_blank">CSCI 121</a><span style="display: none !important">&#160;</span> or <a href="preview_course_nopop.php?catoid=28&coid=92921" onclick="acalogPopup('preview_course.php?catoid=28&coid=92921&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=28&coid=92921&display_options[location]=tooltip&show" id="tt3165" target="_blank">CSCI 124</a><span style="display: none !important">&#160;</span> ) and <a href="preview_course_nopop.php?catoid=28&coid=93697" onclick="acalogPopup('preview_course.php?catoid=28&coid=93697&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=28&coid=93697&display_options[location]=tooltip&show" id="tt9694" target="_blank">MATH 114</a><span style="display: none !important">&#160;</span>.<br><br><strong>Course Designation/Attribute:</strong> NA<br><br><strong>Anticipated Terms Offered:</strong> Offered every year<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt6483"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt3165"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt9694"></div></div>		</td>
+	</tr>
+</table>
+<br>

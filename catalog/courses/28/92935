@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('28', '3', '92935', '', this, ''); return false;">
+				CSCI 270 - Theory of Computation			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=28&coid=92935&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>CSCI 270 - Theory of Computation </h3>  <hr>Studies the nature and formal models of computation (by computers), its power and limitation (computability versus uncomputability), the computational complexity of various problems and the applications in logic and computer science. Turing machines, general recursive functions and other standard models of computation are introduced. Other aspects of recursion theory, such as unsolvable problems and recursively enumerable languages, are introduced. We also address the more practical question, &#8220;What is an efficient program?&#8221; in an introduction to modern complexity theory.<br><br><strong>Prerequisites:</strong> Prerequisites for this course require a grade of C- or better. <a href="preview_course_nopop.php?catoid=28&coid=92925" onclick="acalogPopup('preview_course.php?catoid=28&coid=92925&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=28&coid=92925&display_options[location]=tooltip&show" id="tt2376" target="_blank">CSCI 180</a><span style="display: none !important">&#160;</span>.<br><br><strong>Course Designation/Attribute:</strong> NA<br><br><strong>Anticipated Terms Offered:</strong> Offered Periodically<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt2376"></div></div>		</td>
+	</tr>
+</table>
+<br>

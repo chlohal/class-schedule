@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('28', '3', '96908', '', this, ''); return false;">
+				GCPT 020 - Computer Programming II			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=28&coid=96908&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>GCPT 020 - Computer Programming II </h3>  <hr>This course will improve upon existing object-oriented programming skills and introduce new concepts in programming. Topics covered are classes/objects and constructors, overloading operators, strings, pointers, namespaces, encapsulation, and reading and writing files.<br><br><strong>Prerequisites:</strong> GCPT 010<br><br><strong>Anticipated Terms Offered:</strong> Fall & Spring<br><br></div>		</td>
+	</tr>
+</table>
+<br>

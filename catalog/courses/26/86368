@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('26', '3', '86368', '', this, ''); return false;">
+				MATH 126 - Number Theory			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=26&coid=86368&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>MATH 126 - Number Theory </h3>  <hr>Introduces number theory and trains students to understand mathematical reasoning and to write proofs. Includes the unique factorization of integers as products of primes, the Euclidean algorithm, Diophantine equations, congruences, Fermat&#8217;s theorem and Euler&#8217;s theorem (and some applications: calendar problems, magic squares, cryptology).<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=26&coid=86364" onclick="acalogPopup('preview_course.php?catoid=26&coid=86364&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=26&coid=86364&display_options[location]=tooltip&show" id="tt6498" target="_blank">MATH 120</a><span style="display: none !important">&#160;</span> or <a href="preview_course_nopop.php?catoid=26&coid=86366" onclick="acalogPopup('preview_course.php?catoid=26&coid=86366&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=26&coid=86366&display_options[location]=tooltip&show" id="tt1266" target="_blank">MATH 124</a><span style="display: none !important">&#160;</span> <br><br><strong>Anticipated Terms Offered:</strong> Offered periodically<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt6498"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt1266"></div></div>		</td>
+	</tr>
+</table>
+<br>

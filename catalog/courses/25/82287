@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('25', '3', '82287', '', this, ''); return false;">
+				MGMT 203 - Management Accounting			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=25&coid=82287&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>MGMT 203 - Management Accounting </h3>  <hr>This course emphasizes accounting from the management perspective. Teaches students an understanding of internal reporting to managers for use in planning, controlling, and decision making. Topics include cost concepts, cost behavior, job-order costing, process costing, activity based costing, cost-volume-profit analysis, variable costing, segment reporting, budgeting, flexible budgets, variance analysis, decentralized organizations, and relevant costing. The course structure includes readings, lecture, discussions, and problem solving.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=25&coid=82284" onclick="acalogPopup('preview_course.php?catoid=25&coid=82284&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=25&coid=82284&display_options[location]=tooltip&show" id="tt5136" target="_blank">MGMT 101</a><span style="display: none !important">&#160;</span>; not open to first-year students.<br><br><strong>Anticipated Terms Offered:</strong> Offered every year<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt5136"></div></div>		</td>
+	</tr>
+</table>
+<br>

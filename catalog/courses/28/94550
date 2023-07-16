@@ -1,0 +1,15 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('28', '3', '94550', '', this, ''); return false;">
+				ART 2000 - Photography Projects			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=28&coid=94550&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>ART 2000 - Photography Projects </h3>  <p><hr>An advanced photography course for the individual who has made a commitment to the medium. Students will self-design a semester long project, and can explore one of many themes including: journalism, landscape, architecture, portraits, still life, personal images and alternative processes. This course is based on weekly critiques that are designed to encourage and stimulate students to develop a personal style. The goal for the semester is to conclude with a comprehensive portfolio. Some class meetings will be held off campus. Material fee: $100.00.</p>
+
+<p> <br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=28&coid=94715" onclick="acalogPopup('preview_course.php?catoid=28&coid=94715&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=28&coid=94715&display_options[location]=tooltip&show" id="tt2336" target="_blank"> ART 1030</a><span style="display: none !important">&#160;</span> or <a href="preview_course_nopop.php?catoid=28&coid=92711" onclick="acalogPopup('preview_course.php?catoid=28&coid=92711&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=28&coid=92711&display_options[location]=tooltip&show" id="tt1036" target="_blank"> ARTS 120</a><span style="display: none !important">&#160;</span> or ART 1040<br><br><strong>Anticipated Terms Offered:</strong> varied<br><br></p><div style="display: none; z-index: 1000;" class="tooltip for_tt2336"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt1036"></div></div>		</td>
+	</tr>
+</table>
+<br>

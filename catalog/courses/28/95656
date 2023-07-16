@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('28', '3', '95656', '', this, ''); return false;">
+				MSDA 3050 - Applied Machine Learning			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=28&coid=95656&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>MSDA 3050 - Applied Machine Learning </h3>  <hr>This course will be an investigation into the fundamental techniques and practices of machine learning (ML). The primary activities of the course will be a series of lectures and a corresponding series of lab sessions, programming projects, and written assignments. The course will focus on applying ML to practical problems in Data Science using Python and will also introduce the student to some of the fundamental theory of ML.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=28&coid=95583" onclick="acalogPopup('preview_course.php?catoid=28&coid=95583&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=28&coid=95583&display_options[location]=tooltip&show" id="tt5156" target="_blank">MSDA 3055</a><span style="display: none !important">&#160;</span> and <a href="preview_course_nopop.php?catoid=28&coid=95431" onclick="acalogPopup('preview_course.php?catoid=28&coid=95431&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=28&coid=95431&display_options[location]=tooltip&show" id="tt8496" target="_blank">MSIT 3090</a><span style="display: none !important">&#160;</span> <br><br><strong>Anticipated Terms Offered:</strong> Varied<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt5156"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt8496"></div></div>		</td>
+	</tr>
+</table>
+<br>

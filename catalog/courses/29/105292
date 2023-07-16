@@ -1,0 +1,15 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('29', '3', '105292', '', this, ''); return false;">
+				MSCS 3150 - Server Side Web Programming			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=29&coid=105292&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>MSCS 3150 - Server Side Web Programming </h3>  <p><hr>This course focuses on service-side web development using current technologies. The course balances conceptual topics with practical skills for designing, implementing, and modeling web services and data structures. Students learn key technologies and the roles they play in distributed computing.</p>
+
+<p> <br><br><strong>Anticipated Terms Offered:</strong> Annually<br><br></p></div>		</td>
+	</tr>
+</table>
+<br>

@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('28', '3', '92880', '', this, ''); return false;">
+				CHIN 105 - Advanced Chinese			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=28&coid=92880&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>CHIN 105 - Advanced Chinese </h3>  <hr>Course consolidates basic language skills after completion of CHIN 104. Emphasis is on communicative proficiency in the development of oral and written skills, self expression and cultural insight.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=28&coid=94932" onclick="acalogPopup('preview_course.php?catoid=28&coid=94932&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=28&coid=94932&display_options[location]=tooltip&show" id="tt6307" target="_blank">CHIN 104</a><span style="display: none !important">&#160;</span>  or equivalent.<br><br><strong>Anticipated Terms Offered:</strong> Offered every other semester<br><br><strong>Placement Guidelines</strong><br> Please visit the <a href="http://www.clarku.edu/departments/foreign/undergraduate/placement.cfm" target="_blank">Department of Language, Literature and Culture</a> for the language placement guidelines.<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt6307"></div></div>		</td>
+	</tr>
+</table>
+<br>

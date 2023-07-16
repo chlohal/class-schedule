@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('26', '3', '87705', '', this, ''); return false;">
+				BCMB 364 - Biophysical Chemistry			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=26&coid=87705&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>BCMB 364 - Biophysical Chemistry </h3>  <hr>Emphasizes the physical chemistry of biological macromolecules including-proteins and nucleic acids. Covers the basic laws of thermodynamics, molecular thermodynamics (including aspects of modeling macromolecular structure, molecular mechanics and molecular dynamics simulations), statistical thermodynamics, physical equilibria including ligand binding, kinetics quantum mechanics and spectroscopy, and solution behavior of macromolecules. The laboratory includes in silico and experimental projects.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=26&coid=85322" onclick="acalogPopup('preview_course.php?catoid=26&coid=85322&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=26&coid=85322&display_options[location]=tooltip&show" id="tt8522" target="_blank">BCMB 371</a><span style="display: none !important">&#160;</span> <br><br><strong>Anticipated Terms Offered:</strong> Offered Every Year<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt8522"></div></div>		</td>
+	</tr>
+</table>
+<br>

@@ -1,0 +1,25 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('25', '3', '81349', '', this, ''); return false;">
+				CSCI 201 - Proseminar In Computer Science			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=25&coid=81349&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>CSCI 201 - Proseminar In Computer Science </h3>  <p><hr>The presentation of topics in computer science by and for senior undergraduates. These presentations acquaint students with diverse subjects, introduce them to researching known topics and give them practice in presenting material to their peers. Faculty members will also present some research topics. Possible areas the topics may be drawn from might include robotics, networking, NP complete problems, neural networks, expert systems, parallel algorithms.</p>
+
+<p><strong>Spring 2020 - QUANTUM COMPUTING: </strong>One of the most exciting developments in computing history, which has only arisen in the  past quarter century, is that computers that make direct use of the laws of quantum mechanics would be dramatically faster than their classical counterparts. This course will study the most important elements of this still emerging field of study, including Shor&#8217;s quantum algorithm for factoring integers (for which no classical algorithms are known), Grover&#8217;s quantum search of an unsorted database, which gives a quadratic speedup over any classical algorithm, and other algorithms related to these. Thus the strangest aspects of quantum theory, e.g. superposition and entanglement, are  found to be not only fascinating and puzzling, but also useful! The course will also explore very basic elements of the burgeoning field of quantum information theory: superdense coding, quantum cryptography, and quantum teleportation.</p>
+
+<p><strong>Fall 2019 -  Mobile App Development</strong><br>
+The primary objective of this proseminar on mobile software and development is to teach how to provide software-based mobile solutions to complex problems for mobile devices. The course focuses on twelve main modules that are unique to mobile computing: Intro to mobile programming, Mobile GUI and layout, Lifecycles and navigation, Widgets and fragments, App data &amp; files, Internet and connectivity, Processes and threads, Animation and media, User location, Touch and input, Images and graphics, and Camera and sensors. Other advanced topics such as mobile VR and smartwatch will also be introduced. Through this course, students are expected to be able to design and develop mobile applications for different use cases, with chances to practice solving real-world problems with mobile solutions. This semester&#8217;s course focuses on the Android development platform, based on the Android development language - Kotlin. The course will focus primarily on the mobile phone platform, with development opportunities for tablets, Android TV, and wearables.</p>
+
+<p> </p>
+
+<p> </p>
+
+<p>May be repeatable for credit.<br><br><strong>Prerequisites:</strong> CSCI 160 or instructor permission.<br>
+<em>(min grade of C- required for prereq)</em><br><br><strong>Anticipated Terms Offered:</strong> Offered periodically<br><br></p></div>		</td>
+	</tr>
+</table>
+<br>

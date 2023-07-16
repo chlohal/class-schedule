@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('25', '3', '81134', '', this, ''); return false;">
+				BIOL 137 - Cell Biology			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=25&coid=81134&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>BIOL 137 - Cell Biology </h3>  <hr>The cell as a functional unit is discussed from the molecular level to the whole cell. Included are introductions to the biochemistry and metabolic roles of some of the molecules and macromolecules that are found in cells. Also discussed are the evolution, structure and function of the various subcellular organelles and the cytoskeleton. Emphasis is placed on understanding the molecular mechanisms behind cell physiology and the experimental methods used to determine those mechanisms.<br><br><strong>Prerequisites:</strong> <span class="acalog-permalink-inactive">BIOL 100</span><span style="display: none !important">&#160;</span>, <a href="preview_course_nopop.php?catoid=25&coid=81123" onclick="acalogPopup('preview_course.php?catoid=25&coid=81123&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=25&coid=81123&display_options[location]=tooltip&show" id="tt1690" target="_blank">BIOL 101</a><span style="display: none !important">&#160;</span> or <span class="acalog-permalink-inactive">BIOL 103</span><span style="display: none !important">&#160;</span>, and <a href="preview_course_nopop.php?catoid=25&coid=81124" onclick="acalogPopup('preview_course.php?catoid=25&coid=81124&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=25&coid=81124&display_options[location]=tooltip&show" id="tt9686" target="_blank">BIOL 102</a><span style="display: none !important">&#160;</span>.<br><br><strong>Anticipated Terms Offered:</strong> Offered every year.<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt1690"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt9686"></div></div>		</td>
+	</tr>
+</table>
+<br>

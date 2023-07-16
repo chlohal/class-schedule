@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('26', '3', '86567', '', this, ''); return false;">
+				PHYS 161 - Electricity and Magnetism			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=26&coid=86567&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>PHYS 161 - Electricity and Magnetism </h3>  <hr>Continuation of <a href="preview_course_nopop.php?catoid=26&coid=86566" onclick="acalogPopup('preview_course.php?catoid=26&coid=86566&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=26&coid=86566&display_options[location]=tooltip&show" id="tt6332" target="_blank">PHYS 160</a><span style="display: none !important">&#160;</span>. Topics include electro- and magnetostatics and electrodynamics through Maxwell&#8217;s quations and relativity. Develops useful mathematical methods.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=26&coid=86566" onclick="acalogPopup('preview_course.php?catoid=26&coid=86566&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=26&coid=86566&display_options[location]=tooltip&show" id="tt4089" target="_blank">PHYS 160</a><span style="display: none !important">&#160;</span>.<br><br><strong>Anticipated Terms Offered:</strong> Offered every year.<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt6332"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt4089"></div></div>		</td>
+	</tr>
+</table>
+<br>

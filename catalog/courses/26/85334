@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('26', '3', '85334', '', this, ''); return false;">
+				BIOL 109 - Microbiology			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=26&coid=85334&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>BIOL 109 - Microbiology </h3>  <hr>Introduces the fundamental principles and methods of microbiology with applications to the biomedical and environmental sciences. In the laboratory, students will isolate, cultivate, and characterize an unknown microorganism, and then identify the organism using modern molecular methods.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=26&coid=85328" onclick="acalogPopup('preview_course.php?catoid=26&coid=85328&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=26&coid=85328&display_options[location]=tooltip&show" id="tt7963" target="_blank">BIOL 101</a><span style="display: none !important">&#160;</span> or <span class="acalog-permalink-inactive">BIOL 103</span><span style="display: none !important">&#160;</span>, <a href="preview_course_nopop.php?catoid=26&coid=85329" onclick="acalogPopup('preview_course.php?catoid=26&coid=85329&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=26&coid=85329&display_options[location]=tooltip&show" id="tt7493" target="_blank">BIOL 102</a><span style="display: none !important">&#160;</span> and <a href="preview_course_nopop.php?catoid=26&coid=85408" onclick="acalogPopup('preview_course.php?catoid=26&coid=85408&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=26&coid=85408&display_options[location]=tooltip&show" id="tt4917" target="_blank">CHEM 102</a><span style="display: none !important">&#160;</span>; or permission of instructor.<br><br><strong>Anticipated Terms Offered:</strong> Offered every year<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt7963"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt7493"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt4917"></div></div>		</td>
+	</tr>
+</table>
+<br>

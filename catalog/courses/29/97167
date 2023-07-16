@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('29', '3', '97167', '', this, ''); return false;">
+				CHEM 103 - Accelerated Introductory Chemistry			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=29&coid=97167&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>CHEM 103 - Accelerated Introductory Chemistry </h3>  <hr>This is a one-semester course for students with a strong background in chemistry who do not need the traditional two-semester sequence. Upon completion of CHEM 103, students are eligible to go directly to <a href="preview_course_nopop.php?catoid=29&coid=97168" onclick="acalogPopup('preview_course.php?catoid=29&coid=97168&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=97168&display_options[location]=tooltip&show" id="tt8899" target="_blank">CHEM 131 - Organic Chemistry Principles</a><span style="display: none !important">&#160;</span> and <a href="preview_course_nopop.php?catoid=29&coid=98775" onclick="acalogPopup('preview_course.php?catoid=29&coid=98775&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=98775&display_options[location]=tooltip&show" id="tt362" target="_blank"> CHEM 140 - Analytical Chemistry</a><span style="display: none !important">&#160;</span>, thereby accelerating their program in chemistry by one semester and allowing for additional elective courses during their junior and senior years. Topics include atomic and molecular structure, geometry, bonding, reactions, equilibria, thermodynamics, acids and bases, basic kinetics and stoichiometry.<br><br><strong>Prerequisites:</strong> Permission of instructor.<br><br><strong>Course Designation/Attribute:</strong> SP<br><br><strong>Anticipated Terms Offered:</strong> Offered every fall<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt8899"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt362"></div></div>		</td>
+	</tr>
+</table>
+<br>

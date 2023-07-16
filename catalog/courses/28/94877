@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('28', '3', '94877', '', this, ''); return false;">
+				PHYS 167 - Fluid Mechanics and Applications			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=28&coid=94877&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>PHYS 167 - Fluid Mechanics and Applications </h3>  <hr>Fluids refer to liquid and gas state of matter which covers more than 70% of the surface of the Earth and all of atmosphere. This course will explore the physics of fluids, and doing calculations using analytical and numerical techniques in weekly instructor led discussion sessions, and a semester long group based project. The project will include building a table top demonstration, and making a video presentation. Examples of project topics include water, oil and gas processing in industry, designing robots that swim, water purification, and more.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=28&coid=93699" onclick="acalogPopup('preview_course.php?catoid=28&coid=93699&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=28&coid=93699&display_options[location]=tooltip&show" id="tt4386" target="_blank">MATH 120</a><span style="display: none !important">&#160;</span> or <a href="preview_course_nopop.php?catoid=28&coid=93701" onclick="acalogPopup('preview_course.php?catoid=28&coid=93701&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=28&coid=93701&display_options[location]=tooltip&show" id="tt3556" target="_blank">MATH 124</a><span style="display: none !important">&#160;</span>, <a href="preview_course_nopop.php?catoid=28&coid=93897" onclick="acalogPopup('preview_course.php?catoid=28&coid=93897&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=28&coid=93897&display_options[location]=tooltip&show" id="tt2094" target="_blank">PHYS 160</a><span style="display: none !important">&#160;</span> <br><br><strong>Anticipated Terms Offered:</strong> Offered Bi-annually<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt4386"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt3556"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt2094"></div></div>		</td>
+	</tr>
+</table>
+<br>

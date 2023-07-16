@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('25', '3', '81701', '', this, ''); return false;">
+				GEOG 232 - Landscape Ecology			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=25&coid=81701&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>GEOG 232 - Landscape Ecology </h3>  <hr>Considers the relationships between spatial patterns in landscape structure (physical, biological and cultural) and ecological processes. Role of ecosystem pattern in mass and energy transfers, disturbance regimes, species&#8217; persistence, applications of remote sensing and GIS for landscape characterization and modeling are examined. Prerequisite: <a href="preview_course_nopop.php?catoid=25&coid=81694" onclick="acalogPopup('preview_course.php?catoid=25&coid=81694'+((location.search.match(/&print/i)) ? '&print' : '')+'', '3', 770, 530, 'yes');return false;" target="_blank" aria-label="GEOG 190 - Introduction to Geographic Information Science opens a new window">GEOG 190 - Introduction to Geographic Information Science</a><span style="display: none !important">&#160;</span>. <a href="preview_course_nopop.php?catoid=25&coid=81683" onclick="acalogPopup('preview_course.php?catoid=25&coid=81683&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=25&coid=81683&display_options[location]=tooltip&show" id="tt8541" target="_blank">GEOG 116 - Forest Ecology</a><span style="display: none !important">&#160;</span> is strongly recommended.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=25&coid=81694" onclick="acalogPopup('preview_course.php?catoid=25&coid=81694&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=25&coid=81694&display_options[location]=tooltip&show" id="tt4507" target="_blank">GEOG 190 - Introduction to Geographic Information Science</a><span style="display: none !important">&#160;</span> <br><br><strong>Anticipated Terms Offered:</strong> Offered every year<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt8541"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt4507"></div></div>		</td>
+	</tr>
+</table>
+<br>

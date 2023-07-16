@@ -1,0 +1,19 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('26', '3', '92647', '', this, ''); return false;">
+				CSCI 195 - Topics In Computer Science			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=26&coid=92647&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>CSCI 195 - Topics In Computer Science </h3>  <p><hr>&#8220;This course covers topics in computer science as a pilot or just for one-time offering. The topics are chosen by the instructor and approved by the department.</p>
+
+<p><strong>Winter/Spring 2021 Topics:</strong> Algorithmic Program Solving. This course introduces versatile algorithm design techniques, such as dynamic programming, greedy algorithms, backtracking, and reduction. Students will learn to adapt these techniques to solve a diverse collection of problems. Through their study of the course materials and their work on assignment problems, they will develop important skills to read technical materials critically, break a big problem into more manageable sub-problems iteratively, attack hard problems with a rigorous and agile algorithmic thinking process, recognize deep connections between problems, and be systematic in evaluating, improving, and documenting their solutions.&#8221;</p>
+
+<p> <br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=26&coid=85518" onclick="acalogPopup('preview_course.php?catoid=26&coid=85518&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=26&coid=85518&display_options[location]=tooltip&show" id="tt2837" target="_blank">CSCI 160</a><span style="display: none !important">&#160;</span> Algorithms, a grade of C- or better.</p>
+
+<p> <br><br><strong>Anticipated Terms Offered:</strong> 2021 Winter Intersession<br><br></p><div style="display: none; z-index: 1000;" class="tooltip for_tt2837"></div></div>		</td>
+	</tr>
+</table>
+<br>

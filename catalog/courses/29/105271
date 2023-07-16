@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('29', '3', '105271', '', this, ''); return false;">
+				MSCS 3262 - Computer Vision			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=29&coid=105271&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>MSCS 3262 - Computer Vision </h3>  <hr>This course studies the fundamentals of computer vision and it&#8217;s application of inter-disciplinary problems. Students learn about computer vision techniques to create computer systems that analyze images automatically and determine what the computer &#8220;sees&#8221;.  The computer vison system is then applied to the problems in Human Computer Interaction. Students investigate research methods and apply them to creating video based inter-active systems. Students gain practical experience designing, implementing and testing a project.<br><br><strong>Anticipated Terms Offered:</strong> Annually<br><br></div>		</td>
+	</tr>
+</table>
+<br>

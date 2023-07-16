@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('28', '3', '92980', '', this, ''); return false;">
+				ECON 365 - Basic Econometrics			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=28&coid=92980&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>ECON 365 - Basic Econometrics </h3>  <hr>Econ 365 is a one-semester core course in econometrics at the graduate level.  The course assumes a strong background in multivariate calculus, linear algebra, and basic probability theory.  Intermediate-to-advanced undergraduate level courses in statistics/econometrics are also highly recommended.  The course will focus mainly on random samples and linear regression.  Students will be exposed to various estimation approaches such as Least Squares, Maximum Likelihood, and the Generalized Method of Moments.  Additional topics such as Empirical Likelihood and the Bootstrap will be covered time permitting.  Special attention will be given to applications using real data.  For this purpose we will typically use the econometrics package STATA.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=28&coid=92979" onclick="acalogPopup('preview_course.php?catoid=28&coid=92979&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=28&coid=92979&display_options[location]=tooltip&show" id="tt3333" target="_blank">ECON 360</a><span style="display: none !important">&#160;</span><br><br><strong>Anticipated Terms Offered:</strong> Offered every year<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt3333"></div></div>		</td>
+	</tr>
+</table>
+<br>

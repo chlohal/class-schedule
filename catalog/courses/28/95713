@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('28', '3', '95713', '', this, ''); return false;">
+				MSDA 3080 - Splunk Machine Learning for Predictive Analytics			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=28&coid=95713&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>MSDA 3080 - Splunk Machine Learning for Predictive Analytics </h3>  <hr>To be a successful business in the digital age, corporations must rely on predictive analytics to expose actionable insights to maintain a competitive advantage. Predictive Modelling and Machine Learning (subsets of Artificial Intelligence) can be leveraged to find hidden opportunities, predict future outcomes, and determine risk. In this course, students will leverage Splunk Enterprise to apply predictive analytics and machine learning techniques through analyzing data sets, predicting recommendations, and forecasting decisions based on patterns, frequency, and anomalies. Students will learn how to build a business use case and apply predictive analytics methodologies to tell a compelling story.  This course focuses on the Splunk Enterprise Machine Learning Toolkit for Predictive Analytics. Students must have knowledge developing within Splunk Enterprise (Prerequisite: MSIT 3350 Data Mining with Splunk).<br><br><strong>Prerequisites:</strong>  <a href="preview_course_nopop.php?catoid=28&coid=95418" onclick="acalogPopup('preview_course.php?catoid=28&coid=95418&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=28&coid=95418&display_options[location]=tooltip&show" id="tt6471" target="_blank">MSIT 3350 - Data Mining With Splunk</a><span style="display: none !important">&#160;</span> <br><br><strong>Anticipated Terms Offered:</strong> Varied<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt6471"></div></div>		</td>
+	</tr>
+</table>
+<br>

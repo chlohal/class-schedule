@@ -1,0 +1,15 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('25', '3', '81137', '', this, ''); return false;">
+				BIOL 180 - Biology  of Mushrooms			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=25&coid=81137&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>BIOL 180 - Biology  of Mushrooms </h3>  <p><hr>This is a lecture/lab/field/discussion course focused on the basic and applied biology of mushrooms and related fungi. Topics will include: mushroom diversity, ecology and evolution; identification of New England mushrooms; mushroom cultivation; fermented fungal foods and beverages; ethnomycology, medical mycology; and topics in applied mycology (mycoremediation, alternative uses of fungi and fungal products, etc). The course will include opportunities for weekend field trips to attend local mushroom forays.</p>
+
+<p> <br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=25&coid=81123" onclick="acalogPopup('preview_course.php?catoid=25&coid=81123&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=25&coid=81123&display_options[location]=tooltip&show" id="tt2903" target="_blank">BIOL 101</a><span style="display: none !important">&#160;</span> or <span class="acalog-permalink-inactive">BIOL 103</span><span style="display: none !important">&#160;</span>, and <a href="preview_course_nopop.php?catoid=25&coid=81124" onclick="acalogPopup('preview_course.php?catoid=25&coid=81124&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=25&coid=81124&display_options[location]=tooltip&show" id="tt8789" target="_blank">BIOL 102</a><span style="display: none !important">&#160;</span>.<br><br><strong>Anticipated Terms Offered:</strong> Offered every other year<br><br></p><div style="display: none; z-index: 1000;" class="tooltip for_tt2903"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt8789"></div></div>		</td>
+	</tr>
+</table>
+<br>

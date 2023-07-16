@@ -1,0 +1,19 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('28', '3', '92926', '', this, ''); return false;">
+				CSCI 201 - Proseminar In Computer Science			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=28&coid=92926&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>CSCI 201 - Proseminar In Computer Science </h3>  <p><hr>The presentation of topics in computer science by and for senior undergraduates. These presentations acquaint students with diverse subjects, introduce them to researching known topics and give them practice in presenting material to their peers. Faculty members will also present some research topics. Possible areas the topics may be drawn from might include robotics, networking, NP complete problems, neural networks, expert systems, parallel algorithms.</p>
+
+<p><strong>Spring 2021 - WEB DEVELOPMENT</strong><br>
+The course introduces foundational web-development concepts and skills for building modern full-stack applications. This course is designed for computer science majors who already have basic programming and software engineering knowledge. The goal is to let students experience front-end and back-end development by learning essential web-programming languages, having hands-on tutorials, and building real-world applications. The course focuses on the front-end but covers basic knowledge in the back-end. The course covers internet basics, HTML, CSS, JavaScript, React, RESTful API, NodeJS, and SQL/NoSQL database. Through the course, students are expected to be able to design, develop, and deploy full-stack web applications for different use cases.</p>
+
+<p><em>May be repeatable for credit.</em><br><br><strong>Prerequisites:</strong> CSCI 160 or instructor permission.<br>
+<em>(min grade of C- required for prereq)</em><br><br><strong>Anticipated Terms Offered:</strong> Offered periodically<br><br></p></div>		</td>
+	</tr>
+</table>
+<br>

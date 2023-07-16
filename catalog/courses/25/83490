@@ -1,0 +1,15 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('25', '3', '83490', '', this, ''); return false;">
+				MSIT 3420 - I.T. Operations			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=25&coid=83490&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>MSIT 3420 - I.T. Operations </h3>  <hr>IT Operations doesn&#8217;t just mean desktop support. Some operations teams control the security systems protecting nuclear power plants, while others manage the paths to billions of dollars at the stock exchange. This course investigates the high-energy, often rebellious, and sometimes anti-social aspects of information technology operations to discover the most effective ways to lead these complicated teams and their highly skilled professionals toward success.<br>
+24/7 schedules, BOFH, and constant paging make leading an information technology operations team complicated at best. This course investigates the focus, drive, and passion that make IT operations the heart of any technology company and how you as a leader can understand, guide, and motivate the skilled engineers that keep the worlds computer systems running. <br>
+<br><br></div>		</td>
+	</tr>
+</table>
+<br>

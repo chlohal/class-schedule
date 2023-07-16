@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('26', '3', '92612', '', this, ''); return false;">
+				CSCI 126 - Low-Code Web Development			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=26&coid=92612&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>CSCI 126 - Low-Code Web Development </h3>  <hr><span style="color:#000000;font-family:calibri, sans-serif;font-size:12pt;">This course will introduce basic concepts in developing full-stack web applications using the low-code development environment. At the conclusion of this course, students will understand the fundamental concepts of software engineering and how they apply to web application design and implementation. Students will understand the concept of server-client relationship, logics, data modeling, database operations, and user interface development. They will know the modern tools for full-stack development and will be able to produce substantial web applications as part of a team. This course will introduce web application concepts primarily using OutSystems, but students will be able to generalize these concepts to other web application technologies and tools</span><br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=26&coid=85514" onclick="acalogPopup('preview_course.php?catoid=26&coid=85514&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=26&coid=85514&display_options[location]=tooltip&show" id="tt2295" target="_blank">CSCI 120</a><span style="display: none !important">&#160;</span>  Introduction to Computing or <a href="preview_course_nopop.php?catoid=26&coid=85516" onclick="acalogPopup('preview_course.php?catoid=26&coid=85516&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=26&coid=85516&display_options[location]=tooltip&show" id="tt4011" target="_blank">CSCI 124</a><span style="display: none !important">&#160;</span> Honors Introduction to Computing<br><br><strong>Anticipated Terms Offered:</strong> 2021 Winter Intersession<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt2295"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt4011"></div></div>		</td>
+	</tr>
+</table>
+<br>

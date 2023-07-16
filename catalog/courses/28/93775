@@ -1,0 +1,26 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('28', '3', '93775', '', this, ''); return false;">
+				BAN 5501 - Database Management and SQL for Analytics			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=28&coid=93775&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>BAN 5501 - Database Management and SQL for Analytics </h3>  <p><hr>This course serves as an introduction and overview of the database management body of knowledge (DMBOK) from a managerial perspective. The learning objectives will be to acquire a comprehensive understanding of the basic concepts of database design and usage, as well as develop practical skills for utilizing databases to their fullest extent. Correct database design will be emphasized both as a theoretical foundation and a practical necessity. <br>
+ The following topics are the focus of the course:<br>
+•    High-level, general database concepts and design <br>
+•    Design, create and manipulate an individual relational database including the utilization of SQL as a fundamental tool<br>
+•    Interpret and apply client database needs<br>
+•    Discuss and apply best practices of User Interface Design to database applications<br>
+•    Identify and discuss new developments and trends in databases including the use of data warehouses, data lakes and hubs, and X analytics.</p>
+
+<p> </p>
+
+<p><span style="font-family:calibri, sans-serif;font-size:11pt;">Previously Titled &#8220;MIS 5501 Database Management Systems&#8221;</span><br>
+ <br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=28&coid=93774" onclick="acalogPopup('preview_course.php?catoid=28&coid=93774&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=28&coid=93774&display_options[location]=tooltip&show" id="tt7902" target="_blank">BAN 4500</a><span style="display: none !important">&#160;</span> (can be taken concurrently)</p>
+
+<p>*This prerequisite does not apply to MSAA students.<br><br><strong>Anticipated Terms Offered:</strong> Offered annually<br><br></p><div style="display: none; z-index: 1000;" class="tooltip for_tt7902"></div></div>		</td>
+	</tr>
+</table>
+<br>

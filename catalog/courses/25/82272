@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('25', '3', '82272', '', this, ''); return false;">
+				MATH 216 - Functions of a Complex Variable			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=25&coid=82272&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>MATH 216 - Functions of a Complex Variable </h3>  <hr>Designed for undergraduate science and mathematics majors. Includes Cauchy&#8217;s theorem, power series, Laurent series, the residue theorem, harmonic functions and physical applications, such as problems in two-dimensional flow. An introduction to Riemann surfaces if time permits.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=25&coid=82267" onclick="acalogPopup('preview_course.php?catoid=25&coid=82267&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=25&coid=82267&display_options[location]=tooltip&show" id="tt2926" target="_blank">MATH 131</a><span style="display: none !important">&#160;</span> and <a href="preview_course_nopop.php?catoid=25&coid=82268" onclick="acalogPopup('preview_course.php?catoid=25&coid=82268&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=25&coid=82268&display_options[location]=tooltip&show" id="tt3979" target="_blank">MATH 172</a><span style="display: none !important">&#160;</span> or permission<br><br><strong>Anticipated Terms Offered:</strong> Offered periodically<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt2926"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt3979"></div></div>		</td>
+	</tr>
+</table>
+<br>

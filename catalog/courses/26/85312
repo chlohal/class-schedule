@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('26', '3', '85312', '', this, ''); return false;">
+				BCMB 244 - Bioanalytical Chemistry			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=26&coid=85312&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>BCMB 244 - Bioanalytical Chemistry </h3>  <hr>The primary objective of this course is to introduce both theoretical and practical aspects of several current techniques, including metabolomics/synthetic biology, mass spectrometry, gas and liquid chromatography, protein chemistry, proteomics, enzyme kinetics, spectroscopy and other selected topics, in the biological systems.  The laboratory component of the course will be devoted to carrying out a research project on metabolomics and transcriptomics using chromatography/mass spectrometry, enzyme activity assays, and gene expression analyses. <br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=26&coid=85314" onclick="acalogPopup('preview_course.php?catoid=26&coid=85314&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=26&coid=85314&display_options[location]=tooltip&show" id="tt6859" target="_blank">BCMB 271</a><span style="display: none !important">&#160;</span> and <a href="preview_course_nopop.php?catoid=26&coid=85315" onclick="acalogPopup('preview_course.php?catoid=26&coid=85315&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=26&coid=85315&display_options[location]=tooltip&show" id="tt3843" target="_blank">BCMB 272</a><span style="display: none !important">&#160;</span> <br><br><strong>Anticipated Terms Offered:</strong> Offered every other year<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt6859"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt3843"></div></div>		</td>
+	</tr>
+</table>
+<br>

@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('29', '3', '105318', '', this, ''); return false;">
+				BIOL 374 - Biological Dynamics			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=29&coid=105318&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>BIOL 374 - Biological Dynamics </h3>  <hr>This course is designed to introduce students to the invaluable tools involved in modeling and analyzing biological dynamics.  It does so through the use of basic mathematical techniques from differential equations and linear algebra, including separable equations, numerical methods of integration, matrix multiplication, and eigenvalues. Applications will come from a wide range of areas in Biology - including population dynamics, epidemiology, molecular evolution, and population genetics, with the overarching goal of helping students gain the skills needed to use differential equations and/or linear algebra in their research. No prior knowledge of topics from differential equations or linear algebra will be assumed.<br><br><strong>Anticipated Terms Offered:</strong> Bi-annually<br><br></div>		</td>
+	</tr>
+</table>
+<br>

@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('25', '3', '81372', '', this, ''); return false;">
+				ECON 207 - International Trade Theory			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=25&coid=81372&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>ECON 207 - International Trade Theory </h3>  <hr>Studies international trade theory and policy at the intermediate level. Examines the fundamentals of international trade theory: comparative advantage, gains from trade, neoclassical trade theory, trade and income distribution. Traditional and modern instruments of protectionism, arguments for and against free trade and the role of international institutions are discussed.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=25&coid=81360" onclick="acalogPopup('preview_course.php?catoid=25&coid=81360'+((location.search.match(/&print/i)) ? '&print' : '')+'', '3', 770, 530, 'yes');return false;" target="_blank" aria-label="ECON 010 opens a new window">ECON 010</a><span style="display: none !important">&#160;</span> and <a href="preview_course_nopop.php?catoid=25&coid=81361" onclick="acalogPopup('preview_course.php?catoid=25&coid=81361'+((location.search.match(/&print/i)) ? '&print' : '')+'', '3', 770, 530, 'yes');return false;" target="_blank" aria-label="ECON 011 opens a new window">ECON 011</a><span style="display: none !important">&#160;</span>;  <a href="preview_course_nopop.php?catoid=25&coid=81370" onclick="acalogPopup('preview_course.php?catoid=25&coid=81370&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=25&coid=81370&display_options[location]=tooltip&show" id="tt6036" target="_blank">ECON 205</a><span style="display: none !important">&#160;</span>  is recommended.<br><br><strong>Corequisites:</strong> &#160;&#160; <br><br><strong>Anticipated Terms Offered:</strong> Offered periodically<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt6036"></div></div>		</td>
+	</tr>
+</table>
+<br>

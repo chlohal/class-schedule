@@ -1,0 +1,15 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('25', '3', '84136', '', this, ''); return false;">
+				STAT 4650 - Big Data Statistics II			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=25&coid=84136&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>STAT 4650 - Big Data Statistics II </h3>  <p><hr>Big Data Statistics II, together with Big Data Statistics I, provides an overview of techniques drawn from the fields of advanced machine learning, datamining and statistics. The goal of these two courses is to prepare students with an intellectual framework for problem solving.</p>
+
+<p>Big Data Statistics II emphasizes the use of mathematical modelling and scenario optimization to reach optimal business decisions. As such, this course is essentially a data science course with an emphasis on statistical methodologies. At the same time, the course emphasizes the practical aspects of business analytics by embedding the methodologies in applications and by underlining the general objective of improving the speed, reliability, and quality of decisions. The course uses real-life data sets as illustrations, and R and Python to build answers to business questions<strong>.</strong><br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=25&coid=84135" onclick="acalogPopup('preview_course.php?catoid=25&coid=84135&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=25&coid=84135&display_options[location]=tooltip&show" id="tt4329" target="_blank">STAT 4600</a><span style="display: none !important">&#160;</span> <br><br><strong>Anticipated Terms Offered:</strong> Offered annually<br><br></p><div style="display: none; z-index: 1000;" class="tooltip for_tt4329"></div></div>		</td>
+	</tr>
+</table>
+<br>

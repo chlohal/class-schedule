@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('29', '3', '100171', '', this, ''); return false;">
+				GAME 170 - Game Audio 2			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=29&coid=100171&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>GAME 170 - Game Audio 2 </h3>  <hr>This course builds on the techniques and methodologies taught in Game Audio 1. Principles of sound in a game engine environment are reviewed, followed by deeper examinations into game audio processes and techniques for implementation including advanced use of middleware tools, coding and script management, and real-time DSP. Audio design document authoring and goals will be discussed. Asset management tools and version control techniques will be explored in a team project-based environment.<br><br><strong>Prerequisites:</strong> GAME 165<br><br><strong>Anticipated Terms Offered:</strong> Spring<br><br></div>		</td>
+	</tr>
+</table>
+<br>

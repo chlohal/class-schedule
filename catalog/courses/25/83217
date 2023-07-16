@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('25', '3', '83217', '', this, ''); return false;">
+				BCMB 375 - Protein Chemistry			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=25&coid=83217&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>BCMB 375 - Protein Chemistry </h3>  <hr>Presents an in-depth view of protein structures and molecular properties, and discussions of how structure and properties are inextricably linked to biological function.  Topics discussed include: chemical properties of polypeptides, biosynthesis of proteins, posttranslational modifications, evolutionary and genetics origins of protein sequences, physical interactions that determine the properties of proteins, the folded conformations of proteins, proteins in solution and in membranes, interaction of proteins with other molecules, enzyme catalysis and protein degradation.  This course has a computational component which will provide students with hands-on learning experience.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=25&coid=81109" onclick="acalogPopup('preview_course.php?catoid=25&coid=81109'+((location.search.match(/&print/i)) ? '&print' : '')+'', '3', 770, 530, 'yes');return false;" target="_blank" aria-label="BCMB 271 opens a new window">BCMB 271</a><span style="display: none !important">&#160;</span> or permission of instructor<br><br><strong>Anticipated Terms Offered:</strong> Every other year<br><br></div>		</td>
+	</tr>
+</table>
+<br>

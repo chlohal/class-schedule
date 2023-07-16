@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('29', '3', '105241', '', this, ''); return false;">
+				MATH 240 - Functional Analysis			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=29&coid=105241&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>MATH 240 - Functional Analysis </h3>  <hr>Functional Analysis is the study of linear algebra on infinite-dimensional vector spaces.  These are often spaces of functions; together with so called &#8220;linear operators&#8221; defined on them (the infinite-dimensional analogues of matrices), they feature crucially in the study of solutions to partial differential equations wherever they appear in mathematics and the sciences.  In physics, for example, so called &#8220;Hilbert spaces&#8221; constitute the arena wherein quantum mechanics is played.  Functional analysis is a major topic in mathematics and a beautiful intersection of linear algebra (Math 130) and analysis (Math 172).  As such, it is recommended for all mathematics and science students, in particular for those students wishing to deepen their understanding of linear algebra and analysis.       <br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=29&coid=98031" onclick="acalogPopup('preview_course.php?catoid=29&coid=98031&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=98031&display_options[location]=tooltip&show" id="tt6734" target="_blank"> MATH 130 - Linear Algebra</a><span style="display: none !important">&#160;</span>  and <a href="preview_course_nopop.php?catoid=29&coid=98033" onclick="acalogPopup('preview_course.php?catoid=29&coid=98033&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=98033&display_options[location]=tooltip&show" id="tt2774" target="_blank"> MATH 172 - Introduction to Modern Analysis</a><span style="display: none !important">&#160;</span> <br><br><strong>Anticipated Terms Offered:</strong> Annually<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt6734"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt2774"></div></div>		</td>
+	</tr>
+</table>
+<br>

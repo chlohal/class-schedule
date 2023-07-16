@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('29', '3', '105272', '', this, ''); return false;">
+				MSCS 3230 - Compiler Design			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=29&coid=105272&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>MSCS 3230 - Compiler Design </h3>  <hr>To study the theory and practice of compiler design. In particular, we will discuss the principles and algorithms involved in parsing source programs, analyzing their semantics, and generating intermediate code from them. We will continue with an introduction to some of the design principles of the &#8220;back-end&#8221; of a compiler: for example, optimization, register allocation and code generation. Practical experience will be gained by writing a small C compiler with MIPS (or the assembly code of your choice) as a target language.<br><br><strong>Anticipated Terms Offered:</strong> Annually<br><br></div>		</td>
+	</tr>
+</table>
+<br>

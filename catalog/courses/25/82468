@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('25', '3', '82468', '', this, ''); return false;">
+				PHYS 202 - Electrodynamics			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=25&coid=82468&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>PHYS 202 - Electrodynamics </h3>  <hr>Designed to prepare students for graduate work in physics. Topics include boundary value problems in electrostatics and magnetostatics, electromagnetic-field equations and special relativity, electromagnetic waves, radiation theory, multipole fields, and mathematical methods of physics. Lectures are the same as <a href="preview_course_nopop.php?catoid=25&coid=82477" onclick="acalogPopup('preview_course.php?catoid=25&coid=82477&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=25&coid=82477&display_options[location]=tooltip&show" id="tt6219" target="_blank">PHYS 302</a><span style="display: none !important">&#160;</span>, but the assignments and evaluation are separate.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=25&coid=82465" onclick="acalogPopup('preview_course.php?catoid=25&coid=82465&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=25&coid=82465&display_options[location]=tooltip&show" id="tt7802" target="_blank">PHYS 161</a><span style="display: none !important">&#160;</span>.<br><br><strong>Anticipated Terms Offered:</strong> Offered every spring<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt6219"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt7802"></div></div>		</td>
+	</tr>
+</table>
+<br>

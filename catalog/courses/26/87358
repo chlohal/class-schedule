@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('26', '3', '87358', '', this, ''); return false;">
+				MATH 1200 - Calculus I			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=26&coid=87358&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>MATH 1200 - Calculus I </h3>  <hr>Calculus is the mathematics study of continuous change and it is composed of two main categories: the study of differential calculus which we cover in Calculus I and integral calculus to be covered in Calculus II. In Calculus I, we will focus on instantaneous rates of change and the slope of curves and how these topics are used in the world around us. Other topics include limits and their properties, differentiation, logarithmic and exponential functions, and integration.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=26&coid=87356" onclick="acalogPopup('preview_course.php?catoid=26&coid=87356&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=26&coid=87356&display_options[location]=tooltip&show" id="tt4377" target="_blank">MATH 1110 - Precalculus</a><span style="display: none !important">&#160;</span> or <a href="preview_course_nopop.php?catoid=26&coid=86363" onclick="acalogPopup('preview_course.php?catoid=26&coid=86363&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=26&coid=86363&display_options[location]=tooltip&show" id="tt9651" target="_blank">MATH 119</a><span style="display: none !important">&#160;</span> <br><br><strong>Course Designation/Attribute:</strong> FA (summer only)<br><br><strong>Anticipated Terms Offered:</strong> -<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt4377"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt9651"></div></div>		</td>
+	</tr>
+</table>
+<br>

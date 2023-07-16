@@ -1,0 +1,18 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('29', '3', '100142', '', this, ''); return false;">
+				DSCI 216 - Stochastic Computing			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=29&coid=100142&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>DSCI 216 - Stochastic Computing </h3>  <p><hr>This course is about dealing with uncertainty that appears in virtually all areas of data science and computer science. This will be accomplished with tools and techniques for its measurement, description, evaluation, and ultimately making decisions under uncertainty. </p>
+
+<p><br>
+The course will approach these goals using a three-fold approach, namely problem, theory, and prototype (PTP). We will motivate major topics by discussing a problem. The purpose of discussion of the problem is to give context behind why a particular supporting topic in probability was developed or what it is intended to address. The problem will be followed by theory. This concerns rigorous mathematical definition and tools for their manipulation in order to address the problem. Emphasis will be placed on approaches that are amenable to implementation. Finally, theory will be followed by prototype. The purpose of the prototype aspect of the course is to train students in the development of models that serve a useful purpose.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=29&coid=98026" onclick="acalogPopup('preview_course.php?catoid=29&coid=98026&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=98026&display_options[location]=tooltip&show" id="tt2402" target="_blank"> MATH 121 - Calculus II</a><span style="display: none !important">&#160;</span>  or <a href="preview_course_nopop.php?catoid=29&coid=98028" onclick="acalogPopup('preview_course.php?catoid=29&coid=98028&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=98028&display_options[location]=tooltip&show" id="tt6880" target="_blank"> MATH 125 - Honors Calculus II</a><span style="display: none !important">&#160;</span> and</p>
+
+<p><a href="preview_course_nopop.php?catoid=29&coid=97251" onclick="acalogPopup('preview_course.php?catoid=29&coid=97251&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=97251&display_options[location]=tooltip&show" id="tt1854" target="_blank"> CSCI 121 - Data Structures</a><span style="display: none !important">&#160;</span>  or <a href="preview_course_nopop.php?catoid=29&coid=97252" onclick="acalogPopup('preview_course.php?catoid=29&coid=97252&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=97252&display_options[location]=tooltip&show" id="tt5738" target="_blank"> CSCI 124 - Honors Introduction to Computing</a><span style="display: none !important">&#160;</span> <br><br><strong>Anticipated Terms Offered:</strong> Fall 2021<br><br></p><div style="display: none; z-index: 1000;" class="tooltip for_tt2402"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt6880"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt1854"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt5738"></div></div>		</td>
+	</tr>
+</table>
+<br>

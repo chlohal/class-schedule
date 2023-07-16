@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('28', '3', '92773', '', this, ''); return false;">
+				BIOL 143 - Neuroscience			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=28&coid=92773&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>BIOL 143 - Neuroscience </h3>  <hr>Biology 143 introduces students to the biology of nervous systems and their relationship to behavior and disease.  Mammalian nervous systems are emphasized, but from a comparative standpoint.  The course covers topics ranging from neuronal structure and function, synaptic communication, and intra- and intercellular signaling systems, to the development and regeneration of nervous systems, the processing of sensory information, and complex functions such as learning, memory, cognition, and emotion.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=28&coid=92768" onclick="acalogPopup('preview_course.php?catoid=28&coid=92768&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=28&coid=92768&display_options[location]=tooltip&show" id="tt3659" target="_blank">BIOL 111</a><span style="display: none !important">&#160;</span>  , <a href="preview_course_nopop.php?catoid=28&coid=92770" onclick="acalogPopup('preview_course.php?catoid=28&coid=92770&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=28&coid=92770&display_options[location]=tooltip&show" id="tt9816" target="_blank">BIOL 118</a><span style="display: none !important">&#160;</span> , or <a href="preview_course_nopop.php?catoid=28&coid=92771" onclick="acalogPopup('preview_course.php?catoid=28&coid=92771&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=28&coid=92771&display_options[location]=tooltip&show" id="tt2817" target="_blank"> BIOL 137</a><span style="display: none !important">&#160;</span> <br><br><strong>Anticipated Terms Offered:</strong> Offered every year.<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt3659"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt9816"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt2817"></div></div>		</td>
+	</tr>
+</table>
+<br>

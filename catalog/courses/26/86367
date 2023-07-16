@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('26', '3', '86367', '', this, ''); return false;">
+				MATH 125 - Honors Calculus II			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=26&coid=86367&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>MATH 125 - Honors Calculus II </h3>  <hr>See <a href="preview_course_nopop.php?catoid=26&coid=86366" onclick="acalogPopup('preview_course.php?catoid=26&coid=86366&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=26&coid=86366&display_options[location]=tooltip&show" id="tt7439" target="_blank">MATH 124</a><span style="display: none !important">&#160;</span>.<br><br><strong>Prerequisites:</strong> A passing grade in MATH 124.<br><br><strong>Course Designation/Attribute:</strong> FA<br><br><strong>Anticipated Terms Offered:</strong> Offered every Fall (124) and Spring (125).<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt7439"></div></div>		</td>
+	</tr>
+</table>
+<br>

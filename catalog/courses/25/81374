@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('25', '3', '81374', '', this, ''); return false;">
+				ECON 222 - Labor			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=25&coid=81374&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>ECON 222 - Labor </h3>  <hr>Applies the concepts of labor supply and labor demand in a basic model of labor markets. The model is used to analyze the results of the labor market: wages, employment and unemployment. The analysis is modified to allow for market imperfections and nonmarket forces, including trade unions and the government. Further topics include wage discrimination and income inequality.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=25&coid=81360" onclick="acalogPopup('preview_course.php?catoid=25&coid=81360'+((location.search.match(/&print/i)) ? '&print' : '')+'', '3', 770, 530, 'yes');return false;" target="_blank" aria-label="ECON 010 opens a new window">ECON 010</a><span style="display: none !important">&#160;</span> and <a href="preview_course_nopop.php?catoid=25&coid=81361" onclick="acalogPopup('preview_course.php?catoid=25&coid=81361'+((location.search.match(/&print/i)) ? '&print' : '')+'', '3', 770, 530, 'yes');return false;" target="_blank" aria-label="ECON 011 opens a new window">ECON 011</a><span style="display: none !important">&#160;</span> <br><br><strong>Corequisites:</strong> &#160; <br><br><strong>Anticipated Terms Offered:</strong> Offered every other year<br><br></div>		</td>
+	</tr>
+</table>
+<br>

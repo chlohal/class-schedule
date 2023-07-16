@@ -1,0 +1,15 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('28', '3', '96992', '', this, ''); return false;">
+				MSCS 3440 - Special Topics: Computer Science			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=28&coid=96992&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>MSCS 3440 - Special Topics: Computer Science </h3>  <p><hr>This course addresses current or timely topics (in Computer Science) that are in a pilot phase or are known to be one time offerings.  Special Topics can vary from semester to semester. May be repeated for credit. </p>
+
+<p><strong>SPRING 2022</strong>- <u>Embedded Systems Development</u> - This hands on course will cover structured system development by teaching students how to directly program hardware without the aid of an operating system.  It will provide practical experience taking students through the agile development process for a complete microcontroller-based system.  Students will develop standalone applications for a popular microcontroller and write the code to use/control physical devices. <br><br><strong>Anticipated Terms Offered:</strong> Annually<br><br></p></div>		</td>
+	</tr>
+</table>
+<br>

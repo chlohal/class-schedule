@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('28', '3', '93713', '', this, ''); return false;">
+				MATH 219 - Linear Models			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=28&coid=93713&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>MATH 219 - Linear Models </h3>  <hr>A course in linear regression analysis which explores statistical methods for modeling a linear functional relationship between a response variable and one or more predictor variables. First the underlying theory for simple regression models involving one response and one predictor variable is developed, and then the results are extended to the case of one response variable and multiple predictor variables (multiple regression). Underlying model assumptions are explored and the implications of their violation. Besides the development of the statistical theory, we will emphasize the practical application of the theory to real world examples.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=28&coid=93711" onclick="acalogPopup('preview_course.php?catoid=28&coid=93711&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=28&coid=93711&display_options[location]=tooltip&show" id="tt6570" target="_blank">MATH 217</a><span style="display: none !important">&#160;</span> <br><br><strong>Course Designation/Attribute:</strong> NA<br><br><strong>Anticipated Terms Offered:</strong> Offered every year<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt6570"></div></div>		</td>
+	</tr>
+</table>
+<br>

@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('29', '3', '98900', '', this, ''); return false;">
+				CSCI 1010 - Introduction to Computing			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=29&coid=98900&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>CSCI 1010 - Introduction to Computing </h3>  <hr>Introduces computer hardware systems and software applications. This is a hands-on course that teaches the MS operating system and an introductory to intermediate level of the Microsoft Office Suite application: Word (word processing), Excel (spreadsheets), PowerPoint (presentations) and Access (database). Skills learned are directly usable in the workplace and other coursework. No prior computer experience is necessary.<br><br><strong>Anticipated Terms Offered:</strong> varies<br><br></div>		</td>
+	</tr>
+</table>
+<br>

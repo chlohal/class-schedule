@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('25', '3', '82211', '', this, ''); return false;">
+				IDCE 30274 - Computer Programming for GIS			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=25&coid=82211&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>IDCE 30274 - Computer Programming for GIS </h3>  <hr>This course introduces fundamental concepts of computer programming to automate geoprocessing, spatial analysis and mapping. This course is ideal for graduate students and upper level undergraduates who want to learn about programming skills for GIS. Topics to be covered include object-oriented programming, scripting,  error handling and customization using Python within the ArcGIS environment. A series of hands-on lab exercises will walk students through the Python programming and development with ArcGIS modules.<br><br><strong>Prerequisites:</strong> IDCE 302 &amp; IDCE 310 OR GEOG 390 OR IDCE 388<br><br><strong>Anticipated Terms Offered:</strong> Annually<br><br></div>		</td>
+	</tr>
+</table>
+<br>

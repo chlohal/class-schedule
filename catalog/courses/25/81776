@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('25', '3', '81776', '', this, ''); return false;">
+				GEOG 379 - GIS &amp; Map Comparison			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=25&coid=81776&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>GEOG 379 - GIS & Map Comparison </h3>  <hr>GIS &amp; Map Comparison investigates metrics that scientists use and abuse, especially in Geographic Information Science and Remote Sensing. Applications show how to compare two versions of the same phenomenon, such as comparison of an initial time versus a subsequent time, or comparison of predictions versus observations. Students learn how to compute and to interpret useful metrics such as Hits, Misses, False Alarms, Total Operating Characteristic, Mean Deviation, Mean Absolute Deviation among others. The professor wrote the book, literally. The course carries the attribute for Problems of Practice.<br><br><strong>Prerequisites:</strong> Prerequisite is Intro to GIS, listed as <a href="preview_course_nopop.php?catoid=25&coid=81694" onclick="acalogPopup('preview_course.php?catoid=25&coid=81694&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=25&coid=81694&display_options[location]=tooltip&show" id="tt7106" target="_blank">GEOG 190</a><span style="display: none !important">&#160;</span> or <a href="preview_course_nopop.php?catoid=25&coid=82096" onclick="acalogPopup('preview_course.php?catoid=25&coid=82096&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=25&coid=82096&display_options[location]=tooltip&show" id="tt8280" target="_blank">IDCE 310</a><span style="display: none !important">&#160;</span>.<br><br><strong>Anticipated Terms Offered:</strong> Every fall<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt7106"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt8280"></div></div>		</td>
+	</tr>
+</table>
+<br>

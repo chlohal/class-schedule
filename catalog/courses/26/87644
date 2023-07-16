@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('26', '3', '87644', '', this, ''); return false;">
+				LAT 102 - Introductory Latin II			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=26&coid=87644&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>LAT 102 - Introductory Latin II </h3>  <hr><span style="color:#000000;font-size:11pt;">Second half of Introductory Latin. Continues the focus on developing basic language skills in reading, writing, speaking, and listening.  </span><br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=26&coid=86354" onclick="acalogPopup('preview_course.php?catoid=26&coid=86354&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=26&coid=86354&display_options[location]=tooltip&show" id="tt6035" target="_blank">LAT 101</a><span style="display: none !important">&#160;</span> <br><br><strong>Course Designation/Attribute:</strong> LP<br><br><strong>Anticipated Terms Offered:</strong> n/a<br><br><strong>Placement Guidelines</strong><br> Please visit the <a href="https://www.clarku.edu/departments/language-literature-and-culture/undergraduate-programs/language-placement-guidelines-and-credit-transfer/">Department of Language, Literature and Culture</a> for the language placement guidelines.<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt6035"></div></div>		</td>
+	</tr>
+</table>
+<br>

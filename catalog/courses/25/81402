@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('25', '3', '81402', '', this, ''); return false;">
+				ECON 360 - Probability and Statistics			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=25&coid=81402&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>ECON 360 - Probability and Statistics </h3>  <hr>An introduction to probability theory and mathematical statistics that emphasizes the probabilistic foundations required to understand probability models and statistical methods.  Topics covered will include the probability axioms, basic combinatorics, random variables and their probability distributions, mathematical expectation and common families of probability distributions.  <br><br></div>		</td>
+	</tr>
+</table>
+<br>

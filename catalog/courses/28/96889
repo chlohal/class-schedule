@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('28', '3', '96889', '', this, ''); return false;">
+				GAME 240 - Visual Effects			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=28&coid=96889&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>GAME 240 - Visual Effects </h3>  <hr>In this course students will learn to create real-time visual effects, using effects tools within a commercial game engine. Topics covered include development of different styles of effects, particles, texture and material creation, and timing.<br><br><strong>Prerequisites:</strong> GAME 085 and GAME 095<br><br><strong>Anticipated Terms Offered:</strong> Fall & Spring<br><br></div>		</td>
+	</tr>
+</table>
+<br>

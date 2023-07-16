@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('25', '3', '84121', '', this, ''); return false;">
+				MATH 235 - Einstein&#8217;s Theory of Gravity			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=25&coid=84121&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>MATH 235 - Einstein&#8217;s Theory of Gravity </h3>  <hr>This advanced undergraduate course introduces Einstein&#8217;s theory of gravity, known as General Relativity.  The central idea is that gravity is not a &#8220;force&#8221; between objects with mass (as Newton envisioned it), but rather the curvature of space itself.  We start by investigating &#8220;special&#8221; relativity: the dynamics of space and time <em>without</em> gravity.  Then we give a rigorous account of what is meant mathematically by &#8220;space&#8221; and &#8220;curvature.&#8221;  After that, we move on to Einstein&#8217;s defining equation relating gravity to curvature, and then close the course by studying one of its most prominent class of solutions: those modeling the universe as a whole.  Math 130 (Linear Algebra) and Math 131 (Multivariable Calculus) are formal prerequisites.  Familiarity with Physics 131 (Quantum Physics and Relativity) and Physics 160 (Classical Mechanics) are recommended but not required.  Familiarity with Math 230 (Differential Geometry) is also recommended but not required.<br><br><strong>Prerequisites:</strong> Math 130, Math 131<br><br><strong>Anticipated Terms Offered:</strong> Spring 2018<br><br></div>		</td>
+	</tr>
+</table>
+<br>

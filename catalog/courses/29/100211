@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('29', '3', '100211', '', this, ''); return false;">
+				CSCI 302 - Data Structures			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=29&coid=100211&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>CSCI 302 - Data Structures </h3>  <hr>The Data Structures course is the second in the introductory computer science series for graduate students new to CS. It focuses on computing fundamentals and important data structures such as linked lists, stacks, queues, hash tables and binary trees. Through this course, students learn effective components and approaches for computer programing, and further develop their computational thinking and problem-solving skills<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=29&coid=100210" onclick="acalogPopup('preview_course.php?catoid=29&coid=100210&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=100210&display_options[location]=tooltip&show" id="tt2103" target="_blank"> CSCI 301 - Introduction to Computing</a><span style="display: none !important">&#160;</span> <br><br><strong>Anticipated Terms Offered:</strong> Fall 2021<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt2103"></div></div>		</td>
+	</tr>
+</table>
+<br>

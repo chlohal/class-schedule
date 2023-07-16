@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('29', '3', '97168', '', this, ''); return false;">
+				CHEM 131 - Organic Chemistry Principles			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=29&coid=97168&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>CHEM 131 - Organic Chemistry Principles </h3>  <hr>This course introduces students to the chemistry of carbon-based molecules. This family of molecules is broad and diverse, as it includes the molecules of natural biochemistry, synthetic materials, modern medicine, nutrition, and much more. Major topics include foundational knowledge of molecular structures, observable properties, analytical methods, chemical reactivity, and the relationships between these topics. As an intermediate-level natural science course, this course challenges students to become stronger thinkers and stronger students by improving their analytical and critical thinking skills and by becoming more proactive and engaged as learners. The course includes a weekly lab period.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=29&coid=97166" onclick="acalogPopup('preview_course.php?catoid=29&coid=97166&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=97166&display_options[location]=tooltip&show" id="tt2043" target="_blank">CHEM 102</a><span style="display: none !important">&#160;</span> , <a href="preview_course_nopop.php?catoid=29&coid=97167" onclick="acalogPopup('preview_course.php?catoid=29&coid=97167&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=97167&display_options[location]=tooltip&show" id="tt7964" target="_blank">CHEM 103</a><span style="display: none !important">&#160;</span> or advanced placement<br><br><strong>Anticipated Terms Offered:</strong> Offered every year<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt2043"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt7964"></div></div>		</td>
+	</tr>
+</table>
+<br>

@@ -1,0 +1,15 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('25', '3', '81345', '', this, ''); return false;">
+				CSCI 140 - Assembly Language And Computer Organization			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=25&coid=81345&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>CSCI 140 - Assembly Language And Computer Organization </h3>  <p><hr>Covers fundamentals of assembly language programming such as data representation, the instruction set, addressing mode, macros, procedures, input and output facilities, assembler and linker, introduction to logic circuits and the basic machine organization of conventional computers. The goal is to understand how a computer performs various tasks that are completely hidden from the user in a high-level language. For the laboratory component, students will write several programs in assembly language. Prerequisites for this course require a grade of C or better.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=25&coid=81343" onclick="acalogPopup('preview_course.php?catoid=25&coid=81343&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=25&coid=81343&display_options[location]=tooltip&show" id="tt5070" target="_blank">CSCI 121</a><span style="display: none !important">&#160;</span> OR <a href="preview_course_nopop.php?catoid=25&coid=81344" onclick="acalogPopup('preview_course.php?catoid=25&coid=81344&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=25&coid=81344&display_options[location]=tooltip&show" id="tt22" target="_blank"> CSCI 124</a><span style="display: none !important">&#160;</span> </p>
+
+<p><em>(min grade of C- required for prereq)</em><br><br><strong>Anticipated Terms Offered:</strong> Offered every year<br><br></p><div style="display: none; z-index: 1000;" class="tooltip for_tt5070"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt22"></div></div>		</td>
+	</tr>
+</table>
+<br>

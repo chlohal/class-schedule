@@ -1,0 +1,15 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('29', '3', '100175', '', this, ''); return false;">
+				GAME 190 - Game Programming with Data Structures			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=29&coid=100175&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>GAME 190 - Game Programming with Data Structures </h3>  <p><hr>This course focuses on the subject of game programming using a third party 3D game engine to provide a uniform integration for audio, 3D visuals, and device input. Students will learn various data types, structures, and collections as well as simple analysis of algorithms while developing with various game libraries to be implemented in multi-platform engines such as Unity and Unreal to produce platform independent code. Students will also have the opportunity to interact with the online game programming community to further develop their skills.</p>
+
+<p> <br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=29&coid=100204" onclick="acalogPopup('preview_course.php?catoid=29&coid=100204&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=100204&display_options[location]=tooltip&show" id="tt503" target="_blank">GCPT 020 - Computer Programming C++</a><span style="display: none !important">&#160;</span> <br><br><strong>Anticipated Terms Offered:</strong> Fall<br><br></p><div style="display: none; z-index: 1000;" class="tooltip for_tt503"></div></div>		</td>
+	</tr>
+</table>
+<br>

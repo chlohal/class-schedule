@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('25', '3', '83006', '', this, ''); return false;">
+				IDCE 302 - Python Programming			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=25&coid=83006&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>IDCE 302 - Python Programming </h3>  <hr>This course provides a general introduction to the Python programming language. Topics include the Python programming environment; elements of the language, such as functions, conditionals, recursions, iterations, and file operations; basic data types, such as lists and dictionaries; and concepts of classes and objects. Upon the completion of this course, students will be able to understand the concept of programming and will be able to design and develop Python programs for scientific computing. This course is open to both graduate students and undergraduate students, no programming background is required. Offered each year.<br><br><strong>Anticipated Terms Offered:</strong> Annually<br><br></div>		</td>
+	</tr>
+</table>
+<br>

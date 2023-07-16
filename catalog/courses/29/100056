@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('29', '3', '100056', '', this, ''); return false;">
+				CSCI 095 - Introductory Computer Programming and Animation			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=29&coid=100056&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>CSCI 095 - Introductory Computer Programming and Animation </h3>  <hr>This course uses intuitive animation-based programming to introduce fundamental concepts and design process commonly used in computer software and app development. Key topics include basic programming blocks, program logics, loops, conditionals, functions, event handling, debugging, and iterative development process. Upon successful completion of this course, students will have gained a good understanding of computational principles, important skills to create animations and apps via low-code systems, and a solid foundation for continuing their education in computer science.<br><br><strong>Anticipated Terms Offered:</strong> varies<br><br></div>		</td>
+	</tr>
+</table>
+<br>

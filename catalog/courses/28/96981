@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('28', '3', '96981', '', this, ''); return false;">
+				MSCS 3055 - Design and Analysis of Algorithms			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=28&coid=96981&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>MSCS 3055 - Design and Analysis of Algorithms </h3>  <hr>This course will provide an exploration of the design and analysis of algorithms. It covers advanced data structures and algorithms, along with design techniques such as divide-and-conquer, dynamic programming, greedy algorithms, and search techniques. It also covers basic algorithm analysis including running time and memory space analysis, as well as ideas such as NP-Completeness. Additional topics may include randomized algorithms and approximation algorithms.<br><br><strong>Anticipated Terms Offered:</strong> Annually<br><br></div>		</td>
+	</tr>
+</table>
+<br>

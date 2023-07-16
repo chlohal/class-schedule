@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('28', '3', '92670', '', this, ''); return false;">
+				ACCT 5103 - Management Accounting			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=28&coid=92670&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>ACCT 5103 - Management Accounting </h3>  <hr>The course emphasizes accounting from the management perspective. It examines cost measurement issues and discusses how managers use accounting data for their decision making. Topics include: job-order costing, process costing, activity-based costing, cost behavior, cost-volume-profit analysis, variable costing, budgeting, standard costing, segment reporting, and relevant costs for decision making.<br><br><strong>Corequisites:</strong> <a href="preview_course_nopop.php?catoid=28&coid=92667" onclick="acalogPopup('preview_course.php?catoid=28&coid=92667&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=28&coid=92667&display_options[location]=tooltip&show" id="tt2553" target="_blank">ACCT 4100</a><span style="display: none !important">&#160;</span> , or <a href="preview_course_nopop.php?catoid=28&coid=95107" onclick="acalogPopup('preview_course.php?catoid=28&coid=95107&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=28&coid=95107&display_options[location]=tooltip&show" id="tt9742" target="_blank">ACCT 4101</a><span style="display: none !important">&#160;</span>, or waiver.<br><br><strong>Anticipated Terms Offered:</strong> Varies<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt2553"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt9742"></div></div>		</td>
+	</tr>
+</table>
+<br>

@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('28', '3', '92763', '', this, ''); return false;">
+				BIOL 105 - Evolution			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=28&coid=92763&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>BIOL 105 - Evolution </h3>  <hr>An introduction to the mechanisms and patterns of evolutionary change. Although this course will briefly survey the major evolutionary events that have occurred since life first evolved, the emphasis will be on mechanisms of evolutionary change (e.g. mutation, natural selection, genetic drift and gene flow) and resultant patterns (e.g. phylogenetic pattern, coevolution, stasis, adaptive radiation).<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=28&coid=92760" onclick="acalogPopup('preview_course.php?catoid=28&coid=92760&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=28&coid=92760&display_options[location]=tooltip&show" id="tt5009" target="_blank">BIOL 101</a><span style="display: none !important">&#160;</span> or <span class="acalog-permalink-inactive">BIOL 103</span><span style="display: none !important">&#160;</span> <br><br><strong>Anticipated Terms Offered:</strong> Offered every semester<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt5009"></div></div>		</td>
+	</tr>
+</table>
+<br>

@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('28', '3', '94455', '', this, ''); return false;">
+				CHEM 140 - Analytical Chemistry			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=28&coid=94455&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>CHEM 140 - Analytical Chemistry </h3>  <hr>This course introduces modern methods of quantitative analysis. Topics include UV-Vis spectroscopy, fluorescence spectroscopy, electrochemistry, separation methods, experimental error and uncertainty, acid-base equilibria, and fundamental analytical laboratory techniques.<span>  </span>Must register for lab.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=28&coid=92835" onclick="acalogPopup('preview_course.php?catoid=28&coid=92835&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=28&coid=92835&display_options[location]=tooltip&show" id="tt8396" target="_blank">CHEM 102</a><span style="display: none !important">&#160;</span>  or <a href="preview_course_nopop.php?catoid=28&coid=92836" onclick="acalogPopup('preview_course.php?catoid=28&coid=92836&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=28&coid=92836&display_options[location]=tooltip&show" id="tt1223" target="_blank">CHEM 103</a><span style="display: none !important">&#160;</span> <br><br><strong>Anticipated Terms Offered:</strong> n/a<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt8396"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt1223"></div></div>		</td>
+	</tr>
+</table>
+<br>

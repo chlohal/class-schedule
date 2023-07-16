@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('26', '3', '86572', '', this, ''); return false;">
+				PHYS 206 - Quantum Mechanics - Part II			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=26&coid=86572&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>PHYS 206 - Quantum Mechanics - Part II </h3>  <hr>PHYS 206 is a continuation of <a href="preview_course_nopop.php?catoid=26&coid=86571" onclick="acalogPopup('preview_course.php?catoid=26&coid=86571&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=26&coid=86571&display_options[location]=tooltip&show" id="tt7981" target="_blank">PHYS 205</a><span style="display: none !important">&#160;</span>.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=26&coid=86571" onclick="acalogPopup('preview_course.php?catoid=26&coid=86571&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=26&coid=86571&display_options[location]=tooltip&show" id="tt8522" target="_blank">PHYS 205</a><span style="display: none !important">&#160;</span> <br><br><strong>Anticipated Terms Offered:</strong> Offered every spring.<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt7981"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt8522"></div></div>		</td>
+	</tr>
+</table>
+<br>

@@ -1,0 +1,19 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('26', '3', '86364', '', this, ''); return false;">
+				MATH 120 - Calculus I			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=26&coid=86364&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>MATH 120 - Calculus I </h3>  <p><hr>Calculus is essential for majors in biology, chemistry, computer science, mathematics, physics, and environmental science and policy. Part I includes functions, limits, continuity, differentiation of algebraic and trigonometric functions, mean-value theorem and various applications. Part II includes Riemann sums and integrals, techniques and applications of integration, improper integrals, transcendental functions (logarithms, exponential functions and inverse trigonometric functions). Part III includes further topics from calculus proper (sequences, series, polar coordinates) and introduces linear algebra (vectors, matrices and linear systems). Though not all results are derived rigorously, care is taken to distinguish intuitive arguments from rigorous proofs. MATH 120, <a href="preview_course_nopop.php?catoid=26&coid=86365" onclick="acalogPopup('preview_course.php?catoid=26&coid=86365&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=26&coid=86365&display_options[location]=tooltip&show" id="tt9740" target="_blank">MATH 121</a><span style="display: none !important">&#160;</span> and 122 fulfill the formal-analysis requirement. MATH 122 is a prerequisite for <a href="preview_course_nopop.php?catoid=26&coid=86371" onclick="acalogPopup('preview_course.php?catoid=26&coid=86371&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=26&coid=86371&display_options[location]=tooltip&show" id="tt0" target="_blank">MATH 131</a><span style="display: none !important">&#160;</span> for students who have taken MATH 120, <a href="preview_course_nopop.php?catoid=26&coid=86365" onclick="acalogPopup('preview_course.php?catoid=26&coid=86365&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=26&coid=86365&display_options[location]=tooltip&show" id="tt8066" target="_blank">MATH 121</a><span style="display: none !important">&#160;</span>.<br><br><strong>Prerequisites:</strong> Prerequisite for Math 120: appropriate score on the mathematics placement test or passing grade in <a href="preview_course_nopop.php?catoid=26&coid=86363" onclick="acalogPopup('preview_course.php?catoid=26&coid=86363&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=26&coid=86363&display_options[location]=tooltip&show" id="tt634" target="_blank">MATH 119</a><span style="display: none !important">&#160;</span>.</p>
+
+<p>Prerequisite for Math 121: a passing grade in Math 120.</p>
+
+<p>Prerequisite for Math 122: a passing grade in Math 121.</p>
+
+<p> <br><br><strong>Course Designation/Attribute:</strong> FA<br><br><strong>Anticipated Terms Offered:</strong> Offered every Fall (120, 122) and Spring (121)<br><br></p><div style="display: none; z-index: 1000;" class="tooltip for_tt9740"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt0"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt8066"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt634"></div></div>		</td>
+	</tr>
+</table>
+<br>

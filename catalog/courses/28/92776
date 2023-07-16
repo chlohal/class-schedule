@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('28', '3', '92776', '', this, ''); return false;">
+				BIOL 207 - Conservation Biology			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=28&coid=92776&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>BIOL 207 - Conservation Biology </h3>  <hr>Conservation Biology focuses on the biological underpinnings of efforts to preserve biodiversity in the face of increasing impacts of human activities. This seminar builds upon student background in ecology and evolution, developing skills for assessment of the fundamental biological information needed to develop policy that can lead to the protection of threatened and endangered species/populations/ evolutionarily significant units.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=28&coid=92763" onclick="acalogPopup('preview_course.php?catoid=28&coid=92763&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=28&coid=92763&display_options[location]=tooltip&show" id="tt8643" target="_blank">BIOL 105</a><span style="display: none !important">&#160;</span>; <a href="preview_course_nopop.php?catoid=28&coid=92770" onclick="acalogPopup('preview_course.php?catoid=28&coid=92770&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=28&coid=92770&display_options[location]=tooltip&show" id="tt9631" target="_blank"> BIOL 118</a><span style="display: none !important">&#160;</span> ; instructor permission.<br><br><strong>Anticipated Terms Offered:</strong> Offered every other year.<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt8643"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt9631"></div></div>		</td>
+	</tr>
+</table>
+<br>

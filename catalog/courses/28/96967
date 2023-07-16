@@ -1,0 +1,19 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('28', '3', '96967', '', this, ''); return false;">
+				CSCI 282 - Network Security			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=28&coid=96967&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>CSCI 282 - Network Security </h3>  <hr>This course covers network security challenges that arise when an enterprise&#8217;s network is connected<br>
+to public internet. The course comprehensively explores network security basics, including<br>
+vulnerabilities and threats identification in network architectures and applications. Afterwards, the<br>
+course focuses on network security mechanisms, including ACL, IPsec, DNSSEC, applied<br>
+cryptographic techniques, configuration and deployment of middleboxes, such as firewalls, IDSes,<br>
+and VPNs. Through examples and exercises, this course incorporates hands-on activities to prepare<br>
+students to identify, mitigate and disarm threats.<br><br><strong>Prerequisites:</strong> C- or better in <a href="preview_course_nopop.php?catoid=28&coid=92936" onclick="acalogPopup('preview_course.php?catoid=28&coid=92936&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=28&coid=92936&display_options[location]=tooltip&show" id="tt6117" target="_blank">CSCI 280</a><span style="display: none !important">&#160;</span> <br><br><strong>Anticipated Terms Offered:</strong> Bi-annually<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt6117"></div></div>		</td>
+	</tr>
+</table>
+<br>

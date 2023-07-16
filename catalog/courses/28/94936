@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('28', '3', '94936', '', this, ''); return false;">
+				CSCI 2240 - Distributed Systems			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=28&coid=94936&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>CSCI 2240 - Distributed Systems </h3>  <hr>Introduces Distributed Operating Systems and distributed systems in general. We will focus on the principles and paradigms such as communication, process, naming, synchronization, consistency and replication, fault tolerance and security. We will also cover object based systems, distributed file systems, document based systems and coordination based systems.<br><br><strong>Prerequisites:</strong> Introduction to Operating Systems<br><br><strong>Anticipated Terms Offered:</strong> various<br><br></div>		</td>
+	</tr>
+</table>
+<br>

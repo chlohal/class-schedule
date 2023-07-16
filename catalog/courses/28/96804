@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('28', '3', '96804', '', this, ''); return false;">
+				ACCT 5200 - Advanced Accounting Analytics			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=28&coid=96804&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>ACCT 5200 - Advanced Accounting Analytics </h3>  <hr>This course is intended to provide students with a deeper understanding of data analytic thinking in more complex accounting topics. Students will gain hands-on experience with data analytics tools and techniques. Students will leave this course with the skills necessary to translate accounting and business problems into actionable proposals that they can competently present to managers and data scientists. The focus of this class is on concepts, not algorithms or statistical math, with some use of statistical tools.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=28&coid=95544" onclick="acalogPopup('preview_course.php?catoid=28&coid=95544&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=28&coid=95544&display_options[location]=tooltip&show" id="tt3147" target="_blank">ACCT 5100</a><span style="display: none !important">&#160;</span> and <a href="preview_course_nopop.php?catoid=28&coid=95416" onclick="acalogPopup('preview_course.php?catoid=28&coid=95416&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=28&coid=95416&display_options[location]=tooltip&show" id="tt2453" target="_blank">BAN 4550</a><span style="display: none !important">&#160;</span> <br><br><strong>Corequisites:</strong> <a href="preview_course_nopop.php?catoid=28&coid=95321" onclick="acalogPopup('preview_course.php?catoid=28&coid=95321&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=28&coid=95321&display_options[location]=tooltip&show" id="tt4186" target="_blank">STAT 4600</a><span style="display: none !important">&#160;</span> <br><br><strong>Anticipated Terms Offered:</strong> Varies<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt3147"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt2453"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt4186"></div></div>		</td>
+	</tr>
+</table>
+<br>

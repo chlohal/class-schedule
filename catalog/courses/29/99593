@@ -1,0 +1,17 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('29', '3', '99593', '', this, ''); return false;">
+				GEOG 246 - Geospatial Analysis with R			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=29&coid=99593&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>GEOG 246 - Geospatial Analysis with R </h3>  <p><hr>Free and open source R is increasingly used for geospatial analyses. R and its ecosystem of supporting software also facilitate the creation, presentation, and reproducibility of analyses. R is therefore very close to being a one-stop shop for the modern GIScientist. This course will provide students with the skills they need to use R as a GIS. There will be additional emphases on programming, presentation, and reproducibility, which will entail learning to develop R libraries, development of presentations and reports using Rmarkdown, and using version control with github. Students will learn and apply R skills by working on a specific research problem. Students should have prior programming experience. Open to upper level undergraduate and graduate students. Satisfies the <em>Skills requirement</em> o<em>r </em>can count as a<em> specialization course in GIS </em>in the undergraduate geography and global environmental studies major/minor.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=29&coid=97564" onclick="acalogPopup('preview_course.php?catoid=29&coid=97564&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=97564&display_options[location]=tooltip&show" id="tt5740" target="_blank">GEOG 190</a><span style="display: none !important">&#160;</span> </p>
+
+<p> </p>
+
+<p> <br><br><strong>Anticipated Terms Offered:</strong> annually<br><br></p><div style="display: none; z-index: 1000;" class="tooltip for_tt5740"></div></div>		</td>
+	</tr>
+</table>
+<br>

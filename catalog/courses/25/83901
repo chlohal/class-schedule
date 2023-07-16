@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('25', '3', '83901', '', this, ''); return false;">
+				CSCI 255 - Design and Analysis of Algorithms			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=25&coid=83901&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>CSCI 255 - Design and Analysis of Algorithms </h3>  <hr>This course will provide a rigorous introduction to the design and analysis of algorithms. It covers advanced data structures and algorithms, design techniques such as divide-and-conquer, dynamic programming, greedy algorithms, complete search and reduction, algorithm analysis including correctness proof, running time and memory space analysis, as well as tractability issues such as NP-Completeness. Additional topics may include randomized algorithms and approximation algorithms.  <br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=25&coid=81346" onclick="acalogPopup('preview_course.php?catoid=25&coid=81346&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=25&coid=81346&display_options[location]=tooltip&show" id="tt2189" target="_blank">CSCI 160</a><span style="display: none !important">&#160;</span>, <a href="preview_course_nopop.php?catoid=25&coid=81348" onclick="acalogPopup('preview_course.php?catoid=25&coid=81348&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=25&coid=81348&display_options[location]=tooltip&show" id="tt2397" target="_blank">CSCI 180</a><span style="display: none !important">&#160;</span> and <a href="preview_course_nopop.php?catoid=25&coid=82263" onclick="acalogPopup('preview_course.php?catoid=25&coid=82263&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=25&coid=82263&display_options[location]=tooltip&show" id="tt509" target="_blank">MATH 125</a><span style="display: none !important">&#160;</span>  a grade of C- or better<br><br><strong>Anticipated Terms Offered:</strong> Offered Periodically<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt2189"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt2397"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt509"></div></div>		</td>
+	</tr>
+</table>
+<br>

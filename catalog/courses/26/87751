@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('26', '3', '87751', '', this, ''); return false;">
+				BIOL 330 - The Human Genome			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=26&coid=87751&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>BIOL 330 - The Human Genome </h3>  <hr>This course will provide a foundation for the basic concepts in human genomics. Topics covered will include: genome structure and function, human evolution and paleogenomics, human migration, natural selection in human populations, genetic disease, microbiomics, epigenetics, and personalized medicine and ethics. The format of the course will be a combination of group projects, discussion of primary literature, and lecture.<br><br><strong>Anticipated Terms Offered:</strong> Varied<br><br></div>		</td>
+	</tr>
+</table>
+<br>

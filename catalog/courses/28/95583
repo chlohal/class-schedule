@@ -1,0 +1,15 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('28', '3', '95583', '', this, ''); return false;">
+				MSDA 3055 - Linear Regression and Time Series			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=28&coid=95583&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>MSDA 3055 - Linear Regression and Time Series </h3>  <p><hr>This course provides an introduction into regression and time series analysis. A data analyst is often interested in using sample data to investigate relationships, with an ultimate goal of creating a model to predict a future value for some dependent variable. The process of finding this mathematical model that best fits the data involves regression analysis. MDA 3055 is an applied linear regression course that emphasizes data analysis and interpretation. Generally, statistical regression is collection of methods for determining and using models that explain how a response variable (dependent variable) relates to one or more explanatory variables (predictor variables).</p>
+
+<p> <br><br><strong>Prerequisites:</strong> A background that includes statistics is required.<br><br><strong>Anticipated Terms Offered:</strong> bi annually<br><br></p></div>		</td>
+	</tr>
+</table>
+<br>

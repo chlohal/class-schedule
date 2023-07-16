@@ -1,0 +1,15 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('29', '3', '105264', '', this, ''); return false;">
+				MSEA 3440 - Special Topics			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=29&coid=105264&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>MSEA 3440 - Special Topics </h3>  <p><hr>This course addresses current or timely topics in Sports and Esports Administration.  Special Topics can vary from semester to semester.  Course may be repeated for credit if topics are different.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=29&coid=105248" onclick="acalogPopup('preview_course.php?catoid=29&coid=105248&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=105248&display_options[location]=tooltip&show" id="tt9481" target="_blank">MSEA 3000 Introduction to the Sports Industry</a><span style="display: none !important">&#160;</span> </p>
+
+<p><a href="preview_course_nopop.php?catoid=29&coid=105252" onclick="acalogPopup('preview_course.php?catoid=29&coid=105252&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=105252&display_options[location]=tooltip&show" id="tt806" target="_blank">MSEA 3010 The Business of Esports</a><span style="display: none !important">&#160;</span> <br><br><strong>Anticipated Terms Offered:</strong> Varied<br><br></p><div style="display: none; z-index: 1000;" class="tooltip for_tt9481"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt806"></div></div>		</td>
+	</tr>
+</table>
+<br>

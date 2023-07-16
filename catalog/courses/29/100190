@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('29', '3', '100190', '', this, ''); return false;">
+				GAME 265 - Artificial Intelligence for Games			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=29&coid=100190&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>GAME 265 - Artificial Intelligence for Games </h3>  <hr>This course provides an overview of the field of artificial intelligence with special attention to uses in the electronic gaming field. Students will develop logic grids for intelligent agents, discuss how learning and communication are integral elements of artificial intelligence. Philosophical discussion of such concepts as intelligence, cognition, learning, and the Turing test will be addressed.<br><br><strong>Prerequisites:</strong>  <a href="preview_course_nopop.php?catoid=29&coid=100204" onclick="acalogPopup('preview_course.php?catoid=29&coid=100204&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=100204&display_options[location]=tooltip&show" id="tt3255" target="_blank">GCPT 020 - Computer Programming C++</a><span style="display: none !important">&#160;</span> <span style="color:#000000;font-size:12pt;">or <a href="preview_course_nopop.php?catoid=29&coid=97251" onclick="acalogPopup('preview_course.php?catoid=29&coid=97251&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=97251&display_options[location]=tooltip&show" id="tt1200" target="_blank">CSCI 121 - Data Structures</a><span style="display: none !important">&#160;</span> </span><br><br><strong>Anticipated Terms Offered:</strong> Fall<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt3255"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt1200"></div></div>		</td>
+	</tr>
+</table>
+<br>

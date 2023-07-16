@@ -1,0 +1,21 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('29', '3', '99742', '', this, ''); return false;">
+				GEOG 287 - New Methods in Earth Observation			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=29&coid=99742&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>GEOG 287 - New Methods in Earth Observation </h3>  <p><hr>Understanding the Earth System depends on observing observations of socioeconomic and environmental patterns and processes across multiple spatial and temporal scales. These scales span seconds to decades in time, and centimeters to millions of square kilometers in space. Earth Observation (EO, also known as remote sensing) is the only feasible means for providing this range of perspectives, but our ability to collect data across all necessary scales is currently limited by inherent tradeoffs between the extent, duration, frequency, and resolution of observation. This suggests the possibility that there may be important, but currently unknown, phenomena that exist within our observational blind spots. Some of this blindness is imposed by physics (there are only so many photons reflected from the Earth, and these are proportional to wavelength), but many are due to engineering or economic constraints (some sensors are too expensive to use more than once or over a large area). These latter hurdles are falling, however, as new &#8220;big data&#8221; analytical techniques emerge, and combine with increasingly available, high quality, low-cost data made possible by a host of new innovations, including cheap satellites, unmanned aerial systems, inexpensive cellphone enabled field sensors, and the availability of a large pool of internet-enabled workers who can interpret these data in ways that computers cannot. This course provides students hands-on experience working with these new EO technologies.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=29&coid=97591" onclick="acalogPopup('preview_course.php?catoid=29&coid=97591&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=97591&display_options[location]=tooltip&show" id="tt5733" target="_blank">GEOG 293</a><span style="display: none !important">&#160;</span> </p>
+
+<p> </p>
+
+<p>Basic programming experience required.</p>
+
+<p><strong>Undergraduate students by instructor permission only</strong></p>
+
+<p> <br><br><strong>Anticipated Terms Offered:</strong> Bi-annually<br><br></p><div style="display: none; z-index: 1000;" class="tooltip for_tt5733"></div></div>		</td>
+	</tr>
+</table>
+<br>

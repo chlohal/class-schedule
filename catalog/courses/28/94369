@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('28', '3', '94369', '', this, ''); return false;">
+				BIOL 119 - Herpetology			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=28&coid=94369&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>BIOL 119 - Herpetology </h3>  <hr>During the herpetology course, students will be introduced to the diversity and biology of amphibians and &#8220;reptiles&#8221;. The lecture component will have a global and diverse focus, covering topics of phylogenetics, the origin and evolution of amphibians and reptiles, the global diversity of these taxa, and their biogeography, biology, ecology and conservation. In the laboratory component, students will learn to identify amphibians and reptiles, the anatomy of these taxa, and some field techniques that are useful for studying them. The course assumes that students are familiar with basic evolutionary theory and general biology, and that they are proficient in writing. Fullfills the Biological Diversity requirement for the Major or Minor.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=28&coid=92760" onclick="acalogPopup('preview_course.php?catoid=28&coid=92760&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=28&coid=92760&display_options[location]=tooltip&show" id="tt4820" target="_blank">BIOL 101</a><span style="display: none !important">&#160;</span> and <a href="preview_course_nopop.php?catoid=28&coid=92761" onclick="acalogPopup('preview_course.php?catoid=28&coid=92761&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=28&coid=92761&display_options[location]=tooltip&show" id="tt766" target="_blank">BIOL 102</a><span style="display: none !important">&#160;</span> <br><br><strong>Anticipated Terms Offered:</strong> Varied<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt4820"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt766"></div></div>		</td>
+	</tr>
+</table>
+<br>

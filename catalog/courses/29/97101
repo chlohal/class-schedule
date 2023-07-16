@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('29', '3', '97101', '', this, ''); return false;">
+				BIOL 118 - Genetics			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=29&coid=97101&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>BIOL 118 - Genetics </h3>  <hr>Investigates the nature of genes and genomes in both prokaryotes and eukaryotes. A combination of approaches from classical Mendelian and modern Molecular Genetics are explored in order to examine the inheritance of both nuclear and extranuclear genes, how genes are expressed and regulated, mutation and DNA repair, and the nature of chromosome-level mutation. Also includes an integrated laboratory that highlights many aspects of the lectures and involves a bioinformatic annotation project using a novel genome.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=29&coid=97091" onclick="acalogPopup('preview_course.php?catoid=29&coid=97091&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=97091&display_options[location]=tooltip&show" id="tt8369" target="_blank">BIOL 101</a><span style="display: none !important">&#160;</span> and <a href="preview_course_nopop.php?catoid=29&coid=97092" onclick="acalogPopup('preview_course.php?catoid=29&coid=97092&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=97092&display_options[location]=tooltip&show" id="tt750" target="_blank">BIOL 102</a><span style="display: none !important">&#160;</span>.<br><br><strong>Anticipated Terms Offered:</strong> Offered every year.<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt8369"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt750"></div></div>		</td>
+	</tr>
+</table>
+<br>

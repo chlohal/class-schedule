@@ -1,0 +1,16 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('26', '3', '87836', '', this, ''); return false;">
+				GEOG 330 - Introduction to Species Distribution Modeling			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=26&coid=87836&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>GEOG 330 - Introduction to Species Distribution Modeling </h3>  <p><hr>An Introduction to species distribution modeling methods and applications.  Species distribution models (SDM), are increasingly used to evaluate the impacts of global change on biodiversity, to assess protection status, and for protected areas planning. The course starts with an introduction to ecological niche modeling, and continues with topics of data gathering, pre-processing, modeling (including statistical and machine learning algorithms), and validation. Topics will be covered through a combination of lectures, discussion of assigned readings and hands-on exercises.</p>
+
+<p><br>
+ <br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=26&coid=86216" onclick="acalogPopup('preview_course.php?catoid=26&coid=86216&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=26&coid=86216&display_options[location]=tooltip&show" id="tt2197" target="_blank">IDCE 310</a><span style="display: none !important">&#160;</span>  <a href="preview_course_nopop.php?catoid=26&coid=85851" onclick="acalogPopup('preview_course.php?catoid=26&coid=85851&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=26&coid=85851&display_options[location]=tooltip&show" id="tt9399" target="_blank">GEOG 190</a><span style="display: none !important">&#160;</span> <span class="acalog-permalink-inactive">ID 190</span><span style="display: none !important">&#160;</span> <br><br><strong>Anticipated Terms Offered:</strong> annually<br><br></p><div style="display: none; z-index: 1000;" class="tooltip for_tt2197"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt9399"></div></div>		</td>
+	</tr>
+</table>
+<br>

@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('29', '3', '105274', '', this, ''); return false;">
+				MSCS 3215 - Operating Systems			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=29&coid=105274&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>MSCS 3215 - Operating Systems </h3>  <hr>To study the principles underlying the design of operating systems. This is a course about how operating systems work, not how to use various operating systems. The notion of process, process state, and the management of asynchronous concurrent processes will be discussed. We will explore techniques for managing CPUs, memory, I/O devices, file systems, and distributed systems (networks), and mechanisms for security. We will see how some of these ideas are implemented in a number of specific systems. Practical experience will consist of the implementation some of these concepts largely via simulation and C programming.<br><br><strong>Anticipated Terms Offered:</strong> Annually<br><br></div>		</td>
+	</tr>
+</table>
+<br>

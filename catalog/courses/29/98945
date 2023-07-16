@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('29', '3', '98945', '', this, ''); return false;">
+				MATH 2200 - Calculus II			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=29&coid=98945&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>MATH 2200 - Calculus II </h3>  <hr>Calculus is the mathematics study of continuous change and it is composed of two main categories: the study of differential calculus which is covered in Calculus I, and integral Calculus, covered in Calculus II. In Calculus II, we will focus on different integration techniques to determine arc lengths, surface area, and center of mass and their applications in the world around us. Other topics include applications of the definite integral, sequences and series, techniques of integration and improper integrals.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=29&coid=98944" onclick="acalogPopup('preview_course.php?catoid=29&coid=98944&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=98944&display_options[location]=tooltip&show" id="tt6984" target="_blank"> MATH 1200 - Calculus I</a><span style="display: none !important">&#160;</span> or permission of the instructor.<br><br><strong>Anticipated Terms Offered:</strong> spring<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt6984"></div></div>		</td>
+	</tr>
+</table>
+<br>

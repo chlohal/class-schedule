@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('25', '3', '83532', '', this, ''); return false;">
+				PHIL 1000 - Introduction to Philosophy			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=25&coid=83532&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>PHIL 1000 - Introduction to Philosophy </h3>  <hr>Utilizing primary sources and commentary, the course introduces the student to the major schools of philosophy &#8211;idealism, realism, naturalism&#8211;through examining problems and theories in metaphysics, epistemology, ethics, social philosophy and anesthetics. Plato, Aristotle, Kant, Nietzsche, Mill and Rawls are reviewed.<br><br></div>		</td>
+	</tr>
+</table>
+<br>

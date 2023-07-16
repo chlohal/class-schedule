@@ -1,0 +1,14 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('25', '3', '81154', '', this, ''); return false;">
+				BIOL 240 - Comparative and Human Physiology			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=25&coid=81154&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>BIOL 240 - Comparative and Human Physiology </h3>  <hr> </p>
+<p class="MsoNormal">Introduces the principles underlying the physical and chemical processes that maintain animal life. Lectures cover the interdependent function of molecules, cells, organs and tissues as they relate to organismal performance. Human physiology is emphasized from a comparative standpoint.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=25&coid=81134" onclick="acalogPopup('preview_course.php?catoid=25&coid=81134&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=25&coid=81134&display_options[location]=tooltip&show" id="tt1020" target="_blank">BIOL 137</a><span style="display: none !important">&#160;</span> or <a href="preview_course_nopop.php?catoid=25&coid=81109" onclick="acalogPopup('preview_course.php?catoid=25&coid=81109'+((location.search.match(/&print/i)) ? '&print' : '')+'', '3', 770, 530, 'yes');return false;" target="_blank" aria-label="BCMB 271 opens a new window">BCMB 271</a><span style="display: none !important">&#160;</span>  . <a href="preview_course_nopop.php?catoid=25&coid=81131" onclick="acalogPopup('preview_course.php?catoid=25&coid=81131'+((location.search.match(/&print/i)) ? '&print' : '')+'', '3', 770, 530, 'yes');return false;" target="_blank" aria-label="BIOL 111 opens a new window">BIOL 111</a><span style="display: none !important">&#160;</span>  is recommended. Enrollment is normally restricted to juniors, seniors and graduate students.<br><br><strong>Anticipated Terms Offered:</strong> Offered every year.<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt1020"></div></div>		</td>
+	</tr>
+</table>
+<br>

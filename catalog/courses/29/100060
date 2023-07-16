@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('29', '3', '100060', '', this, ''); return false;">
+				CSCI 171 - Object-oriented Programming in C++			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=29&coid=100060&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>CSCI 171 - Object-oriented Programming in C++ </h3>  <hr>This course emphasizes practical programming skills in the C++ language while also helping build knowledge of programming language concepts, problem-solving skills, and good coding practices. The course examines common programming constructs as they are implemented in C++ including C++ 17. Topics include the use of C++ for memory management, file input/output (I/O), pointers, references, exceptions, templates, and object-oriented programming.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=29&coid=97253" onclick="acalogPopup('preview_course.php?catoid=29&coid=97253&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=97253&display_options[location]=tooltip&show" id="tt4541" target="_blank">CSCI 140</a><span style="display: none !important">&#160;</span> Assembly Language &amp; Computer Organization or <a href="preview_course_nopop.php?catoid=29&coid=97255" onclick="acalogPopup('preview_course.php?catoid=29&coid=97255&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=97255&display_options[location]=tooltip&show" id="tt9060" target="_blank">CSCI 170</a><span style="display: none !important">&#160;</span> Analysis of Program Languages<br><br><strong>Anticipated Terms Offered:</strong> 2021 Winter Intersession<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt4541"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt9060"></div></div>		</td>
+	</tr>
+</table>
+<br>

@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('28', '3', '94626', '', this, ''); return false;">
+				MATH 1150 - Statistics			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=28&coid=94626&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>MATH 1150 - Statistics </h3>  <hr><span style="font-family:calibri, sans-serif;font-size:11pt;">This is an introductory course in statistics that encompasses descriptive and inferential statistics. Descriptive statistics aims to summarize and present data quantitatively using multiple methods such as graphs, m<span style="color:#222222;">easures of central tendency, and measures of variability. In inferential statistics, </span>concepts and methods used to make inferences about populations<span style="color:#000000;"> using sample data are reviewed. Topics in this course include probability distributions, estimating population parameters, testing hypothesis, and linear regression and correlation. <em>(Formally MATH 1470)</em></span></span><br><br><strong>Prerequisites:</strong> MATH 1000 Algebra<br><br><strong>Course Designation/Attribute:</strong> FA (summer only)<br><br><strong>Anticipated Terms Offered:</strong> fall<br><br></div>		</td>
+	</tr>
+</table>
+<br>

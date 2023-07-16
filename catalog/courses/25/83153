@@ -1,0 +1,14 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('25', '3', '83153', '', this, ''); return false;">
+				BIOL 306 - Advanced Biostatistics			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=25&coid=83153&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>BIOL 306 - Advanced Biostatistics </h3>  <hr>
+</p><p class="MsoNormal">During Advanced Biostatistics, students will build on the basic statistical skills they gained in Quantitative Methods and learn to apply more advanced techniques to real data.<span>  </span>Students will also learn to read biostatistical literature, which will build their ability to learn other statistical techniques on their own.<span>  </span>Students will learn a variety of techniques that are frequently used by Biology Faculty at Clark University, and so will enhance the skills students have to effectively do research in the department.<span>  </span>Students will learn to do these statistics in the statistical computing language R, which has become the standard in the sciences for conducting complex statistical analysis.<span>  </span>Students will get the opportunity to analyze data generated in Clark Biology laboratories to reinforce their learning and get valuable hands-on experience doing statistics.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=25&coid=81127" onclick="acalogPopup('preview_course.php?catoid=25&coid=81127'+((location.search.match(/&print/i)) ? '&print' : '')+'', '3', 770, 530, 'yes');return false;" target="_blank" aria-label="BIOL 106 opens a new window">BIOL 106</a><span style="display: none !important">&#160;</span>   or permission of the instructor<br><br><strong>Anticipated Terms Offered:</strong> every other fall<br><br></div>		</td>
+	</tr>
+</table>
+<br>

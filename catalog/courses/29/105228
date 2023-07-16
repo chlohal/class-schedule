@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('29', '3', '105228', '', this, ''); return false;">
+				BIOL 120 - Quantitative Methods for the Biological Sciences			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=29&coid=105228&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>BIOL 120 - Quantitative Methods for the Biological Sciences </h3>  <hr>The field of Biology has been revolutionized with advances in technology and the advent of big data. Ranging from genomic datasets that include DNA sequences with billions of base pairs, to ecological datasets that include terabytes of information on climate change, species diversity and conservation efforts, large datasets have become common place in the biological sciences. Due to this explosion in the acquisition of high-quality data, biologists are now expected to expand their toolbox to include applying new computational algorithms, mathematical models, and statistics.  This course will expose students to the basic tools of Computational Biology while exploring important topics in modern biology such as Biodiversity, Climate Change, or Health and Human Disease.  Each iteration of the course will use a specific dataset to investigate one or more of these areas of Biology.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=29&coid=97091" onclick="acalogPopup('preview_course.php?catoid=29&coid=97091&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=97091&display_options[location]=tooltip&show" id="tt3603" target="_blank">BIOL 101</a><span style="display: none !important">&#160;</span> (can be taken as a co-requisite)<br><br><strong>Course Designation/Attribute:</strong> SP<br><br><strong>Anticipated Terms Offered:</strong> Fall annually<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt3603"></div></div>		</td>
+	</tr>
+</table>
+<br>

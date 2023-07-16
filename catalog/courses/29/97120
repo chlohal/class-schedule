@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('29', '3', '97120', '', this, ''); return false;">
+				BIOL 238 - Seminar in Cell Biology			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=29&coid=97120&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>BIOL 238 - Seminar in Cell Biology </h3>  <hr><p style="text-align:left;"><span style="background-color:transparent;color:rgb(0,0,0);font-family:arial;font-size:11pt;font-style:normal;font-weight:400;text-decoration:none;vertical-align:baseline;">Discussion based on research papers from the current literature, will be focused on an area in cell biology selected by the participants on the first day. The weekly readings will be selected by both the students and the member. The scientific content, as well as the methodology will be discussed in detail. </span><br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=29&coid=97101" onclick="acalogPopup('preview_course.php?catoid=29&coid=97101&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=97101&display_options[location]=tooltip&show" id="tt1977" target="_blank">BIOL 118</a><span style="display: none !important">&#160;</span> OR <a href="preview_course_nopop.php?catoid=29&coid=97102" onclick="acalogPopup('preview_course.php?catoid=29&coid=97102&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=97102&display_options[location]=tooltip&show" id="tt193" target="_blank">BIOL 137</a><span style="display: none !important">&#160;</span> <br><br><strong>Anticipated Terms Offered:</strong> Offered periodically<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt1977"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt193"></div></div>		</td>
+	</tr>
+</table>
+<br>

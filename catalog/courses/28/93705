@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('28', '3', '93705', '', this, ''); return false;">
+				MATH 130 - Linear Algebra			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=28&coid=93705&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>MATH 130 - Linear Algebra </h3>  <hr>A requirement for mathematics and physics majors; highly recommended for all computer-science majors. Topics include systems of linear equations and their solutions, matrices and matrix algebra, inverse matrices; determinants and permutations; real n-dimensional vector spaces, abstract vector spaces and their axioms, linear transformations; inner products (dot products), orthogonality, cross products, and their geometric applications; subspaces, linear independence, bases for vector spaces, dimension, matrix rank; eigenvectors, eigenvalues, matrix diagonalization. Some applications of linear algebra will be discussed, such as computer graphics, Kirchoff&#8217;s laws, linear regression (least squares), Fourier series, or differential equations.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=28&coid=93700" onclick="acalogPopup('preview_course.php?catoid=28&coid=93700&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=28&coid=93700&display_options[location]=tooltip&show" id="tt5120" target="_blank">MATH 121</a><span style="display: none !important">&#160;</span> or <a href="preview_course_nopop.php?catoid=28&coid=93702" onclick="acalogPopup('preview_course.php?catoid=28&coid=93702&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=28&coid=93702&display_options[location]=tooltip&show" id="tt4887" target="_blank">MATH 125</a><span style="display: none !important">&#160;</span>.<br><br><strong>Course Designation/Attribute:</strong> FA<br><br><strong>Anticipated Terms Offered:</strong> Offered every year<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt5120"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt4887"></div></div>		</td>
+	</tr>
+</table>
+<br>

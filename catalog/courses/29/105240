@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('29', '3', '105240', '', this, ''); return false;">
+				MATH 140 - Linear Mathematical Optimization			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=29&coid=105240&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>MATH 140 - Linear Mathematical Optimization </h3>  <hr>Linear mathematical optimization is the essential branch of applied mathematics and in particular optimization, with applications to many areas including economics, computer science, data science, machine learning, social sciences, defense, telecommunications, transportation, etc. This field originated by the seminal work of George Dantzig and his development of the simplex method to design operation models in the World War II. This course is an introductory course in linear optimization or linear programming which is maximization and minimization of linear functions subject to constraints consisting of linear equations and inequalities.  We study linear programs from the real-world problems and we apply state-of-the-art techniques to solve them. The major topics of this course are: linear programming and mathematical modeling, convex geometry, simplex method, elementary games, duality, and sensitivity analysis. To analyze problems, we begin with a geometric point of view, followed by the development of the solution algorithms based on techniques in linear algebra. Math 130-Linear algebra is a requirement for this course.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=29&coid=98031" onclick="acalogPopup('preview_course.php?catoid=29&coid=98031&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=98031&display_options[location]=tooltip&show" id="tt2330" target="_blank"> MATH 130 - Linear Algebra</a><span style="display: none !important">&#160;</span> <br><br><strong>Anticipated Terms Offered:</strong> Fall 2022<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt2330"></div></div>		</td>
+	</tr>
+</table>
+<br>

@@ -1,0 +1,15 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('29', '3', '98714', '', this, ''); return false;">
+				PSYC 313 - Assessment Practicum			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=29&coid=98714&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>PSYC 313 - Assessment Practicum </h3>  <p><hr><span style="color:#666666;font-size:8.5pt;">This assessment practicum provides students with more advanced assessment experiences. As part of the course, students receive two clinical referrals (one adult and one child) for assessment. They then administer a full assessment battery, interpret the data, and write up a final report. <em>This course may be repeatable for credit.</em></span></p>
+
+<p> <br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=29&coid=98418" onclick="acalogPopup('preview_course.php?catoid=29&coid=98418&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=98418&display_options[location]=tooltip&show" id="tt2491" target="_blank">PSYC 303</a><span style="display: none !important">&#160;</span> and <a href="preview_course_nopop.php?catoid=29&coid=98419" onclick="acalogPopup('preview_course.php?catoid=29&coid=98419&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=98419&display_options[location]=tooltip&show" id="tt8552" target="_blank">PSYC 304</a><span style="display: none !important">&#160;</span> (adult and child assessment)<br><br><strong>Anticipated Terms Offered:</strong> Every year<br><br></p><div style="display: none; z-index: 1000;" class="tooltip for_tt2491"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt8552"></div></div>		</td>
+	</tr>
+</table>
+<br>

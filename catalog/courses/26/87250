@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('26', '3', '87250', '', this, ''); return false;">
+				CHEM 362 - Physcial Chemistry II			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=26&coid=87250&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>CHEM 362 - Physcial Chemistry II </h3>  <hr>CHEM 362 covers basic principles of quantum mechanics and their application for understanding fundamental aspects of atomic structure and molecular bonding as well as molecular spectroscopy.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=26&coid=85423" onclick="acalogPopup('preview_course.php?catoid=26&coid=85423'+((location.search.match(/&print/i)) ? '&print' : '')+'', '3', 770, 530, 'yes');return false;" target="_blank" aria-label="CHEM 260 opens a new window">CHEM 260</a><span style="display: none !important">&#160;</span><br><br><strong>Anticipated Terms Offered:</strong> Offered every other year<br><br></div>		</td>
+	</tr>
+</table>
+<br>

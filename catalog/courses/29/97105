@@ -1,0 +1,15 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('29', '3', '97105', '', this, ''); return false;">
+				BIOL 180 - Biology  of Mushrooms			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=29&coid=97105&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>BIOL 180 - Biology  of Mushrooms </h3>  <p><hr>This is a lecture/lab/field/discussion course focused on the basic and applied biology of mushrooms and related fungi. Topics will include: mushroom diversity, ecology and evolution; identification of New England mushrooms; mushroom cultivation; fermented fungal foods and beverages; ethnomycology, medical mycology; and topics in applied mycology (mycoremediation, alternative uses of fungi and fungal products, etc). The course will include opportunities for weekend field trips to attend local mushroom forays. Fulfills the Biological Diversity requirement for the Minor.</p>
+
+<p> <br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=29&coid=97091" onclick="acalogPopup('preview_course.php?catoid=29&coid=97091&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=97091&display_options[location]=tooltip&show" id="tt3334" target="_blank">BIOL 101</a><span style="display: none !important">&#160;</span> and <a href="preview_course_nopop.php?catoid=29&coid=97092" onclick="acalogPopup('preview_course.php?catoid=29&coid=97092&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=97092&display_options[location]=tooltip&show" id="tt2933" target="_blank">BIOL 102</a><span style="display: none !important">&#160;</span>.<br><br><strong>Anticipated Terms Offered:</strong> Offered every other year<br><br></p><div style="display: none; z-index: 1000;" class="tooltip for_tt3334"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt2933"></div></div>		</td>
+	</tr>
+</table>
+<br>

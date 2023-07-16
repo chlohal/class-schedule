@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('26', '3', '85722', '', this, ''); return false;">
+				ENG 303 - Pedagogy IV			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=26&coid=85722&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>ENG 303 - Pedagogy IV </h3>  <hr>A continuation of <a href="preview_course_nopop.php?catoid=26&coid=85721" onclick="acalogPopup('preview_course.php?catoid=26&coid=85721&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=26&coid=85721&display_options[location]=tooltip&show" id="tt9410" target="_blank">ENG 302</a><span style="display: none !important">&#160;</span>. See its listing for a complete description.<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt9410"></div></div>		</td>
+	</tr>
+</table>
+<br>

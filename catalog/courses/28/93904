@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('28', '3', '93904', '', this, ''); return false;">
+				PHYS 209 - Statistical Mechanics			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=28&coid=93904&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>PHYS 209 - Statistical Mechanics </h3>  <hr>Designed to prepare students for graduate work in physics. The lectures are the same as in <a href="preview_course_nopop.php?catoid=28&coid=93914" onclick="acalogPopup('preview_course.php?catoid=28&coid=93914&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=28&coid=93914&display_options[location]=tooltip&show" id="tt6612" target="_blank">PHYS 309</a><span style="display: none !important">&#160;</span>, but the assignments and evaluation are separate.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=28&coid=93896" onclick="acalogPopup('preview_course.php?catoid=28&coid=93896&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=28&coid=93896&display_options[location]=tooltip&show" id="tt6888" target="_blank">PHYS 150</a><span style="display: none !important">&#160;</span> and <a href="preview_course_nopop.php?catoid=28&coid=93899" onclick="acalogPopup('preview_course.php?catoid=28&coid=93899&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=28&coid=93899&display_options[location]=tooltip&show" id="tt4426" target="_blank">PHYS 171</a><span style="display: none !important">&#160;</span>.<br><br><strong>Anticipated Terms Offered:</strong> Offered every fall.<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt6612"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt6888"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt4426"></div></div>		</td>
+	</tr>
+</table>
+<br>

@@ -1,0 +1,14 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('25', '3', '84230', '', this, ''); return false;">
+				MIS 4550 - Analytics Programming			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=25&coid=84230&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>MIS 4550 - Analytics Programming </h3>  <hr>This course provides a general introduction to the computer programming for analytics. Python will be used as the primary language while statistical programming language like R will be briefly introduced as well. Specific topics would include programming environment, elements of a programming language, basic data types, conditionals, functions, reading and writing files. Upon the completion of this course, students are expected to have a good understanding about programming and will be able to design and develop programs for scientific computing and basic analytics. This course requires no programming background.<br>
+ <br><br><strong>Anticipated Terms Offered:</strong> Summer<br><br></div>		</td>
+	</tr>
+</table>
+<br>

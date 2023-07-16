@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('25', '3', '81169', '', this, ''); return false;">
+				BIOL 310 - Genomics Seminar			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=25&coid=81169&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>BIOL 310 - Genomics Seminar </h3>  <hr>Sequenced genomes provide powerful new tools for life scientists. Through reading primary literature, students will gain an appreciation for how sequenced genomes have changed the way in which biologists design experiments. The limitations of genomics will also be discussed. Readings will be drawn from various disciplines within the biological sciences, and will demonstrate how genomes have enhanced our understanding of issues relating to human health, biotechnology, agriculture and the environmental sciences. This course will provide an introduction to some of the available genome databases.<br><br></div>		</td>
+	</tr>
+</table>
+<br>

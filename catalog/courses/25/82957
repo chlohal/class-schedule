@@ -1,0 +1,16 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('25', '3', '82957', '', this, ''); return false;">
+				BCMB 131 - Recombinant DNA			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=25&coid=82957&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>BCMB 131 - Recombinant DNA </h3>  <hr>A laboratory-oriented course designed to introduce recombinant DNA  methodology. Students undertake a semester-long project, which will vary  each time the course is offered. A typical project might involve  construction of a genomic library, isolation of specific clones from the  library and characterization of these clones. Methods usually include  DNA purification, Southern blot hybridization, restriction enzyme  mapping, bacterial transformation, polymerase chain reaction (PCR) and  DNA sequencing.</p>
+<p style="color:rgb(0,0,0);text-align:left;text-decoration:none;border:medium none;"><br>
+ <br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=25&coid=81133" onclick="acalogPopup('preview_course.php?catoid=25&coid=81133'+((location.search.match(/&print/i)) ? '&print' : '')+'', '3', 770, 530, 'yes');return false;" target="_blank" aria-label="BIOL 118 opens a new window">BIOL 118</a><span style="display: none !important">&#160;</span>  or permission of instructor.</p>
+<p style="color:rgb(0,0,0);text-align:left;text-decoration:none;border:medium none;"> <br><br><strong>Anticipated Terms Offered:</strong> Offered every year.<br><br></div>		</td>
+	</tr>
+</table>
+<br>

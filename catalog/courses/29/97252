@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('29', '3', '97252', '', this, ''); return false;">
+				CSCI 124 - Honors Introduction to Computing			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=29&coid=97252&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>CSCI 124 - Honors Introduction to Computing </h3>  <hr>This is an accelerated introduction to computing and its broad applications.  The course teaches fundamental principles in computing and prepares students for solving real-world problems through effective computation.  Students will learn programming in java and a systematic problem solving process of problem formulation, algorithm design, code development and testing.  In Fall 2019, the course will use digital audio processing as a source of interesting problems and solutions in computing.  Students will move from simple tone generation to more complex simulations and analysis of audio signals.  No prior experience with audio processing is assumed.  Strong analytical skills, prior programming experiences, and good work ethics are important for students success in the course.<br><br><strong>Prerequisites:</strong> Permission Only<br><br><strong>Course Designation/Attribute:</strong> SP<br><br><strong>Anticipated Terms Offered:</strong> Offered Every Year<br><br></div>		</td>
+	</tr>
+</table>
+<br>

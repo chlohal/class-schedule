@@ -1,0 +1,17 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('25', '3', '83503', '', this, ''); return false;">
+				CSCI 2110 - Data Security			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=25&coid=83503&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>CSCI 2110 - Data Security </h3>  <p><hr></p>
+<p class="MsoNormal" style="text-align:justify;"><span>This course will provide students with an overview of the field of information security and assurance.</span><span> Students will explore the spectrum of security activities, methods, methodologies, and procedures in use today as well as obtain a </span><span>foundation for understanding the key issues associated with protecting information assets, determining the levels of protection and response to security incidents, and designing a consistent, reasonable information security system, with appropriate intrusion detection and reporting features. Topics covered will include inspection and protection of information assets, detection of and reaction to threats to information assets, and examination of pre- and post-incident procedures, technical and managerial responses, and an overview of the information security planning and staffing functions. </span></p>
+<p class="MsoNormal" style="text-align:justify;"><span></span></p>
+<p></p>
+<p><br><br></p></div>		</td>
+	</tr>
+</table>
+<br>

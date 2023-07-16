@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('29', '3', '97260', '', this, ''); return false;">
+				CSCI 220 - Database Management And Systems Design			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=29&coid=97260&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>CSCI 220 - Database Management And Systems Design </h3>  <hr>An advanced course on the realities of database technology. Emphasizes the goals of database management: performance, data integrity, future compatibility and versatility. The concept of the data model is examined and a specific database is discussed. Concentrates on database design and specification.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=29&coid=97254" onclick="acalogPopup('preview_course.php?catoid=29&coid=97254&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=97254&display_options[location]=tooltip&show" id="tt4735" target="_blank">CSCI 160</a><span style="display: none !important">&#160;</span>  <em>(min grade of C- required for prereq)</em><br><br><strong>Anticipated Terms Offered:</strong> Offered Periodically<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt4735"></div></div>		</td>
+	</tr>
+</table>
+<br>

@@ -1,0 +1,14 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('25', '3', '83764', '', this, ''); return false;">
+				BIOL 230 - The Human Genome			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=25&coid=83764&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>BIOL 230 - The Human Genome </h3>  <hr> </p>
+<p class="MsoNormal">This course will provide a foundation for the basic concepts in human genomics. Topics covered will include: genome structure and function, human evolution and paleogenomics, human migration, natural selection in human populations, genetic disease, microbiomics, epigenetics, and personalized medicine and ethics. The format of the course will be a combination of group projects, discussion of primary literature, and lecture.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=25&coid=81126" onclick="acalogPopup('preview_course.php?catoid=25&coid=81126'+((location.search.match(/&print/i)) ? '&print' : '')+'', '3', 770, 530, 'yes');return false;" target="_blank" aria-label="BIOL 105 - Evolution opens a new window">BIOL 105 - Evolution</a><span style="display: none !important">&#160;</span>, <a href="preview_course_nopop.php?catoid=25&coid=81133" onclick="acalogPopup('preview_course.php?catoid=25&coid=81133'+((location.search.match(/&print/i)) ? '&print' : '')+'', '3', 770, 530, 'yes');return false;" target="_blank" aria-label="BIOL 118 - Genetics opens a new window">BIOL 118 - Genetics</a><span style="display: none !important">&#160;</span><br><br><strong>Anticipated Terms Offered:</strong> Varied<br><br></div>		</td>
+	</tr>
+</table>
+<br>

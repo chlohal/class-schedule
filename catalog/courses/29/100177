@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('29', '3', '100177', '', this, ''); return false;">
+				GAME 200 - Level Design			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=29&coid=100177&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>GAME 200 - Level Design </h3>  <hr>This course teaches the concepts and skill sets involved in creating successful levels within any game format. Emphasis will be given to integrating levels within a given game design, construction guided by balance and rhythm, and approaches for handling technical and environmental limitations. Students will develop levels for existing game engines as well as utilizing original game aesthetics.<br><br><strong>Prerequisites:</strong>  <a href="preview_course_nopop.php?catoid=29&coid=100147" onclick="acalogPopup('preview_course.php?catoid=29&coid=100147&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=100147&display_options[location]=tooltip&show" id="tt3439" target="_blank">GAME 025 - Game Design Fundamentals</a><span style="display: none !important">&#160;</span> <br><br><strong>Anticipated Terms Offered:</strong> Spring<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt3439"></div></div>		</td>
+	</tr>
+</table>
+<br>

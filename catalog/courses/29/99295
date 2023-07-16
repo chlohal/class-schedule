@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('29', '3', '99295', '', this, ''); return false;">
+				BIOL 230 - The Human Genome			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=29&coid=99295&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>BIOL 230 - The Human Genome </h3>  <hr>This course will provide a foundation for the basic concepts in human genomics. Topics covered will include: genome structure and function, human evolution and paleogenomics, human migration, natural selection in human populations, genetic disease, microbiomics, epigenetics, and personalized medicine and ethics. The format of the course will be a combination of group projects, discussion of primary literature, and lecture.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=29&coid=97094" onclick="acalogPopup('preview_course.php?catoid=29&coid=97094&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=97094&display_options[location]=tooltip&show" id="tt8568" target="_blank"> BIOL 105</a><span style="display: none !important">&#160;</span> , <a href="preview_course_nopop.php?catoid=29&coid=97101" onclick="acalogPopup('preview_course.php?catoid=29&coid=97101&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=97101&display_options[location]=tooltip&show" id="tt8020" target="_blank"> BIOL 118</a><span style="display: none !important">&#160;</span> <br><br><strong>Anticipated Terms Offered:</strong> Varied<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt8568"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt8020"></div></div>		</td>
+	</tr>
+</table>
+<br>

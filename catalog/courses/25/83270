@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('25', '3', '83270', '', this, ''); return false;">
+				CSCI 2200 - Software Engineering			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=25&coid=83270&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>CSCI 2200 - Software Engineering </h3>  <hr>Provides an overview of current practices in management and software process technology for the novice software practitioner. Topics to be covered will include: software requirements capture and analysis, software design methodologies, both top down and object oriented, software costing models, project planning and monitoring techniques, software testing and quality assurance and recent work from the Software Engineering Institute.<br><br></div>		</td>
+	</tr>
+</table>
+<br>

@@ -1,0 +1,14 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('25', '3', '83365', '', this, ''); return false;">
+				MSIT 3110 - Cyber Security Fundamentals			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=25&coid=83365&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>MSIT 3110 - Cyber Security Fundamentals </h3>  <hr>Begins with an introduction to the basic concepts of data security both physical and logical. It continues with dealing with data security standards, the SSL and S-HTTP protocols, data integrity; data encryption; coding methods; the use of smart cards; assurances of financial transactions, payment methods of E-business and E-Commerce; medical information security, legal aspects of information security. <br>
+ <br><br><strong>Anticipated Terms Offered:</strong> varies<br><br></div>		</td>
+	</tr>
+</table>
+<br>

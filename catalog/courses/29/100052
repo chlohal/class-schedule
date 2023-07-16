@@ -1,0 +1,15 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('29', '3', '100052', '', this, ''); return false;">
+				BIOL 382 - BioFrontiers: Introductory Python for life sciences			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=29&coid=100052&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>BIOL 382 - BioFrontiers: Introductory Python for life sciences </h3>  <hr><p style="margin-left:.5in;">Life is complex. So complex, in fact, that it borders the unknowable. Technological advancements have offered many ways to explore this complexity, often producing data that requires the use of computers to extract information that our brains can understand. As such, computers have quickly become as essential as microscopes and pipettes for all kinds of biology laboratories.</p>
+
+<p style="margin-left:.5in;">The goal of the online course is to introduce the students to the Python programming language, giving them the skills needed for low level programming (scripting), as well as the use of Python-based tools applied to biological sciences. The student will learn how to use several basic Python libraries for advanced mathematical and statistical operations, operating with biological sequences and data visualization. The student will learn how to install and access the documentation of new packages and will be introduced to several Python packages for more specific applications such as functional genome annotation, structural biology, phylogenetics, image processing and chemistry.<br><br><strong>Anticipated Terms Offered:</strong> Winter intersession bi-annually<br><br></div>		</td>
+	</tr>
+</table>
+<br>

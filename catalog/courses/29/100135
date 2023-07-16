@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('29', '3', '100135', '', this, ''); return false;">
+				IMED 3220 - Game Prototyping			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=29&coid=100135&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>IMED 3220 - Game Prototyping </h3>  <hr>Game prototyping is about designing, programming, and testing game or interactive media ideas fast, and with as little effort as possible, while gaining knowledge about what does and does not work in every aspect of the game product, such as the game system, control, visuals, audio, and resulting theme. Students will create a few very focused (video) game prototypes using a variety of engines and frameworks, thereby gaining a better understanding of what makes games appealing, and how game mechanics, systems, audiovisuals, and a variety of player experiences can be designed and iteratively improved by means of rapid prototyping and playtesting. <br><br><strong>Prerequisites:</strong> one Design Studio course (IMED 3200, 3210, 3230, 3240)<br><br><strong>Anticipated Terms Offered:</strong> spring<br><br></div>		</td>
+	</tr>
+</table>
+<br>

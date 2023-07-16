@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('26', '3', '85335', '', this, ''); return false;">
+				BIOL 110 - Introduction To Botanical Diversity			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=26&coid=85335&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>BIOL 110 - Introduction To Botanical Diversity </h3>  <hr>Biodiversity and structure of plants, protists and fungi are examined in a phylogenetic context. The evolution of photosynthetic mechanisms, transport systems and nutritional modes are considered, as are the ecological and economic significance of plants and other organisms traditionally studied by botanists. <strong><span style="background-color:transparent;color:#000000;font-family:arial;font-size:11pt;font-style:normal;font-weight:400;text-decoration:none;vertical-align:baseline;">Fulfills the Biological Diversity requirement for the Major or Minor.</span></strong><br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=26&coid=85328" onclick="acalogPopup('preview_course.php?catoid=26&coid=85328&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=26&coid=85328&display_options[location]=tooltip&show" id="tt4953" target="_blank">BIOL 101</a><span style="display: none !important">&#160;</span> or <span class="acalog-permalink-inactive">BIOL 103</span><span style="display: none !important">&#160;</span>, and <a href="preview_course_nopop.php?catoid=26&coid=85329" onclick="acalogPopup('preview_course.php?catoid=26&coid=85329&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=26&coid=85329&display_options[location]=tooltip&show" id="tt5114" target="_blank">BIOL 102</a><span style="display: none !important">&#160;</span>.<br><br><strong>Anticipated Terms Offered:</strong> Offered every other year.<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt4953"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt5114"></div></div>		</td>
+	</tr>
+</table>
+<br>

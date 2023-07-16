@@ -1,0 +1,17 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('29', '3', '99639', '', this, ''); return false;">
+				STAT 4650 - Machine Learning			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=29&coid=99639&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>STAT 4650 - Machine Learning </h3>  <p><hr>Machine Learning, together with Intermediary Statistical Modeling for Analytics, provides an overview of techniques drawn from the fields of machine learning, datamining, and statistics. The goal of these two courses is to prepare students with an intellectual framework for problem-solving.</p>
+
+<p>This course emphasizes the use of mathematical modelling and scenario optimization to reach optimal business decisions. As such, this course is essentially a data science course with an emphasis on statistical methodologies. At the same time, the course emphasizes the practical aspects of business analytics by embedding the methodologies in applications and by underlining the general objective of improving the speed, reliability, and quality of decisions. Topics include discriminant analysis, cross-validation, model selection, nonlinear methods, decision tree, support vector machines, unsupervised learning models, and time series forecasting.The course uses real-life data sets as illustrations, and R and Python to build answers to business questions<strong>.</strong><br>
+<br>
+Previously Titled &#8220;STAT 4650 Big Data Statistics II&#8221;<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=29&coid=99638" onclick="acalogPopup('preview_course.php?catoid=29&coid=99638&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=99638&display_options[location]=tooltip&show" id="tt1280" target="_blank">STAT 4600</a><span style="display: none !important">&#160;</span> <br><br><strong>Anticipated Terms Offered:</strong> Varies<br><br></p><div style="display: none; z-index: 1000;" class="tooltip for_tt1280"></div></div>		</td>
+	</tr>
+</table>
+<br>

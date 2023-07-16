@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('26', '3', '85423', '', this, ''); return false;">
+				CHEM 260 - Physical Chemistry I			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=26&coid=85423&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>CHEM 260 - Physical Chemistry I </h3>  <hr>CHEM 260 covers thermodynamics and kinetics. Topics include the gas law, kinetic theory of gases, the laws of thermodynamics, Gibbs and Helmholtz energies and their applications, electrolyte and  nonelectrolyte solutions, phase equilibria, chemical equilibria, and chemical kinetics.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=26&coid=85410" onclick="acalogPopup('preview_course.php?catoid=26&coid=85410&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=26&coid=85410&display_options[location]=tooltip&show" id="tt6929" target="_blank">CHEM 131</a><span style="display: none !important">&#160;</span> and <a href="preview_course_nopop.php?catoid=26&coid=86365" onclick="acalogPopup('preview_course.php?catoid=26&coid=86365&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=26&coid=86365&display_options[location]=tooltip&show" id="tt8640" target="_blank">MATH 121</a><span style="display: none !important">&#160;</span> or <a href="preview_course_nopop.php?catoid=26&coid=86367" onclick="acalogPopup('preview_course.php?catoid=26&coid=86367&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=26&coid=86367&display_options[location]=tooltip&show" id="tt2068" target="_blank">MATH 125</a><span style="display: none !important">&#160;</span><br><br><strong>Anticipated Terms Offered:</strong> Offered every year<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt6929"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt8640"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt2068"></div></div>		</td>
+	</tr>
+</table>
+<br>

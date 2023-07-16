@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('28', '3', '94920', '', this, ''); return false;">
+				PHYS 230 - Advanced Topics in Condensed Matter Physics			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=28&coid=94920&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>PHYS 230 - Advanced Topics in Condensed Matter Physics </h3>  <hr>The second half of the twentieth century has seen important new paradigms in physics. In this course, we will explore some of the central paradigms in the context of condensed matter physics. I will apply the concepts of broken symmetry and order parameters, which have emerged as unifying concepts in physics, to provide the framework of this course. We will begin by characterizing the structure and symmetries of condensed matter systems, then develop Landau-Ginzburg theories to model such systems and to provide a framework to explore the relation between order parameter, broken symmetry, and thermal fluctuations. We will use these ideas to study a wide range of condensed matter systems that include liquids, crystalline solids, exotic states of matter such as liquid crystals, superconductors, and quantum magnets. We will also introduce concepts that are important in other areas of physics, such as the Higgs mechanism and the generation of mass, that play a central role in particle physics. The prerequisites for this course are statistical mechanics and quantum mechanics (or instructor&#8217;s permission). A previous course in solid state physics is not needed.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=28&coid=93896" onclick="acalogPopup('preview_course.php?catoid=28&coid=93896&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=28&coid=93896&display_options[location]=tooltip&show" id="tt7613" target="_blank">PHYS 150</a><span style="display: none !important">&#160;</span>. Undergraduate (or graduate) statistical mechanics and quantum mechanics or instructor&#8217;s permission.<br><br><strong>Anticipated Terms Offered:</strong> varies<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt7613"></div></div>		</td>
+	</tr>
+</table>
+<br>

@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('26', '3', '86569', '', this, ''); return false;">
+				PHYS 201 - Classical Dynamics			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=26&coid=86569&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>PHYS 201 - Classical Dynamics </h3>  <hr>Designed to prepare students for graduate work in physics. Topics include Hamilton&#8217;s principle, classical scattering theory, rigid body motion, canonical transformations, Hamilton-Jacobi theory, and mathematical methods of physics. Lectures are the same as <a href="preview_course_nopop.php?catoid=26&coid=86578" onclick="acalogPopup('preview_course.php?catoid=26&coid=86578&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=26&coid=86578&display_options[location]=tooltip&show" id="tt6949" target="_blank">PHYS 301</a><span style="display: none !important">&#160;</span>, but the assignments and evaluation are separate.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=26&coid=86566" onclick="acalogPopup('preview_course.php?catoid=26&coid=86566&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=26&coid=86566&display_options[location]=tooltip&show" id="tt1783" target="_blank">PHYS 160</a><span style="display: none !important">&#160;</span> and <a href="preview_course_nopop.php?catoid=26&coid=86567" onclick="acalogPopup('preview_course.php?catoid=26&coid=86567&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=26&coid=86567&display_options[location]=tooltip&show" id="tt4353" target="_blank">PHYS 161</a><span style="display: none !important">&#160;</span>.<br><br><strong>Anticipated Terms Offered:</strong> Offered every fall<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt6949"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt1783"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt4353"></div></div>		</td>
+	</tr>
+</table>
+<br>

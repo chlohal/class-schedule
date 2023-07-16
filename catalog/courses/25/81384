@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('25', '3', '81384', '', this, ''); return false;">
+				ECON 265 - Econometrics			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=25&coid=81384&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>ECON 265 - Econometrics </h3>  <hr>This course deals with the application of statistical methods to economics. The objective is to expose students to economic model building, testing the model statistically, and applying the model to practical problems in forecasting and analysis. By understanding the theoretical and econometric basis of equations, students gain proficiency in formulating, estimating and interpreting testable relationships on their own.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=25&coid=81360" onclick="acalogPopup('preview_course.php?catoid=25&coid=81360'+((location.search.match(/&print/i)) ? '&print' : '')+'', '3', 770, 530, 'yes');return false;" target="_blank" aria-label="ECON 010 opens a new window">ECON 010</a><span style="display: none !important">&#160;</span>, <a href="preview_course_nopop.php?catoid=25&coid=81361" onclick="acalogPopup('preview_course.php?catoid=25&coid=81361&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=25&coid=81361&display_options[location]=tooltip&show" id="tt1935" target="_blank">ECON 011</a><span style="display: none !important">&#160;</span> and <a href="preview_course_nopop.php?catoid=25&coid=81368" onclick="acalogPopup('preview_course.php?catoid=25&coid=81368&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=25&coid=81368&display_options[location]=tooltip&show" id="tt777" target="_blank">ECON 160</a><span style="display: none !important">&#160;</span> (minimum grade of C- needed for ECON 160)<br><br><strong>Anticipated Terms Offered:</strong> Offered every year<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt1935"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt777"></div></div>		</td>
+	</tr>
+</table>
+<br>

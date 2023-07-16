@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('25', '3', '81113', '', this, ''); return false;">
+				BCMB 279 - Computers in Biochemistry			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=25&coid=81113&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>BCMB 279 - Computers in Biochemistry </h3>  <hr>The course will provide a hands-on experience using computers to analyze chemical and biochemical systems. Students will be introduced to the use of relevant Web-based and commercial/academic software packages. The exact topics to be covered may vary from year to year as new software packages become available.  Topics will include retrieval and analysis of DNA and protein sequence information from national databases; use of sequence information to identify homologous nucleic acids or proteins and predict protein secondary and tertiary structures; simulations of protein dynamics and ligand binding; and structure-based protein ligand design.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=25&coid=81109" onclick="acalogPopup('preview_course.php?catoid=25&coid=81109&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=25&coid=81109&display_options[location]=tooltip&show" id="tt5744" target="_blank">BCMB 271</a><span style="display: none !important">&#160;</span>.<br><br><strong>Anticipated Terms Offered:</strong> Offered periodically<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt5744"></div></div>		</td>
+	</tr>
+</table>
+<br>

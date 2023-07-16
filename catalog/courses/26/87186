@@ -1,0 +1,15 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('26', '3', '87186', '', this, ''); return false;">
+				IDCE 30262 - Web Mapping and Open Source GIS			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=26&coid=87186&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>IDCE 30262 - Web Mapping and Open Source GIS </h3>  <p><hr>This course introduces open source GIS for spatial database development and web mapping. The course emphasizes a hands-on learning approach to real-world problem solving. Several web services and programming languages will be introduced to explore different ways to  gather, manipulate, and display spatial data on the web. The course will explore a variety of web services and open source tools  with the goal of deciding how they can best be used with stakeholders in different contexts.</p>
+
+<p>Prerequisites: IDCE302 Computer Programming for GIS and IDCE310 Intro to GIS or IDCE388 Advanced vector GIS<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=26&coid=87057" onclick="acalogPopup('preview_course.php?catoid=26&coid=87057&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=26&coid=87057&display_options[location]=tooltip&show" id="tt7197" target="_blank"> IDCE 302 - Python Programming</a><span style="display: none !important">&#160;</span> and <a href="preview_course_nopop.php?catoid=26&coid=86216" onclick="acalogPopup('preview_course.php?catoid=26&coid=86216&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=26&coid=86216&display_options[location]=tooltip&show" id="tt2140" target="_blank"> IDCE 310 - Intro to Geographic Information Science</a><span style="display: none !important">&#160;</span> or <a href="preview_course_nopop.php?catoid=26&coid=86254" onclick="acalogPopup('preview_course.php?catoid=26&coid=86254&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=26&coid=86254&display_options[location]=tooltip&show" id="tt6002" target="_blank"> IDCE 388 - Advanced Vector GIS</a><span style="display: none !important">&#160;</span> <br><br><strong>Anticipated Terms Offered:</strong> Varied<br><br></p><div style="display: none; z-index: 1000;" class="tooltip for_tt7197"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt2140"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt6002"></div></div>		</td>
+	</tr>
+</table>
+<br>

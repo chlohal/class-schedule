@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('25', '3', '81132', '', this, ''); return false;">
+				BIOL 114 - Marine Biology			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=25&coid=81132&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>BIOL 114 - Marine Biology </h3>  <hr>Introduces the diversity and ecology of life in the oceans. Studies of basic physical oceanography and marine ecology precede studies of marine ecosystems such as salt marshes, kelp forests, rocky shores plankton and deep seas. Also included are the relationships of marine biology to the welfare of mankind.<br><br><strong>Prerequisites:</strong> <span class="acalog-permalink-inactive">BIOL 100</span><span style="display: none !important">&#160;</span>, <a href="preview_course_nopop.php?catoid=25&coid=81123" onclick="acalogPopup('preview_course.php?catoid=25&coid=81123&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=25&coid=81123&display_options[location]=tooltip&show" id="tt1219" target="_blank">BIOL 101</a><span style="display: none !important">&#160;</span> or <span class="acalog-permalink-inactive">BIOL 103</span><span style="display: none !important">&#160;</span>, and <a href="preview_course_nopop.php?catoid=25&coid=81124" onclick="acalogPopup('preview_course.php?catoid=25&coid=81124&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=25&coid=81124&display_options[location]=tooltip&show" id="tt7943" target="_blank">BIOL 102</a><span style="display: none !important">&#160;</span>, or permission.<br><br><strong>Anticipated Terms Offered:</strong> Offered every year.<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt1219"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt7943"></div></div>		</td>
+	</tr>
+</table>
+<br>

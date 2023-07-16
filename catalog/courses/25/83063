@@ -1,0 +1,17 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('25', '3', '83063', '', this, ''); return false;">
+				PSYC 313 - Assessment Practicum			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=25&coid=83063&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>PSYC 313 - Assessment Practicum </h3>  <p><hr><span style="color:#666666;font-size:8.5pt;">This assessment practicum provides students with more advanced assessment experiences. As part of the course, students receive two clinical referrals (one adult and one child) for assessment. They then administer a full assessment battery, interpret the data, and write up a final report. <em>This course may be repeatable for credit.</em></span></p>
+
+<p> <br><br><strong>Prerequisites:</strong>  </p>
+
+<p>Prerequisite: <a href="preview_course_nopop.php?catoid=25&coid=82684" onclick="acalogPopup('preview_course.php?catoid=25&coid=82684'+((location.search.match(/&print/i)) ? '&print' : '')+'', '3', 770, 530, 'yes');return false;" target="_blank" aria-label="PSYC 303 opens a new window">PSYC 303</a><span style="display: none !important">&#160;</span> and <a href="preview_course_nopop.php?catoid=25&coid=82685" onclick="acalogPopup('preview_course.php?catoid=25&coid=82685'+((location.search.match(/&print/i)) ? '&print' : '')+'', '3', 770, 530, 'yes');return false;" target="_blank" aria-label="PSYC 304 opens a new window">PSYC 304</a><span style="display: none !important">&#160;</span> (adult and child assessment)<br><br><strong>Anticipated Terms Offered:</strong> Every year<br><br></p></div>		</td>
+	</tr>
+</table>
+<br>

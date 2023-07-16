@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('29', '3', '97564', '', this, ''); return false;">
+				GEOG 190 - Introduction to Geographic Information Science			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=29&coid=97564&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>GEOG 190 - Introduction to Geographic Information Science </h3>  <hr>This course introduces Geographic Information Science (GIS) as a powerful mapping and analytical tool. Topics include GISc data structure, map projections, and fundamental GISc techniques for spatial analysis. Laboratory exercises concentrate on applying concepts presented in lectures and incorporate two widely used GISc software packages - IDRISI (created by Clarklabs) and ArcGIS (created by ESRI). These exercises include examples of GISc applications in environmental modeling, socio-demographic change and site suitability analyses. Although the course is computer-intensive, no programming background is required. A formal-analysis course. Counts as skills course or core course in mapping sciences/spatial analysis in geography major.<br><br><strong>Course Designation/Attribute:</strong> FA<br><br><strong>Anticipated Terms Offered:</strong> Offered every semester<br><br></div>		</td>
+	</tr>
+</table>
+<br>

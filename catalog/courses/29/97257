@@ -1,0 +1,23 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('29', '3', '97257', '', this, ''); return false;">
+				CSCI 201 - Proseminar In Computer Science			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=29&coid=97257&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>CSCI 201 - Proseminar In Computer Science </h3>  <p><hr>The presentation of topics in computer science by and for senior undergraduates. These presentations acquaint students with diverse subjects, introduce them to researching known topics and give them practice in presenting material to their peers. Faculty members will also present some research topics. Possible areas the topics may be drawn from might include robotics, networking, NP complete problems, neural networks, expert systems, parallel algorithms. Minimum grade of C- required for prerequisites.</p>
+
+<p><strong>SPRING 2023</strong></p>
+
+<p><strong>SECTION 01 - QUANTUM COMPUTING:</strong> This course will study the most important elements of this still emerging field of study, including Shor&#8217;s quantum algorithm for factoring integers, Grover&#8217;s quantum search of an unsorted database, and other algorithms related to these. The course will also explore very basic elements of the burgeoning field of quantum information theory: superdense coding, quantum cryptography, and quantum teleportation. </p>
+
+<p><strong>SECTION 02 - SOFTWARE AUTOMATION TESTING:</strong> Corporate Tech companies want to move to Automation Testing.  Students will develop a sound knowledge of TypeScript fundamentals and unit test framework. In addition to this, students will gain in-depth knowledge of JavaScript frameworks. The course will teach students to develop industry-standard testing. Students will build end-to-end UI test cases as well as testcases for API. This course will provide students with a complete knowledge of automation testing technologies and teach them how to build robust testing frameworks.</p>
+
+<p><strong>FALL 2022</strong> - Software Development Operations <br>
+In this course we will discuss the latest software tools used in software industries to help build and deliver software.  Main focus will be towards the Continuous Integration/Continuous Development. This course will help students gain hand-on knowledge and confidence to help deliver software. <br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=29&coid=97251" onclick="acalogPopup('preview_course.php?catoid=29&coid=97251&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=97251&display_options[location]=tooltip&show" id="tt2958" target="_blank"> CSCI 121 - Data Structures</a><span style="display: none !important">&#160;</span>  or instructor permission.<br>
+<em>(min grade of C- required for prereq)</em><br><br><strong>Anticipated Terms Offered:</strong> Offered periodically<br><br></p><div style="display: none; z-index: 1000;" class="tooltip for_tt2958"></div></div>		</td>
+	</tr>
+</table>
+<br>

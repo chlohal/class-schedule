@@ -1,0 +1,18 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('25', '3', '83691', '', this, ''); return false;">
+				GEOG 345 - Remote Sensing of the Cryosphere			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=25&coid=83691&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>GEOG 345 - Remote Sensing of the Cryosphere </h3>  <p><hr><span style="font-family:'times new roman', serif;font-size:12pt;">The Earth&#8217;s cryosphere (frozen planet) plays a critical role in shaping the world in which we live. The great ice sheets of the past shaped the surface of the continents; changes in snow cover and sea ice extent is amplifying global warming; rapid thinning of glaciers and ice sheets is accelerating global sea level rise; and abrupt snow melt is one of the primary causes of catastrophic flooding. Understanding how and why the cryosphere experiences such rapid changes is of ever increasing societal importance. Changes in the cryosphere occur on massive scales and in hostile environments, making them highly suited for analysis using remote sensing.</span></p>
+
+<p><span style="font-family:'times new roman', serif;font-size:12pt;">In this class students will learn about the physical characteristics of the cryosphere&#8217;s four main components; glaciers, sea ice, snow and permafrost and the role that each component plays in modulating the Earth&#8217;s climate system. Students will build upon previous remote sensing knowledge and learn about visible, Lidar, radar and microwave satellite sensors and apply this knowledge to measure changes in cryosphere characteristics (e.g. area, volume, mass, reflectance, melt, and velocity). Students will be required to complete a self-directed and novel group research project that they will present to the class the end of the term. The course will also focus on student skill development with several frequent collaborative projects conducting remote sensing analysis using Matlab. Open to doctoral and masters students.</span></p>
+
+<p><br>
+ <br><br><strong>Prerequisites:</strong> <span style="font-family:'times new roman', serif;font-size:12pt;">GEOG 383</span><span style="font-family:'times new roman', serif;font-size:12pt;"> Introduction to Remote Sensing or equivalent background; some programming knowledge such as C, Python, R, Matlab, is beneficial but not required</span><br><br><strong>Anticipated Terms Offered:</strong> Spring<br><br></p></div>		</td>
+	</tr>
+</table>
+<br>

@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('26', '3', '85721', '', this, ''); return false;">
+				ENG 302 - Pedagogy III			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=26&coid=85721&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>ENG 302 - Pedagogy III </h3>  <hr>For second-year graduate students who have been awarded a teaching assistantship. Advanced mentoring and classroom assignments as arranged with individual department members. Information available from the chair.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=26&coid=85719" onclick="acalogPopup('preview_course.php?catoid=26&coid=85719&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=26&coid=85719&display_options[location]=tooltip&show" id="tt1804" target="_blank">ENG 300</a><span style="display: none !important">&#160;</span> and <a href="preview_course_nopop.php?catoid=26&coid=85720" onclick="acalogPopup('preview_course.php?catoid=26&coid=85720&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=26&coid=85720&display_options[location]=tooltip&show" id="tt9164" target="_blank">ENG 301</a><span style="display: none !important">&#160;</span>.<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt1804"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt9164"></div></div>		</td>
+	</tr>
+</table>
+<br>

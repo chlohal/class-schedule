@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('28', '3', '93714', '', this, ''); return false;">
+				MATH 225 - Modern Algebra I			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=28&coid=93714&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>MATH 225 - Modern Algebra I </h3>  <hr>In the 19th century, Kummer introduced &#8220;ideal numbers&#8221; to salvage unique factorization of integers into primes (which breaks down in some rings of algebraic integers). This course discusses unique factorization and the modern theory of rings and their ideals, emphasizing Euclidean domains. Other algebraic structures (groups, fields) also are introduced. Required for all mathematics majors.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=28&coid=93699" onclick="acalogPopup('preview_course.php?catoid=28&coid=93699&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=28&coid=93699&display_options[location]=tooltip&show" id="tt8802" target="_blank">MATH 120</a><span style="display: none !important">&#160;</span> <a href="preview_course_nopop.php?catoid=28&coid=93705" onclick="acalogPopup('preview_course.php?catoid=28&coid=93705&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=28&coid=93705&display_options[location]=tooltip&show" id="tt7372" target="_blank">MATH 130</a><span style="display: none !important">&#160;</span>.<br><br><strong>Course Designation/Attribute:</strong> NA<br><br><strong>Anticipated Terms Offered:</strong> Offered every year<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt8802"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt7372"></div></div>		</td>
+	</tr>
+</table>
+<br>

@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('28', '3', '92768', '', this, ''); return false;">
+				BIOL 111 - Comparative and Human Anatomy			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=28&coid=92768&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>BIOL 111 - Comparative and Human Anatomy </h3>  <hr>During the Vertebrate and Human Comparative Anatomy Course, students will be introduced to vertebrate anatomy. The lecture component will focus on the development and evolution of anatomy, examine the diversity of structures possessed by vertebrates, how these structures are used and function, and how they relate to one another. The laboratory component will give the students a hands-on experience with anatomy. The labs will focus on dissection of the shark and cat, with material from a diversity of vertebrates available for comparison and evolutionary context. The course assumes that students are familiar with general biology, and knowledge of evolution is recommended, although not required.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=28&coid=92760" onclick="acalogPopup('preview_course.php?catoid=28&coid=92760&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=28&coid=92760&display_options[location]=tooltip&show" id="tt141" target="_blank">BIOL 101</a><span style="display: none !important">&#160;</span> or BIOL 103, and <a href="preview_course_nopop.php?catoid=28&coid=92761" onclick="acalogPopup('preview_course.php?catoid=28&coid=92761&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=28&coid=92761&display_options[location]=tooltip&show" id="tt8465" target="_blank">BIOL 102</a><span style="display: none !important">&#160;</span> <br><br><strong>Course Designation/Attribute:</strong> SP<br><br><strong>Anticipated Terms Offered:</strong> Offered every Spring<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt141"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt8465"></div></div>		</td>
+	</tr>
+</table>
+<br>

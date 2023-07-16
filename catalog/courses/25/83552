@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('25', '3', '83552', '', this, ''); return false;">
+				ECON 1011 - Principles of Economics			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=25&coid=83552&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>ECON 1011 - Principles of Economics </h3>  <hr>This course is an introduction to the analysis of the economy using economic models. The first part of the course studies microeconomics - how individual actors in the economy, both consumers and producers, make economic decisions. The course then examines the implications of those microeconomic decisions for social welfare. Finally, in the last part of the class we will discuss issues of economic growth, business cycles, unemployment, and inflation that form the core of macroeconomics. Building on the basic principles of economics, we develop a framework for understanding the role of monetary and fiscal policies in affecting the economy.<br><br></div>		</td>
+	</tr>
+</table>
+<br>

@@ -1,0 +1,15 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('29', '3', '100282', '', this, ''); return false;">
+				MSCS 3440 - Special Topics: Computer Science			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=29&coid=100282&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>MSCS 3440 - Special Topics: Computer Science </h3>  <p><hr>This course addresses current or timely topics (in Computer Science) that are in a pilot phase or are known to be one time offerings.  Special Topics can vary from semester to semester. May be repeated for credit. </p>
+
+<p><strong>Fall 2022</strong>- <u>Softward Development Operations</u> - In this course we will discuss the latest software tools used in software industries to help build and deliver software. Main focus will be towards the Continuous Integration/Continuous Development. This course will help students gain hand-on knowledge and confidence to help deliver software.<br><br><strong>Anticipated Terms Offered:</strong> Annually<br><br></p></div>		</td>
+	</tr>
+</table>
+<br>

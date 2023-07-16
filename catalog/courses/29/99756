@@ -1,0 +1,15 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('29', '3', '99756', '', this, ''); return false;">
+				MATH 210 - Introduction to Quantitative Finance			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=29&coid=99756&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>MATH 210 - Introduction to Quantitative Finance </h3>  <p><hr>This course is ideal for students who want a rigorous introduction to finance.  The course covers the following fundamental topics: the time value of money, portfolio theory, capital market theory, and security price modeling.  We shall dissect financial models by isolating their central assumptions and conceptual building blocks, showing rigorously how their governing equations and relations are derived, and weighing critically their strengths and weaknesses.</p>
+
+<p> <br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=29&coid=98032" onclick="acalogPopup('preview_course.php?catoid=29&coid=98032&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=98032&display_options[location]=tooltip&show" id="tt4965" target="_blank">MATH 131</a><span style="display: none !important">&#160;</span> or Permission<br><br><strong>Anticipated Terms Offered:</strong> Offered Periodically<br><br></p><div style="display: none; z-index: 1000;" class="tooltip for_tt4965"></div></div>		</td>
+	</tr>
+</table>
+<br>

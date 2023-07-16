@@ -1,0 +1,15 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('29', '3', '97876', '', this, ''); return false;">
+				ID 296 - Advanced Vector GIS			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=29&coid=97876&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>ID 296 - Advanced Vector GIS </h3>  <p><hr>This course builds upon the concepts introduced in Introduction to GIS, and focuses on the advanced vector GIS analysis. Topics include geoprocessing, coordinate systems and projections, spatial statistics, network analysis, geocoding, density mapping, space-time analysis and spatial clustering. Each week includes lectures and a computer lab that focuses on GIS applications in natural resource management, global change, environmental justice, urban and environmental planning, public health, and census data analysis. Students use ArcPro, GeoDa or QGIS software to complete weekly in-class demos and homework assignments. Final project is required. Knowledge of basic statistics is useful.</p>
+
+<p>Prerequisite: Geog190 Intro GIS.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=29&coid=97564" onclick="acalogPopup('preview_course.php?catoid=29&coid=97564&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=97564&display_options[location]=tooltip&show" id="tt2800" target="_blank">GEOG 190</a><span style="display: none !important">&#160;</span> <br><br><strong>Anticipated Terms Offered:</strong> Fall or Spring<br><br></p><div style="display: none; z-index: 1000;" class="tooltip for_tt2800"></div></div>		</td>
+	</tr>
+</table>
+<br>

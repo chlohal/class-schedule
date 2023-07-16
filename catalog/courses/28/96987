@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('28', '3', '96987', '', this, ''); return false;">
+				MSCS 3070 - Survey of Systems and Programming Languages			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=28&coid=96987&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>MSCS 3070 - Survey of Systems and Programming Languages </h3>  <hr>This course will be an exploration, through lecture and problem solving, to hardware, operating systems and programming language design. Students will study the interaction between hardware and the operating system, and the connections to programming languages. A basic understanding of machine and assembly language, processor organization, and operating system concepts, along with working knowledge of multiple programming languages is assumed.<br><br><strong>Anticipated Terms Offered:</strong> Annually<br><br></div>		</td>
+	</tr>
+</table>
+<br>

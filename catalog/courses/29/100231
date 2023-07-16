@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('29', '3', '100231', '', this, ''); return false;">
+				MATH 123 - Introduction to Statistics			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=29&coid=100231&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>MATH 123 - Introduction to Statistics </h3>  <hr>Math 123 is a one semester introduction to statistics. Topics will include basic probability, discrete and continuous random variables, the Central Limit Theorem, sampling distributions for normal populations, confidence intervals, hypothesis tests, the chi-squared test, and simple linear regression. Students will use R software to explore these ideas on actual data.  Students will work with statistical models that occur in the natural and social sciences.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=29&coid=98025" onclick="acalogPopup('preview_course.php?catoid=29&coid=98025&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=98025&display_options[location]=tooltip&show" id="tt4663" target="_blank"> MATH 120 - Calculus I</a><span style="display: none !important">&#160;</span> <br><br><strong>Course Designation/Attribute:</strong> FA<br><br><strong>Anticipated Terms Offered:</strong> Each Semester<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt4663"></div></div>		</td>
+	</tr>
+</table>
+<br>

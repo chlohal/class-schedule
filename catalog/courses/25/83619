@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('25', '3', '83619', '', this, ''); return false;">
+				ECON 213 - Money and Banking			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=25&coid=83619&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>ECON 213 - Money and Banking </h3>  <hr>This course provides an analysis of money, commercial banking and central banking with emphasis on monetary policy implementation by the Federal Reserve System and the resulting economic impact both nationally and internationally.  In addition, the course will prepare students for participation in the Fed Challenge competition held annually at the Federal Reserve Bank of Boston.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=25&coid=81360" onclick="acalogPopup('preview_course.php?catoid=25&coid=81360'+((location.search.match(/&print/i)) ? '&print' : '')+'', '3', 770, 530, 'yes');return false;" target="_blank" aria-label="ECON 010 opens a new window">ECON 010</a><span style="display: none !important">&#160;</span>, <a href="preview_course_nopop.php?catoid=25&coid=81361" onclick="acalogPopup('preview_course.php?catoid=25&coid=81361'+((location.search.match(/&print/i)) ? '&print' : '')+'', '3', 770, 530, 'yes');return false;" target="_blank" aria-label="ECON 011 opens a new window">ECON 011</a><span style="display: none !important">&#160;</span> and <a href="preview_course_nopop.php?catoid=25&coid=81371" onclick="acalogPopup('preview_course.php?catoid=25&coid=81371'+((location.search.match(/&print/i)) ? '&print' : '')+'', '3', 770, 530, 'yes');return false;" target="_blank" aria-label="ECON 206 opens a new window">ECON 206</a><span style="display: none !important">&#160;</span><br><br><strong>Anticipated Terms Offered:</strong> Fall annually<br><br></div>		</td>
+	</tr>
+</table>
+<br>

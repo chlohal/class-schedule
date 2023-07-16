@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('26', '3', '85543', '', this, ''); return false;">
+				ECON 206 - Macroeconomic Theory			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=26&coid=85543&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>ECON 206 - Macroeconomic Theory </h3>  <hr>Macroeconomics is one of the core elements of economics. The subject includes the study of the determinants and behavior of the aggregate economy, including income, employment and the price level. The economy is examined at a point in time (statics) as well as over time (dynamics).<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=26&coid=85532" onclick="acalogPopup('preview_course.php?catoid=26&coid=85532&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=26&coid=85532&display_options[location]=tooltip&show" id="tt6073" target="_blank">ECON 010</a><span style="display: none !important">&#160;</span>  and <a href="preview_course_nopop.php?catoid=26&coid=85533" onclick="acalogPopup('preview_course.php?catoid=26&coid=85533&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=26&coid=85533&display_options[location]=tooltip&show" id="tt6453" target="_blank">ECON 011</a><span style="display: none !important">&#160;</span> <br><br><strong>Anticipated Terms Offered:</strong> Offered every year<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt6073"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt6453"></div></div>		</td>
+	</tr>
+</table>
+<br>

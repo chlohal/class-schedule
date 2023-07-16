@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('29', '3', '97199', '', this, ''); return false;">
+				CHEM 358 - Crystallography, Diffraction, and Scattering Methods			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=29&coid=97199&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>CHEM 358 - Crystallography, Diffraction, and Scattering Methods </h3>  <hr>This course will examine the determination of structure in biochemical, inorganic, and organic materials through diffraction methods. The effects of scattering on matter and symmetry in solids will be explored. Diffraction and scattering techniques used to characterize non-crystalline materials or measure and characterize dynamics in materials, such as small angle scattering and quasi-elastic neutron scattering, will also be covered.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=29&coid=97181" onclick="acalogPopup('preview_course.php?catoid=29&coid=97181&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=97181&display_options[location]=tooltip&show" id="tt7249" target="_blank">CHEM 260</a><span style="display: none !important">&#160;</span> or <a href="preview_course_nopop.php?catoid=29&coid=98218" onclick="acalogPopup('preview_course.php?catoid=29&coid=98218&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=98218&display_options[location]=tooltip&show" id="tt8199" target="_blank">PHYS 131</a><span style="display: none !important">&#160;</span>, or permission.<br><br><strong>Anticipated Terms Offered:</strong> Offered every other year.<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt7249"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt8199"></div></div>		</td>
+	</tr>
+</table>
+<br>

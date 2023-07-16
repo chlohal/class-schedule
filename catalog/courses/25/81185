@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('25', '3', '81185', '', this, ''); return false;">
+				BIOL 340 - Comparative &amp; Human Physiology			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=25&coid=81185&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>BIOL 340 - Comparative & Human Physiology </h3>  <hr>Introduces the principles underlying physiological function. Lectures cover the subcellular, cellular and organ levels of organization and place a primary emphasis on the integrative processes whereby all of the diverse organs and systems contribute to the performance of the complete individual.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=25&coid=81134" onclick="acalogPopup('preview_course.php?catoid=25&coid=81134&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=25&coid=81134&display_options[location]=tooltip&show" id="tt335" target="_blank">BIOL 137</a><span style="display: none !important">&#160;</span> or <a href="preview_course_nopop.php?catoid=25&coid=81109" onclick="acalogPopup('preview_course.php?catoid=25&coid=81109'+((location.search.match(/&print/i)) ? '&print' : '')+'', '3', 770, 530, 'yes');return false;" target="_blank" aria-label="BCMB 271 opens a new window">BCMB 271</a><span style="display: none !important">&#160;</span>  . Enrollment is normally restricted to juniors, seniors and graduate students.<br><br><strong>Anticipated Terms Offered:</strong> Offered every year.<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt335"></div></div>		</td>
+	</tr>
+</table>
+<br>

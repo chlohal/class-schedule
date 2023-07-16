@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('26', '3', '87200', '', this, ''); return false;">
+				BIOL 206 - Advanced Biostatistics			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=26&coid=87200&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>BIOL 206 - Advanced Biostatistics </h3>  <hr>During Advanced Biostatistics, students will build on the basic statistical skills they gained in Introductory Biostatistics and learn to apply more advanced techniques to real data. Students will also learn to read biostatistical literature, which will build their ability to learn other statistical techniques on their own. Students will learn a variety of techniques that are frequently used by Biology Faculty at Clark University, and so will enhance the skills students have to effectively do research in the department. Students will learn to do these statistics in the statistical computing language R, which has become the standard in the sciences for conducting complex statistical analysis. Students will get the opportunity to analyze data generated in Clark Biology laboratories to reinforce their learning and get valuable hands-on experience doing statistics. Fulfills the Capstone requirement for the Major.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=26&coid=85332" onclick="acalogPopup('preview_course.php?catoid=26&coid=85332&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=26&coid=85332&display_options[location]=tooltip&show" id="tt1923" target="_blank">BIOL 106</a><span style="display: none !important">&#160;</span> or permission of the instructor<br><br><strong>Anticipated Terms Offered:</strong> Offered every other fall<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt1923"></div></div>		</td>
+	</tr>
+</table>
+<br>

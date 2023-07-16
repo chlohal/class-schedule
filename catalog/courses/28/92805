@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('28', '3', '92805', '', this, ''); return false;">
+				BIOL 316 - Ecology			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=28&coid=92805&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>BIOL 316 - Ecology </h3>  <hr>Provides an overview of ecology as a scientific discipline. The primary emphasis is on efforts to explain and predict the distribution and abundance of organisms, how ecological communities are composed and why they vary in time and space.<br><br><strong>Prerequisites:</strong> One or more courses from the organismal biology group and one college-level math course.<br><br><strong>Anticipated Terms Offered:</strong> Offered every year<br><br></div>		</td>
+	</tr>
+</table>
+<br>

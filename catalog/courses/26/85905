@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('26', '3', '85905', '', this, ''); return false;">
+				GEOG 349 - Advanced Topics in Spatial Analysis			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=26&coid=85905&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>GEOG 349 - Advanced Topics in Spatial Analysis </h3>  <hr>Explores spatial statistics and spatial decision models. The spatial statistics part of the course focuses on point, block and global estimation, fitting variogram models, kriging and spatial simulation. The prescriptive modeling part will focus on location/allocation-based decisions models including private- and public-sector facility location problems and land-allocation models. The topics covered are closely linked to the underlying spatial analytic methodologies used in, and often illuminated by examples developed with, Geographic Information Systems (GIS). The spatial statistics module in the IDRISI GIS will be used. The class is run on the &#8220;Socratic&#8221; method with some high-tech twists. Students are assigned a topic per week to prepare material and lead discussion. Pass/fail. Grading is based on class participation.<br><br><strong>Anticipated Terms Offered:</strong> Offered every year<br><br></div>		</td>
+	</tr>
+</table>
+<br>

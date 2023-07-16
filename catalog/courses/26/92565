@@ -1,0 +1,17 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('26', '3', '92565', '', this, ''); return false;">
+				DSCI 305 - Applied Data Analytics			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=26&coid=92565&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>DSCI 305 - Applied Data Analytics </h3>  <p><hr>An investigation into the fundamental techniques and practices of data analysis.  The primary activities of the course will be a series of lectures and a corresponding series of lab sessions, programming projects, and written assignments. The course will focus on applying tools and techniques to practical problems of analysis, visualization, and discovery and will also introduce the student to a suite of modern tools for data analysis. </p>
+
+<p>Graduate students need to have had at least one introductory quantitative methods course and one introductory programming course.   </p>
+
+<p> <br><br><strong>Anticipated Terms Offered:</strong> Spring 2121<br><br></p></div>		</td>
+	</tr>
+</table>
+<br>

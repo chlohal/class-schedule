@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('25', '3', '81209', '', this, ''); return false;">
+				CHEM 131 - Organic Chemistry I			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=25&coid=81209&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>CHEM 131 - Organic Chemistry I </h3>  <hr>Discusses the chemistry of carbon and its compounds. The structures and reactions of related classes of organic molecules are systematically studied with emphasis on reaction mechanism and structural factors that affect reactivity. Principle topics covered include molecular structure and geometry, acid/base chemistry, stereochemistry, fundmental reaction mechanisms, substitution, elimination and addition reactions, along with oxidation and reduction. The laboratory concentrates on the preparation and physical, spectroscopic and chemical properties of these classes of compounds. In-class and final exams, laboratory reports.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=25&coid=81207" onclick="acalogPopup('preview_course.php?catoid=25&coid=81207'+((location.search.match(/&print/i)) ? '&print' : '')+'', '3', 770, 530, 'yes');return false;" target="_blank" aria-label="CHEM 102 opens a new window">CHEM 102</a><span style="display: none !important">&#160;</span> , <a href="preview_course_nopop.php?catoid=25&coid=81208" onclick="acalogPopup('preview_course.php?catoid=25&coid=81208'+((location.search.match(/&print/i)) ? '&print' : '')+'', '3', 770, 530, 'yes');return false;" target="_blank" aria-label="CHEM 103 opens a new window">CHEM 103</a><span style="display: none !important">&#160;</span>   or advanced placement<br><br><strong>Anticipated Terms Offered:</strong> Offered every year<br><br></div>		</td>
+	</tr>
+</table>
+<br>

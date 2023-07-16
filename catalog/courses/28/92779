@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('28', '3', '92779', '', this, ''); return false;">
+				BIOL 217 - Ecology of Infectious Disease			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=28&coid=92779&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>BIOL 217 - Ecology of Infectious Disease </h3>  <hr>Explores the relationship between infectious disease agents and their hosts and how that interaction can effect changes in the abundance of host and pathogen populations. Factors that contribute to the occurrence and persistence of epidemics, the evolution of virulence and transmission and strategies for controlling epidemics will be considered using theoretical approaches and case studies of diseases affecting humans and other hosts. A wide spectrum of human diseases will be considered, including human pathogens of recent concern (examples include HIV, Lyme Disease, West Nile Virus) and of historic and continuing importance (e.g., schistosomiasis, bubonic plague, malaria, smallpox, yellow fever).<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=28&coid=92778" onclick="acalogPopup('preview_course.php?catoid=28&coid=92778&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=28&coid=92778&display_options[location]=tooltip&show" id="tt416" target="_blank">BIOL 216</a><span style="display: none !important">&#160;</span>, or by permission.<br><br><strong>Anticipated Terms Offered:</strong> Offered periodically.<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt416"></div></div>		</td>
+	</tr>
+</table>
+<br>

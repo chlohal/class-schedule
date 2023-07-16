@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('29', '3', '105232', '', this, ''); return false;">
+				BIOL 384 - Data Visualization and Exploration for the Biosciences in the Tidyverse			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=29&coid=105232&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>BIOL 384 - Data Visualization and Exploration for the Biosciences in the Tidyverse </h3>  <hr>This course serves as a guide to exploring and communicating biological data. Data visualization is a key component of understanding experimental data. Introductory Biostatistics provides students with the tools to analyze and answer questions about their data. This course provides students with the knowledge to determine if they are asking the right question or if they need to generate new hypotheses by visualizing data. Students will learn the fundamental components of statistical graphing focusing on the the grammar of graphics outlined in the tidyverse.   <br><br><strong>Anticipated Terms Offered:</strong> Fall annually<br><br></div>		</td>
+	</tr>
+</table>
+<br>

@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('29', '3', '100191', '', this, ''); return false;">
+				GAME 270 - Game Analytics			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=29&coid=100191&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>GAME 270 - Game Analytics </h3>  <hr>The course will discuss optimization of 3 phases of game design development and production - marketing (how do we acquire the users?), retention (how do we keep and convert users to players?) and monetization (modeling the game changes to get the optimal monetization). The course will also discuss the Stochastic approach, introduce students to relational databases, statistical software and other analytical tools used in Game Analytics.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=29&coid=100147" onclick="acalogPopup('preview_course.php?catoid=29&coid=100147&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=100147&display_options[location]=tooltip&show" id="tt7556" target="_blank">GAME 025</a><span style="display: none !important">&#160;</span>  &amp; <a href="preview_course_nopop.php?catoid=29&coid=98619" onclick="acalogPopup('preview_course.php?catoid=29&coid=98619&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=98619&display_options[location]=tooltip&show" id="tt1320" target="_blank">QBUS 110</a><span style="display: none !important">&#160;</span> <br><br><strong>Anticipated Terms Offered:</strong> Fall<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt7556"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt1320"></div></div>		</td>
+	</tr>
+</table>
+<br>

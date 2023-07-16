@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('29', '3', '98237', '', this, ''); return false;">
+				PHYS 306 - Quantum Mechanics – Part II			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=29&coid=98237&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>PHYS 306 - Quantum Mechanics – Part II </h3>  <hr>PHYS 306 is a continuation of <a href="preview_course_nopop.php?catoid=29&coid=98236" onclick="acalogPopup('preview_course.php?catoid=29&coid=98236&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=98236&display_options[location]=tooltip&show" id="tt1734" target="_blank">PHYS 305</a><span style="display: none !important">&#160;</span>. Topics include scattering theory, interaction of radiation with matter, second quantization, applications to simple atoms and molecules, and an introduction to many-body theory.<br><br><strong>Anticipated Terms Offered:</strong> Offered every spring<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt1734"></div></div>		</td>
+	</tr>
+</table>
+<br>

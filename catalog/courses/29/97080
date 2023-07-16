@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('29', '3', '97080', '', this, ''); return false;">
+				BCMB 275 - Protein Chemistry			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=29&coid=97080&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>BCMB 275 - Protein Chemistry </h3>  <hr>An in-depth discussion on protein structure and function. Techniques routinely used to determine protein structure, function, and the underlying principles of enzyme catalysis will be examined.  Topics include protein structure hierarchy, physicochemical properties that govern protein folding, enzyme cofactors, protein synthesis and degradation, recombinant protein expression systems, protein purification methods, enzyme assays and protein quantification, posttranslational modifications, isotopic and fluorescent protein labeling strategies, mass spectrometry with proteins and peptides, protein-protein/DNA/RNA interactions, X-ray crystallography, 2D and 3D NMR spectroscopy with proteins, and protein structure visualization.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=29&coid=97078" onclick="acalogPopup('preview_course.php?catoid=29&coid=97078&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=97078&display_options[location]=tooltip&show" id="tt9268" target="_blank">BCMB 271</a><span style="display: none !important">&#160;</span> or permission of instructor.<br><br><strong>Anticipated Terms Offered:</strong> Offered every other year<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt9268"></div></div>		</td>
+	</tr>
+</table>
+<br>

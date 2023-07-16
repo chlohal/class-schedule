@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('28', '3', '96939', '', this, ''); return false;">
+				MATH 123 - Introduction to Statistics			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=28&coid=96939&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>MATH 123 - Introduction to Statistics </h3>  <hr>Math 123 is a one semester introduction to statistics. Topics will include basic probability, discrete and continuous random variables, the Central Limit Theorem, sampling distributions for normal populations, confidence intervals, hypothesis tests, the chi-squared test, and simple linear regression. Students will use R software to explore these ideas on actual data.  Students will work with statistical models that occur in the natural and social sciences.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=28&coid=93700" onclick="acalogPopup('preview_course.php?catoid=28&coid=93700&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=28&coid=93700&display_options[location]=tooltip&show" id="tt5502" target="_blank"> MATH 121 - Calculus II</a><span style="display: none !important">&#160;</span>  or <a href="preview_course_nopop.php?catoid=28&coid=93702" onclick="acalogPopup('preview_course.php?catoid=28&coid=93702&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=28&coid=93702&display_options[location]=tooltip&show" id="tt4002" target="_blank"> MATH 125 - Honors Calculus II</a><span style="display: none !important">&#160;</span> (concurrent enrollment is allowed)<br><br><strong>Course Designation/Attribute:</strong> FA<br><br><strong>Anticipated Terms Offered:</strong> Each Semester<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt5502"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt4002"></div></div>		</td>
+	</tr>
+</table>
+<br>

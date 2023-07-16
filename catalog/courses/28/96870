@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('28', '3', '96870', '', this, ''); return false;">
+				GAME 140 - Music Theory			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=28&coid=96870&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>GAME 140 - Music Theory </h3>  <hr>This course explores the fundamentals of music theory, with the goal of understanding and creating music for games. Topics cover the fundamentals of music theory including rhythms, scales, intervals, chords, keys, harmony, and modulations. Composition concepts are also introduced and explored. The course sets a solid foundation for the understanding and application of musical terms and structures in the development of game audio, and a historical context for game music.<br><br><strong>Anticipated Terms Offered:</strong> Spring<br><br></div>		</td>
+	</tr>
+</table>
+<br>

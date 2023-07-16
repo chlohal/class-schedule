@@ -1,0 +1,14 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('28', '3', '96917', '', this, ''); return false;">
+				DSCI 304 - Introduction to Data Science			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=28&coid=96917&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>DSCI 304 - Introduction to Data Science </h3>  <hr>The course introduces foundational statistical and computational concepts and skills in data-centered computing and applications. It provides a python toolkit of data processing, analysis, and visualization methods and techniques, with hands-on opportunities for students to handle real-world social media datasets and extract information and knowledge from the data. The course covers data representations in Python, visualizing data, data<br>
+gathering and processing, intro to machine learning, natural language processing, data modeling methods, and data ethics<br><br><strong>Prerequisites:</strong> Background in Calculus II &amp; <a href="preview_course_nopop.php?catoid=28&coid=96916" onclick="acalogPopup('preview_course.php?catoid=28&coid=96916&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=28&coid=96916&display_options[location]=tooltip&show" id="tt3306" target="_blank"> DSCI 301 - Mathematical Foundations of Data Science</a><span style="display: none !important">&#160;</span>&amp;nbsp;<br><br><strong>Anticipated Terms Offered:</strong> Fall 2021<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt3306"></div></div>		</td>
+	</tr>
+</table>
+<br>

@@ -1,0 +1,15 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('25', '3', '84135', '', this, ''); return false;">
+				STAT 4600 - Big Data Statistics I			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=25&coid=84135&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>STAT 4600 - Big Data Statistics I </h3>  <p><hr>Big Data Statistics I, together with Big Data Statistics II, provides an overview of techniques drawn from the fields of advanced machine learning, datamining and statistics. The goal of these two courses is to prepare students with an intellectual framework for problem solving.</p>
+
+<p>Big Data Statistics I emphasizes the understanding of descriptive and diagnostic methodologies to identify key aspects of a business question, from data collection to the formulation and testing of hypotheses. As such, this course is essentially a data science course with an emphasis on statistical methodologies. At the same time, the course emphasizes the practical aspects of business analytics by embedding the methodologies in applications and by underlining the general objective of improving the speed, reliability, and quality of decisions. The course uses real-life data sets as illustrations, and R and Python to build answers to business questions.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=25&coid=84133" onclick="acalogPopup('preview_course.php?catoid=25&coid=84133&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=25&coid=84133&display_options[location]=tooltip&show" id="tt5463" target="_blank">STAT 4450</a><span style="display: none !important">&#160;</span>  and <a href="preview_course_nopop.php?catoid=25&coid=84230" onclick="acalogPopup('preview_course.php?catoid=25&coid=84230&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=25&coid=84230&display_options[location]=tooltip&show" id="tt2752" target="_blank">MIS 4550</a><span style="display: none !important">&#160;</span> <br><br><strong>Anticipated Terms Offered:</strong> Offered annually<br><br></p><div style="display: none; z-index: 1000;" class="tooltip for_tt5463"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt2752"></div></div>		</td>
+	</tr>
+</table>
+<br>

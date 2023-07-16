@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('28', '3', '93265', '', this, ''); return false;">
+				GEOG 296 - Advanced Raster GIS			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=28&coid=93265&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>GEOG 296 - Advanced Raster GIS </h3>  <hr>This course builds on Introduction to GIS by delving deeper into raster GIS. Topics include time-series analysis, uncertainty assessment, multi-objective decision making, land-change modeling, and spatial statistics. Concepts in lectures are illustrated using the Idrisi software. Final project is required. This is a prerequisite for the fifth year Masters program in GIS and is a requirement for the GISDE masters program. Open to JRS &amp; SRS.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=28&coid=93235" onclick="acalogPopup('preview_course.php?catoid=28&coid=93235&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=28&coid=93235&display_options[location]=tooltip&show" id="tt9334" target="_blank">GEOG 190</a><span style="display: none !important">&#160;</span>or<a href="preview_course_nopop.php?catoid=28&coid=93560" onclick="acalogPopup('preview_course.php?catoid=28&coid=93560&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=28&coid=93560&display_options[location]=tooltip&show" id="tt931" target="_blank"> IDCE 310</a><span style="display: none !important">&#160;</span> and GEOG 293/383.<br><br><strong>Anticipated Terms Offered:</strong> Offered every spring<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt9334"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt931"></div></div>		</td>
+	</tr>
+</table>
+<br>

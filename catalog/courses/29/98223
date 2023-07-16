@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('29', '3', '98223', '', this, ''); return false;">
+				PHYS 171 - Introduction to Quantum Mechanics			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=29&coid=98223&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>PHYS 171 - Introduction to Quantum Mechanics </h3>  <hr>Intermediate-level course providing an introduction to quantum mechanics and its applications to atoms, nuclei, molecules, and solids.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=29&coid=98218" onclick="acalogPopup('preview_course.php?catoid=29&coid=98218&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=98218&display_options[location]=tooltip&show" id="tt4860" target="_blank">PHYS 131</a><span style="display: none !important">&#160;</span> and <a href="preview_course_nopop.php?catoid=29&coid=98032" onclick="acalogPopup('preview_course.php?catoid=29&coid=98032&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=98032&display_options[location]=tooltip&show" id="tt9954" target="_blank">MATH 131</a><span style="display: none !important">&#160;</span>.<br><br><strong>Anticipated Terms Offered:</strong> Offered every year.<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt4860"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt9954"></div></div>		</td>
+	</tr>
+</table>
+<br>

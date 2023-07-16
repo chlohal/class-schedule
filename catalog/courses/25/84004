@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('25', '3', '84004', '', this, ''); return false;">
+				MBB 120 - Mathematical Modeling of Biological Systems			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=25&coid=84004&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>MBB 120 - Mathematical Modeling of Biological Systems </h3>  <hr>With new high throughput experimental techniques leading to large data sets of increased quality, mathematical and computational modeling approaches have become an integral part of modern biology.  This course aims to provide students interested in the interface between biology and mathematics with an integrated multidisciplinary foundation.  Topics will incorporate areas of biology such as genomics, molecular biology, ecology, development, evolutionary biology, and epidemiology.  The mathematical approaches we will use to study these areas will include discrete and continuous dynamical models, probability models and parameter estimation algorithms.<br><br><strong>Prerequisites:</strong> Math 120 or 124 and BIO 101<br><br><strong>Anticipated Terms Offered:</strong> Spring<br><br></div>		</td>
+	</tr>
+</table>
+<br>

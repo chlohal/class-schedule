@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('29', '3', '105244', '', this, ''); return false;">
+				MATH 113 - Sports Analytics			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=29&coid=105244&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>MATH 113 - Sports Analytics </h3>  <hr>Math 113 is an introduction to Sports Analytics, a rapidly growing discipline. The course focuses primarily on the NBA and MLB, the pro basketball and baseball leagues in the U.S. We will also include lecture topics on marathon running and women&#8217;s professional tennis, and students may pursue any sport in their final project. Our approach will be to understand recently available advanced statistics and to build simple models using R software. With this experience, we will make data-driven evaluations and predictions in lectures and in projects. A few additional topics will be presented such as player development, in-game strategy, team building, and the draft. The modeling techniques and software learned in this course are general ones and could be applied to many other fields such as medicine, politics, business, and science.<br><br><strong>Prerequisites:</strong>   <a href="preview_course_nopop.php?catoid=29&coid=98025" onclick="acalogPopup('preview_course.php?catoid=29&coid=98025&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=98025&display_options[location]=tooltip&show" id="tt2406" target="_blank"> MATH 120 - Calculus I</a><span style="display: none !important">&#160;</span> or Placement<br><br><strong>Course Designation/Attribute:</strong> FA,  FYI<br><br><strong>Anticipated Terms Offered:</strong> Bi-Annually<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt2406"></div></div>		</td>
+	</tr>
+</table>
+<br>

@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('25', '3', '81382', '', this, ''); return false;">
+				ECON 250 - Economics of Sport			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=25&coid=81382&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>ECON 250 - Economics of Sport </h3>  <hr>Applies economic analysis to the sports industry. While the primary focus is on professional team sports, individual and amateur sports are covered as well. Labor relations, antitrust law, public subsidization of sports facilities, discrimination and sports broadcasting are among the topics that are covered from an economics perspective.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=25&coid=81360" onclick="acalogPopup('preview_course.php?catoid=25&coid=81360'+((location.search.match(/&print/i)) ? '&print' : '')+'', '3', 770, 530, 'yes');return false;" target="_blank" aria-label="ECON 010 opens a new window">ECON 010</a><span style="display: none !important">&#160;</span> and <a href="preview_course_nopop.php?catoid=25&coid=81361" onclick="acalogPopup('preview_course.php?catoid=25&coid=81361&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=25&coid=81361&display_options[location]=tooltip&show" id="tt1231" target="_blank">ECON 011</a><span style="display: none !important">&#160;</span>.<br><br><strong>Anticipated Terms Offered:</strong> Offered periodically<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt1231"></div></div>		</td>
+	</tr>
+</table>
+<br>

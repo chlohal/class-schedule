@@ -1,0 +1,21 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('28', '3', '96968', '', this, ''); return false;">
+				CSCI 268 - Internet of Things			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=28&coid=96968&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>CSCI 268 - Internet of Things </h3>  <hr><span class="fontstyle0">Internet of things (IoT) concerns the integration of people, processes, and technology with<br>
+connectable devices and sensors to enable impactful applications including remote monitoring,<br>
+status, manipulation, and evaluation of trends. Advancements in miniaturization and the<br>
+proliferation of low-cost network connected devices, sensors, and machines has seen the<br>
+expansion of impactful Internet of Things (IoT) applications that have transformed a variety of<br>
+domain areas from inventory control and manufacturing to transportation. Consumer and<br>
+business driven applications lead IoT applications due to the monetization of efficiencies afforded<br>
+by the agility of data-driven business decisions. IoT presents significant opportunity for positive<br>
+impact on quality of life and social good.</span><br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=28&coid=92922" onclick="acalogPopup('preview_course.php?catoid=28&coid=92922&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=28&coid=92922&display_options[location]=tooltip&show" id="tt7117" target="_blank">CSCI 140</a><span style="display: none !important">&#160;</span> <br><br><strong>Anticipated Terms Offered:</strong> varies<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt7117"></div></div>		</td>
+	</tr>
+</table>
+<br>

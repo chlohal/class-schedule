@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('28', '3', '96916', '', this, ''); return false;">
+				DSCI 301 - Mathematical Foundations of Data Science			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=28&coid=96916&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>DSCI 301 - Mathematical Foundations of Data Science </h3>  <hr>This course introduces fundamental mathematical concepts, theorems, and tools used in data science and machine learning, include linear algebra, analytic geometry, matrix decompositions, partial derivatives, optimization, and if time permits, probability and statistics. This is a standard lecture course with a lab component. The lab will be used for small group work and, if time permits, introduction to programming in R (one of the widely used programming languages in data science). For Graduate Students: Background in Calculus II, or Instructor&#8217;s Permission<br><br><strong>Anticipated Terms Offered:</strong> Fall 2021<br><br></div>		</td>
+	</tr>
+</table>
+<br>

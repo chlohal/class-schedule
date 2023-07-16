@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('28', '3', '96865', '', this, ''); return false;">
+				GAME 105 - Environment Art			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=28&coid=96865&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>GAME 105 - Environment Art </h3>  <hr>Environment Art is a specialization within game development which straddles the line between modeling and level design. In this course, students will learn to build art assets such as modular architectural components and reusable landscape models, then construct full real-time environments in a commercial game engine.<br><br><strong>Prerequisites:</strong> GAME 095<br><br><strong>Anticipated Terms Offered:</strong> Fall<br><br></div>		</td>
+	</tr>
+</table>
+<br>

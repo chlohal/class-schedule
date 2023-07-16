@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('28', '3', '93707', '', this, ''); return false;">
+				MATH 172 - Introduction to Modern Analysis			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=28&coid=93707&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>MATH 172 - Introduction to Modern Analysis </h3>  <hr>Modern analysis provides a language and unifying framework for theories encountered throughout mathematics. In this course, students learn to understand, formulate and prove mathematical statements. Ideas first encountered in calculus-convergence, completeness and integration-are studied in depth. Other topics include metric spaces, normed spaces, compactness and measure theory (Lebesgue integration). Required for mathematics majors by the junior year, and earlier if possible.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=28&coid=93700" onclick="acalogPopup('preview_course.php?catoid=28&coid=93700&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=28&coid=93700&display_options[location]=tooltip&show" id="tt8400" target="_blank">MATH 121</a><span style="display: none !important">&#160;</span>  or <a href="preview_course_nopop.php?catoid=28&coid=93702" onclick="acalogPopup('preview_course.php?catoid=28&coid=93702&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=28&coid=93702&display_options[location]=tooltip&show" id="tt326" target="_blank">MATH 125</a><span style="display: none !important">&#160;</span>.<br><br><strong>Anticipated Terms Offered:</strong> Offered every year<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt8400"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt326"></div></div>		</td>
+	</tr>
+</table>
+<br>

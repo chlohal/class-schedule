@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('25', '3', '84245', '', this, ''); return false;">
+				MSIT 3090 - Python Programming			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=25&coid=84245&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>MSIT 3090 - Python Programming </h3>  <hr>This elective course compliments our existing portfolio of courses and enhances the experience of our students in several ways. Python is one one of today&#8217;s most prevalent programing languages and it&#8217;s beneficial for IT professionals, regardless of their career goals, to have a working knowledge of Python principles and practical applications. Additionally, many of our students seek careers in data management and IT/Cyber data analysis. The cases presented in the course focus on using Python to extract data and import it to industry standard analysis tools. <br><br><strong>Anticipated Terms Offered:</strong> Varied<br><br></div>		</td>
+	</tr>
+</table>
+<br>

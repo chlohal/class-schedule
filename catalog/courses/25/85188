@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('25', '3', '85188', '', this, ''); return false;">
+				PHYS 210 - Condensed Matter Physics			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=25&coid=85188&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>PHYS 210 - Condensed Matter Physics </h3>  <hr>Investigates experimental properties and the quantum theory of solids. Topics include crystal and reciprocal lattice structures, the free-electron theory of metals, electronic band structure and the Fermi surface, lattice vibrations and the elementary excitations of solids, magnetism, superconductivity. Prepares students for graduate studies. Lectures are the same as PHYS 310, but the assignments, projects, examinations, and evaluations are differentiated. <br><br><strong>Prerequisites:</strong> PHYS <a href="preview_course_nopop.php?catoid=25&coid=82463" onclick="acalogPopup('preview_course.php?catoid=25&coid=82463&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=25&coid=82463&display_options[location]=tooltip&show" id="tt4002" target="_blank">PHYS 150</a><span style="display: none !important">&#160;</span> and <a href="preview_course_nopop.php?catoid=25&coid=82466" onclick="acalogPopup('preview_course.php?catoid=25&coid=82466&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=25&coid=82466&display_options[location]=tooltip&show" id="tt3348" target="_blank">PHYS 171</a><span style="display: none !important">&#160;</span> <br><br><strong>Anticipated Terms Offered:</strong> Offered every spring<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt4002"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt3348"></div></div>		</td>
+	</tr>
+</table>
+<br>

@@ -1,0 +1,15 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('28', '3', '96831', '', this, ''); return false;">
+				IMED 3200 - Procedural Art			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=28&coid=96831&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>IMED 3200 - Procedural Art </h3>  <p><hr>This course will introduce students to procedural methods of modeling, rendering, and animating three-dimensional, computer generated objects, environments, and characters. Students will implement and use frequently recurring procedural building blocks such as structural/functional decomposition, iteration, stochastic functions, recursion, and high-level control. They will then, individually or in teams, implement or use an advanced application of these techniques, choosing one of the following areas: artificial evolution, rule-based growth, physically based motion, and behavioral animation.</p>
+
+<p>Previous knowledge/experience with coding/programming, game engines, and 3D art/modeling are helpful.<br><br><strong>Anticipated Terms Offered:</strong> fall<br><br></p></div>		</td>
+	</tr>
+</table>
+<br>

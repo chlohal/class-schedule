@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('28', '3', '92852', '', this, ''); return false;">
+				CHEM 262 - Physical Chemistry II			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=28&coid=92852&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>CHEM 262 - Physical Chemistry II </h3>  <hr>CHEM 262 covers basic principles of quantum mechanics and their application for understanding fundamental aspects of atomic structure and molecular bonding as well as spectroscopy.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=28&coid=92850" onclick="acalogPopup('preview_course.php?catoid=28&coid=92850&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=28&coid=92850&display_options[location]=tooltip&show" id="tt8233" target="_blank">CHEM 260</a><span style="display: none !important">&#160;</span>.<br><br><strong>Anticipated Terms Offered:</strong> Offered every year<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt8233"></div></div>		</td>
+	</tr>
+</table>
+<br>

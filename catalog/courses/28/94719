@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('28', '3', '94719', '', this, ''); return false;">
+				CSCI 2060 - Computer Architecture Fundamentals			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=28&coid=94719&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>CSCI 2060 - Computer Architecture Fundamentals </h3>  <hr>Computer architecture is the study of the organization of computer systems. It could be described as a course in the anatomy and physiology of computers&#8211;how computers are put together and how the various components work as a system. You will look at the internal structure of the computer, the manner in which data are stored and manipulated, the capabilities of the computer at the machine level, the types of instructions a computer can perform, and how to get data into and out of the computer. A basic understanding of computers such as would be obtained from experience as a user or an introductory computer course is expected.<br><br><strong>Anticipated Terms Offered:</strong> varies<br><br></div>		</td>
+	</tr>
+</table>
+<br>

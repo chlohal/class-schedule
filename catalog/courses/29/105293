@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('29', '3', '105293', '', this, ''); return false;">
+				MSCS 3200 - Computer Architecture			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=29&coid=105293&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>MSCS 3200 - Computer Architecture </h3>  <hr>This course uses assembly language to introduce the concepts of computer architecture, as well as the hardware-software interface and other topics. This course covers topics including pipelining, superscalar, out of order execution, multithreading, caches, virtual memory, and multiprocessors. A brief discussion of topics affecting the intersection of architecture, compilers, and operating systems will be held. Numbering systems, machine language, and architecture will be covered. Computer arithmetic, logical building blocks, comparison, addressing modes, input/output, branching, repetition, and processor implementation are all discussed. You will have a lecture and/or experiment discussion each week.<br><br><strong>Anticipated Terms Offered:</strong> Annually<br><br></div>		</td>
+	</tr>
+</table>
+<br>

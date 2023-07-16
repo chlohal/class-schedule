@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('26', '3', '85883', '', this, ''); return false;">
+				GEOG 296 - Advanced Raster GIS			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=26&coid=85883&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>GEOG 296 - Advanced Raster GIS </h3>  <hr>This course builds on Introduction to GIS by delving deeper into raster GIS. Topics include time-series analysis, uncertainty assessment, multi-objective decision making, land-change modeling, and spatial statistics. Concepts in lectures are illustrated using the Idrisi software. Final project is required. This is a prerequisite for the fifth year Masters program in GIS and is a requirement for the GISDE masters program.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=26&coid=85851" onclick="acalogPopup('preview_course.php?catoid=26&coid=85851&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=26&coid=85851&display_options[location]=tooltip&show" id="tt2837" target="_blank">GEOG 190</a><span style="display: none !important">&#160;</span>/<span class="acalog-permalink-inactive">GEOG 390</span><span style="display: none !important">&#160;</span>/<a href="preview_course_nopop.php?catoid=26&coid=86216" onclick="acalogPopup('preview_course.php?catoid=26&coid=86216&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=26&coid=86216&display_options[location]=tooltip&show" id="tt1953" target="_blank"> IDCE 310</a><span style="display: none !important">&#160;</span> or permission of instructor.<br><br><strong>Anticipated Terms Offered:</strong> Offered every spring<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt2837"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt1953"></div></div>		</td>
+	</tr>
+</table>
+<br>

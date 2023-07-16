@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('29', '3', '99969', '', this, ''); return false;">
+				MSDA 3040 - Fundamentals of Data Engineering			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=29&coid=99969&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>MSDA 3040 - Fundamentals of Data Engineering </h3>  <hr>This course provides students with in-depth knowledge of data warehouse principles and concepts. Through hands-on exercises, we will be designing and populating a data warehouse prototype, structures, and tables by using reusable ETL (extract transform and load) processes. During the second part of this class, we will be using SQL and Business Intelligence (BI) tools to find patterns and relationships in data to be able to support informed decision making. In addition, students will gain conceptual background about cloud data platforms and the modern data management ecosystem. .<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=29&coid=99682" onclick="acalogPopup('preview_course.php?catoid=29&coid=99682&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=99682&display_options[location]=tooltip&show" id="tt6266" target="_blank">MSIT 3860</a><span style="display: none !important">&#160;</span> <br><br><strong>Anticipated Terms Offered:</strong> Varied<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt6266"></div></div>		</td>
+	</tr>
+</table>
+<br>

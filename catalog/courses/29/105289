@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('29', '3', '105289', '', this, ''); return false;">
+				FIN 5200 - Corporate Finance			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=29&coid=105289&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>FIN 5200 - Corporate Finance </h3>  <hr><p style="margin-left:.25in;">This course serves as an introduction to the principles of corporate finance and its applications. The objective is to provide the framework, concepts, and tools to make sound financial decisions based on fundamental principles of modern financial theory. It will examine topics such as financial analysis, asset valuation, capital budgeting, capital structure, dividend policy, and the cost of capital. It will explain the procedures, practices, and policies by which financial managers contribute to the successful performance of an organization. <br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=29&coid=97504" onclick="acalogPopup('preview_course.php?catoid=29&coid=97504&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=97504&display_options[location]=tooltip&show" id="tt1788" target="_blank">FIN 5401</a><span style="display: none !important">&#160;</span>  or <a href="preview_course_nopop.php?catoid=29&coid=97483" onclick="acalogPopup('preview_course.php?catoid=29&coid=97483&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=97483&display_options[location]=tooltip&show" id="tt4292" target="_blank">FIN 4200</a><span style="display: none !important">&#160;</span> <br><br><strong>Anticipated Terms Offered:</strong> Annually<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt1788"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt4292"></div></div>		</td>
+	</tr>
+</table>
+<br>

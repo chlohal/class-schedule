@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('28', '3', '93889', '', this, ''); return false;">
+				PHYS 111 - Introductory Physics - Part II			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=28&coid=93889&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>PHYS 111 - Introductory Physics - Part II </h3>  <hr>A continuation of <a href="preview_course_nopop.php?catoid=28&coid=93888" onclick="acalogPopup('preview_course.php?catoid=28&coid=93888&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=28&coid=93888&display_options[location]=tooltip&show" id="tt404" target="_blank">PHYS 110</a><span style="display: none !important">&#160;</span>. Topics include wave motion, electricity, magnetism, optics, and a survey of modern physics. This course comprises of lectures, associated laboratories, and discussion sections. The <a href="preview_course_nopop.php?catoid=28&coid=93888" onclick="acalogPopup('preview_course.php?catoid=28&coid=93888&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=28&coid=93888&display_options[location]=tooltip&show" id="tt5822" target="_blank">PHYS 110</a><span style="display: none !important">&#160;</span>-111 sequence is designed to fulfill the usual entrance requirements for medical and dental schools. Fulfills the Scientific Perspective.<br><br><strong>Course Designation/Attribute:</strong> SP<br><br><strong>Anticipated Terms Offered:</strong> Offered every spring<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt404"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt5822"></div></div>		</td>
+	</tr>
+</table>
+<br>

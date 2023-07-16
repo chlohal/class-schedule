@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('29', '3', '98943', '', this, ''); return false;">
+				MATH 1140 - Discrete Mathematics			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=29&coid=98943&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>MATH 1140 - Discrete Mathematics </h3>  <hr><span style="font-family:calibri, sans-serif;font-size:11pt;">This course is designed to provide students with the necessary background to understand the foundational mathematical concepts used in computer science and other technology related fields. This course focuses on elementary logic, proofs, sets, relations, functions, combinatorics, Boolean Algebra and their applications in computer science.<span>  </span></span><br><br><strong>Prerequisites:</strong> MATH 1000 Algebra<br><br><strong>Anticipated Terms Offered:</strong> spring<br><br></div>		</td>
+	</tr>
+</table>
+<br>

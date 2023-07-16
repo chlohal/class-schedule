@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('28', '3', '92934', '', this, ''); return false;">
+				CSCI 265 - Robotics			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=28&coid=92934&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>CSCI 265 - Robotics </h3>  <hr>This course presents an introduction to robotics. In addition to algorithmic issues, the course will cover related engineering and system topics and discuss current research problems. Topics covered include hierarchical paradigms, biological foundations, robot actuators and sensors, sensing techniques, kinematics, and dynamics, control, localization and motion planning. Students will get hands on experience through computer simulation or physical experiments with robot project-component kits. Students should be interested in geometric concepts and algorithms and have good programming skills.<br><br><strong>Prerequisites:</strong> Prerequisites for this course require a grade of C- or better. Algorithms (<a href="preview_course_nopop.php?catoid=28&coid=92923" onclick="acalogPopup('preview_course.php?catoid=28&coid=92923&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=28&coid=92923&display_options[location]=tooltip&show" id="tt2961" target="_blank">CSCI 160</a><span style="display: none !important">&#160;</span>) and familiarity with matrix algebra (<a href="preview_course_nopop.php?catoid=28&coid=93705" onclick="acalogPopup('preview_course.php?catoid=28&coid=93705&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=28&coid=93705&display_options[location]=tooltip&show" id="tt4060" target="_blank">MATH 130</a><span style="display: none !important">&#160;</span>), or instructor&#8217;s permission.<br><br><strong>Anticipated Terms Offered:</strong> Offered Periodically<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt2961"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt4060"></div></div>		</td>
+	</tr>
+</table>
+<br>

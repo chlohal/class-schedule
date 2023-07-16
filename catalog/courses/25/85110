@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('25', '3', '85110', '', this, ''); return false;">
+				DSCI 225 - Applied Machine Learning			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=25&coid=85110&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>DSCI 225 - Applied Machine Learning </h3>  <hr>An investigation into the fundamental techniques and practices of machine learning.  The primary activities of the course will be a series of lectures and a corresponding series of lab sessions, programming projects, and written assignments.  The course will focus on applying machine learning to practical problems in Data Science and will also introduce the student to some of the fundamental theory of machine learning.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=25&coid=82266" onclick="acalogPopup('preview_course.php?catoid=25&coid=82266&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=25&coid=82266&display_options[location]=tooltip&show" id="tt4508" target="_blank">MATH 130</a><span style="display: none !important">&#160;</span>  - Linear Algebra &amp; <a href="preview_course_nopop.php?catoid=25&coid=81343" onclick="acalogPopup('preview_course.php?catoid=25&coid=81343&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=25&coid=81343&display_options[location]=tooltip&show" id="tt9581" target="_blank">CSCI 121</a><span style="display: none !important">&#160;</span>  - Data Structures &amp; <a href="preview_course_nopop.php?catoid=25&coid=85109" onclick="acalogPopup('preview_course.php?catoid=25&coid=85109&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=25&coid=85109&display_options[location]=tooltip&show" id="tt6325" target="_blank">DSCI 125</a><span style="display: none !important">&#160;</span> - Introduction to Data Science<br><br><strong>Anticipated Terms Offered:</strong> Spring 2019<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt4508"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt9581"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt6325"></div></div>		</td>
+	</tr>
+</table>
+<br>

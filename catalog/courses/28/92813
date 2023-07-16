@@ -1,0 +1,15 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('28', '3', '92813', '', this, ''); return false;">
+				BIOL 334 - Signal Transduction			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=28&coid=92813&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>BIOL 334 - Signal Transduction </h3>  <p><hr><p style="text-align:left;">An advanced course exploring the various molecular and biochemical pathways through which cells communicate with themselves and their environment. Topics include protein phosphorylation, G-proteins, phospholipid metabolism, the action of oncogenes and several ion signaling pathways. Class format includes both lectures and student presentations.</p>
+
+<p> <br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=28&coid=92771" onclick="acalogPopup('preview_course.php?catoid=28&coid=92771&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=28&coid=92771&display_options[location]=tooltip&show" id="tt8305" target="_blank">BIOL 137</a><span style="display: none !important">&#160;</span> or <a href="preview_course_nopop.php?catoid=28&coid=92747" onclick="acalogPopup('preview_course.php?catoid=28&coid=92747&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=28&coid=92747&display_options[location]=tooltip&show" id="tt3214" target="_blank">BCMB 271</a><span style="display: none !important">&#160;</span> or permission of instructor.<br><br><strong>Anticipated Terms Offered:</strong> Offered periodically<br><br></p><div style="display: none; z-index: 1000;" class="tooltip for_tt8305"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt3214"></div></div>		</td>
+	</tr>
+</table>
+<br>

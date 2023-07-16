@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('25', '3', '83321', '', this, ''); return false;">
+				MATH 1140 - Discrete Mathematics			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=25&coid=83321&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>MATH 1140 - Discrete Mathematics </h3>  <hr>The study of mathematical structures that naturally arise in computer science. Topics include elementary logic and set theory, equivalence relations, functions, counting arguments, graphs and trees, recursion, and Boolean algebra. Proofs and problems solving are emphasized.<br><br></div>		</td>
+	</tr>
+</table>
+<br>

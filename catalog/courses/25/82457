@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('25', '3', '82457', '', this, ''); return false;">
+				PHYS 120 - Introductory Physics - Part I, with Calculus			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=25&coid=82457&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>PHYS 120 - Introductory Physics - Part I, with Calculus </h3>  <hr>Problem-oriented course intended for science majors; coverage is more in-depth than PHYS110. Topics include Newtonian mechanics and laboratory methods. Course should be taken with MATH124 so the elements of calculus and its applications to physics can be treated at the same time. This course comprises of lectures, associated laboratories, and discussion sections.<br><br><strong>Corequisites:</strong> <span style="color:rgb(0,0,0);"><a href="preview_course_nopop.php?catoid=25&coid=82260" onclick="acalogPopup('preview_course.php?catoid=25&coid=82260'+((location.search.match(/&print/i)) ? '&print' : '')+'', '3', 770, 530, 'yes');return false;" target="_blank" aria-label="MATH 120 opens a new window">MATH 120</a><span style="display: none !important">&#160;</span> </span> or <span style="color:rgb(0,0,0);"><a href="preview_course_nopop.php?catoid=25&coid=82262" onclick="acalogPopup('preview_course.php?catoid=25&coid=82262'+((location.search.match(/&print/i)) ? '&print' : '')+'', '3', 770, 530, 'yes');return false;" target="_blank" aria-label="MATH 124 opens a new window">MATH 124</a><span style="display: none !important">&#160;</span> </span>.<br><br><strong>Course Designation/Attribute:</strong> SP<br><br><strong>Anticipated Terms Offered:</strong> Offered every fall.<br><br></div>		</td>
+	</tr>
+</table>
+<br>

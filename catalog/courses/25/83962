@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('25', '3', '83962', '', this, ''); return false;">
+				GEOG 304 - Cartography and Map Design (0.5 credit)			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=25&coid=83962&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>GEOG 304 - Cartography and Map Design (0.5 credit) </h3>  <hr>This course studies the elements of cartography with emphasis on the map as a basic form of communication.  It explores contemporary design concepts and various graphic techniques.  The course covers the key principles of cartography to enable students to use GIS software for the creation of communicative, compelling, visually pleasing maps that highlight spatial relationships among time-space phenomena.  This course requires intensive use of GIS softward and will require the completion of a final project portfolio. Students should have knowledge of IDRISI Tiaga/TerrSet and ArcGIS. Open to doctoral and masters students, advanced undergrads may ask to enroll with permission.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=25&coid=81694" onclick="acalogPopup('preview_course.php?catoid=25&coid=81694&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=25&coid=81694&display_options[location]=tooltip&show" id="tt941" target="_blank">GEOG 190</a><span style="display: none !important">&#160;</span>  Introduction to Geographic Information Science or <a href="preview_course_nopop.php?catoid=25&coid=82096" onclick="acalogPopup('preview_course.php?catoid=25&coid=82096&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=25&coid=82096&display_options[location]=tooltip&show" id="tt7982" target="_blank">IDCE 310</a><span style="display: none !important">&#160;</span> Introduction to GIS is required<br><br><strong>Anticipated Terms Offered:</strong> every other year<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt941"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt7982"></div></div>		</td>
+	</tr>
+</table>
+<br>

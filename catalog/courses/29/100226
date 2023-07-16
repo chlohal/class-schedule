@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('29', '3', '100226', '', this, ''); return false;">
+				MATH 133 - Mathematical Modeling			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=29&coid=100226&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>MATH 133 - Mathematical Modeling </h3>  <hr>Mathematical models are fundamental for understanding, predicting, and decision-making in almost every field. The goal of this course is to enable students to build mathematical models of real-world phenomena, analyze them, and make predictions about their behavior. A variety of models will be addressed with examples taken from natural and social sciences such as biology, chemistry, economics, and physics. Students are expected to actively engage in the modeling process by showing understanding and questioning the models constituents and extrapolating the presented examples to other situations. This course is project based. By the end of this course students are expected to present a report on their project with a focus on describing the modeling procedure and an analysis of the extent to which their model is accurate and its limitations.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=29&coid=98026" onclick="acalogPopup('preview_course.php?catoid=29&coid=98026&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=98026&display_options[location]=tooltip&show" id="tt8552" target="_blank"> MATH 121 - Calculus II</a><span style="display: none !important">&#160;</span>  or <a href="preview_course_nopop.php?catoid=29&coid=98028" onclick="acalogPopup('preview_course.php?catoid=29&coid=98028&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=98028&display_options[location]=tooltip&show" id="tt6799" target="_blank"> MATH 125 - Honors Calculus II</a><span style="display: none !important">&#160;</span> <br><br><strong>Course Designation/Attribute:</strong> POP<br><br><strong>Anticipated Terms Offered:</strong> Spring<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt8552"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt6799"></div></div>		</td>
+	</tr>
+</table>
+<br>

@@ -1,0 +1,17 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('29', '3', '99980', '', this, ''); return false;">
+				DSCI 305 - Applied Data Analytics			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=29&coid=99980&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>DSCI 305 - Applied Data Analytics </h3>  <p><hr>An investigation into the fundamental techniques and practices of data analysis.  The primary activities of the course will be a series of lectures and a corresponding series of lab sessions, programming projects, and written assignments. The course will focus on applying tools and techniques to practical problems of analysis, visualization, and discovery and will also introduce the student to a suite of modern tools for data analysis. </p>
+
+<p>Graduate students need to have had at least one introductory quantitative methods course and one introductory programming course.   </p>
+
+<p> <br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=29&coid=98662" onclick="acalogPopup('preview_course.php?catoid=29&coid=98662&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=98662&display_options[location]=tooltip&show" id="tt1306" target="_blank">IDCE 302</a><span style="display: none !important">&#160;</span> OR <a href="preview_course_nopop.php?catoid=29&coid=100210" onclick="acalogPopup('preview_course.php?catoid=29&coid=100210&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=100210&display_options[location]=tooltip&show" id="tt4459" target="_blank">CSCI 301</a><span style="display: none !important">&#160;</span> <br><br><strong>Anticipated Terms Offered:</strong> Spring 2121<br><br></p><div style="display: none; z-index: 1000;" class="tooltip for_tt1306"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt4459"></div></div>		</td>
+	</tr>
+</table>
+<br>

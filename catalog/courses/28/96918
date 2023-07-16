@@ -1,0 +1,14 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('28', '3', '96918', '', this, ''); return false;">
+				DSCI 325 - Applied Machine Learning			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=28&coid=96918&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>DSCI 325 - Applied Machine Learning </h3>  <hr>This course will be an investigation into the fundamental techniques and practices of machine learning (ML). The primary activities of the course will be a series of lectures and a corresponding series of lab projects, written reflections, a final project and paper. The course will focus on applying ML to<br>
+practical problems in Data Science and will also introduce the student to some of the fundamental theory of ML.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=28&coid=96917" onclick="acalogPopup('preview_course.php?catoid=28&coid=96917&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=28&coid=96917&display_options[location]=tooltip&show" id="tt490" target="_blank">DSCI 304</a><span style="display: none !important">&#160;</span>  OR <a href="preview_course_nopop.php?catoid=28&coid=95665" onclick="acalogPopup('preview_course.php?catoid=28&coid=95665&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=28&coid=95665&display_options[location]=tooltip&show" id="tt9978" target="_blank">DSCI 305</a><span style="display: none !important">&#160;</span> <br><br><strong>Anticipated Terms Offered:</strong> Fall 2021<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt490"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt9978"></div></div>		</td>
+	</tr>
+</table>
+<br>

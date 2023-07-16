@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('25', '3', '83456', '', this, ''); return false;">
+				ENG 2310 - Topics in Journalism			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=25&coid=83456&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>ENG 2310 - Topics in Journalism </h3>  <hr>Offers students an expanded look at various kinds of stories that appear in newspapers, including hard news, features, columns, analysis and reviews. Focus this semester will be on coverage of foreign policy.<br><br></div>		</td>
+	</tr>
+</table>
+<br>

@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('26', '3', '85359', '', this, ''); return false;">
+				BIOL 242 - Animal Behavior			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=26&coid=85359&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>BIOL 242 - Animal Behavior </h3>  <hr>Examines the causes and evolution of the behavior of animals. The largest part of this course will focus on the adaptive value and evolution of behavioral patterns, but a general overview of behavioral development and causation will be provided to offer the necessary background for interpretation of the ultimate causes of behavior.<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=26&coid=85331" onclick="acalogPopup('preview_course.php?catoid=26&coid=85331&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=26&coid=85331&display_options[location]=tooltip&show" id="tt2859" target="_blank">BIOL 105</a><span style="display: none !important">&#160;</span>   and permission of instructor.<br><br><strong>Anticipated Terms Offered:</strong> Offered every other year.<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt2859"></div></div>		</td>
+	</tr>
+</table>
+<br>

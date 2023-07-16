@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('29', '3', '99861', '', this, ''); return false;">
+				ACCT 5100 - Accounting Analytics			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=29&coid=99861&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>ACCT 5100 - Accounting Analytics </h3>  <hr>This course introduces the basic analytical techniques for examining &#8220;big data&#8221; as it pertains to accounting professionals. The focus of this course is to provide students with an understanding of data analytic thinking and terminology as well as hands-on experience. Students will develop skills in problem assessment, data preparation, analysis, and visualization using select data analytics tools and techniques that are extensively used in data analytics for accounting professionals. This course requires extensive use of the computer as a tool. <br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=29&coid=96998" onclick="acalogPopup('preview_course.php?catoid=29&coid=96998&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=96998&display_options[location]=tooltip&show" id="tt7977" target="_blank">ACCT 4100</a><span style="display: none !important">&#160;</span>  or <a href="preview_course_nopop.php?catoid=29&coid=99426" onclick="acalogPopup('preview_course.php?catoid=29&coid=99426&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=99426&display_options[location]=tooltip&show" id="tt7398" target="_blank">ACCT 4101</a><span style="display: none !important">&#160;</span> <br><br><strong>Anticipated Terms Offered:</strong> Spring Semester<br><br><div style="display: none; z-index: 1000;" class="tooltip for_tt7977"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt7398"></div></div>		</td>
+	</tr>
+</table>
+<br>

@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('28', '3', '96879', '', this, ''); return false;">
+				GAME 190 - Game Programming I			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=28&coid=96879&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>GAME 190 - Game Programming I </h3>  <hr>This course provides a review of the fundamentals of C++, the standard language of the game industry, and builds on those fundamentals to create moderately complex games. Beginning with simple games, the course progresses through more interesting game functions: game loops, using and creating software objects, using functions to break game programs into manageable chunks of code, how to address and manipulate computer memory, and define objects in terms of other objects.<br><br><strong>Prerequisites:</strong> GCPT 110<br><br><strong>Anticipated Terms Offered:</strong> Fall<br><br></div>		</td>
+	</tr>
+</table>
+<br>

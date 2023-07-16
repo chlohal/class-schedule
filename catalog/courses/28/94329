@@ -1,0 +1,19 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('28', '3', '94329', '', this, ''); return false;">
+				MATH 212 - Numerical Analysis			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=28&coid=94329&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>MATH 212 - Numerical Analysis </h3>  <p><hr>Introduces concepts and techniques of scientific computing to students in mathematics, computer science and the sciences. Teaches how to set up reasonable computational algorithms and use the algorithms to work on actual projects. Topics include approximation theory, error analysis, numerical differentiation and integration, and solution of ordinary differential equations and linear systems.<br>
+<em>Fulfills a 200-level math major requirement and counts for Computer Science Major. </em></p>
+
+<p><em>Formerly CSCI 212.</em><br>
+ <br><br><strong>Prerequisites:</strong>  <a href="preview_course_nopop.php?catoid=28&coid=93705" onclick="acalogPopup('preview_course.php?catoid=28&coid=93705&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=28&coid=93705&display_options[location]=tooltip&show" id="tt9992" target="_blank">MATH 130</a><span style="display: none !important">&#160;</span> and (<a href="preview_course_nopop.php?catoid=28&coid=92923" onclick="acalogPopup('preview_course.php?catoid=28&coid=92923&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=28&coid=92923&display_options[location]=tooltip&show" id="tt3329" target="_blank"> CSCI 160</a><span style="display: none !important">&#160;</span> or <a href="preview_course_nopop.php?catoid=28&coid=93707" onclick="acalogPopup('preview_course.php?catoid=28&coid=93707&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=28&coid=93707&display_options[location]=tooltip&show" id="tt9962" target="_blank">MATH 172</a><span style="display: none !important">&#160;</span> ) or permission</p>
+
+<p><em>(must have earned a minimum of C- for prereqs)</em><br><br><strong>Anticipated Terms Offered:</strong> Offered Periodically<br><br></p><div style="display: none; z-index: 1000;" class="tooltip for_tt9992"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt3329"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt9962"></div></div>		</td>
+	</tr>
+</table>
+<br>

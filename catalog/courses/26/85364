@@ -1,0 +1,15 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('26', '3', '85364', '', this, ''); return false;">
+				BIOL 254 - Molecular and Evolutionary Systematics			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=26&coid=85364&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>BIOL 254 - Molecular and Evolutionary Systematics </h3>  <p><hr><p style="text-align:left;"><span style="background-color:transparent;color:rgb(0,0,0);font-family:arial;font-size:11pt;font-style:normal;font-weight:400;text-decoration:none;vertical-align:baseline;">This course is designed for students who are interested in genetics, evolutionary biology, environmental biology, and bioinformatics. Topics to be discussed include evolution of genes and genomes, methods used to estimate evolutionary relationships using molecular data, and applications of molecular data to general problems in biology. The course will include lectures, student-led discussions, laboratory projects using computer-based applications and presentations.</span></p>
+
+<p> <br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=26&coid=85331" onclick="acalogPopup('preview_course.php?catoid=26&coid=85331&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=26&coid=85331&display_options[location]=tooltip&show" id="tt5599" target="_blank">BIOL 105</a><span style="display: none !important">&#160;</span> <br><br><strong>Anticipated Terms Offered:</strong> Offered periodically<br><br></p><div style="display: none; z-index: 1000;" class="tooltip for_tt5599"></div></div>		</td>
+	</tr>
+</table>
+<br>

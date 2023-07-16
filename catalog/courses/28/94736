@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('28', '3', '94736', '', this, ''); return false;">
+				CSCI 2030 - Introduction to Java Programming			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=28&coid=94736&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>CSCI 2030 - Introduction to Java Programming </h3>  <hr>Introduces the elements of Java programming language. Topics include input/output operations, control structures, arithmetic operations, arrays, strings, praphical user interface(GUI), object-oriented design and other related topics. Upon completion, students should be able to design, code, test and debug Java application programs and Java applets for web application.<br><br><strong>Anticipated Terms Offered:</strong> vaires<br><br></div>		</td>
+	</tr>
+</table>
+<br>

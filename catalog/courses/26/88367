@@ -1,0 +1,13 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('26', '3', '88367', '', this, ''); return false;">
+				MPA 3002 - Foundations of Analytics			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=26&coid=88367&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>MPA 3002 - Foundations of Analytics </h3>  <hr>This course is designed to review or introduce the basic concepts of statistics and probability.  Students will learn how to collect data, calculate statistics to describe the data, and interpret the data to draw conclusions.  In the course the students will learn descriptive statistics, characteristics of discrete and continuous probability distributions, sampling distributions, confidence intervals and hypothesis testing.  The course will also cover linear regression and correlation.  Students will perform tasks in both MS Excel and SPSS. <br><br><strong>Anticipated Terms Offered:</strong> Varied<br><br></div>		</td>
+	</tr>
+</table>
+<br>

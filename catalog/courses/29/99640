@@ -1,0 +1,23 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('29', '3', '99640', '', this, ''); return false;">
+				BAN 5600 - Advanced Big Data Computing and Programming			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=29&coid=99640&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>BAN 5600 - Advanced Big Data Computing and Programming </h3>  <p><hr>The astounding growth of data in all aspects of life in the form of emails, weblogs, tweets, sensors, videos, and text has necessitated the use of Big Data and advanced analytics techniques to support large-scale data analytics. The goal of this course is to enable students to design and build Big Data applications through highly scalable systems capable of collecting, processing, storing, and analyzing large volumes of structured and unstructured data.</p>
+
+<p> </p>
+
+<p>By extending the Cross-Industry Standard Process for Data Mining (CRISP-DM) to build Big Data applications using distributed and parallel computing architecture, this course brings together key Big Data tools on Hadoop Ecosystem (such as Pig, Hive, Flume, Sqoop, and Spark). Students will learn how to efficiently manage and analyze data with three main characteristics: high volume, high velocity, and high variety.</p>
+
+<p>Topics include the Hadoop Ecosystem platforms such as Hortonworks Sandbox, Amazon AWS, and Databricks; and advanced analytics techniques such as Visualization, Natural Language Processing, and streaming analytics.</p>
+
+<p> </p>
+
+<p>Previously Titled &#8220;MIS 5600 Data Structures and Big Data Computing&#8221;<br><br><strong>Prerequisites:</strong> <a href="preview_course_nopop.php?catoid=29&coid=99733" onclick="acalogPopup('preview_course.php?catoid=29&coid=99733&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=99733&display_options[location]=tooltip&show" id="tt7573" target="_blank">BAN 4550</a><span style="display: none !important">&#160;</span>  OR MSIT 3090 &amp; <a href="preview_course_nopop.php?catoid=29&coid=98100" onclick="acalogPopup('preview_course.php?catoid=29&coid=98100&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=29&coid=98100&display_options[location]=tooltip&show" id="tt9265" target="_blank">BAN 5501</a><span style="display: none !important">&#160;</span> <br><br><strong>Anticipated Terms Offered:</strong> Offered annually<br><br></p><div style="display: none; z-index: 1000;" class="tooltip for_tt7573"></div><div style="display: none; z-index: 1000;" class="tooltip for_tt9265"></div></div>		</td>
+	</tr>
+</table>
+<br>

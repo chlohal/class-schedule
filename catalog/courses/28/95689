@@ -1,0 +1,17 @@
+<a href="#" class="link-open" aria-expanded="true" onclick="hideCatalogData('28', '3', '95689', '', this, ''); return false;">
+				BIOL 2000 - Immunology			</a>
+						<br>
+			<table class="td_dark">
+				<tr>
+					<td class="coursepadding">
+							<div class="ajaxcourseindentfix social-media-ajax">
+                                <div class='acalog-social-media-links'> </div>					<span class="print_link">[<a href="javascript:acalogPopup('preview_course.php?catoid=28&coid=95689&print', 'preview_course', 770, 530, 'yes')" class="acalog-highlight-ignore" alt="Text Version" title="Print Course (opens a new window)">Print Course (opens a new window)</a>]</span>
+				</div>
+<div><h3>BIOL 2000 - Immunology </h3>  <p><hr>This course will provide students with a basic understanding of the human immune system through pictorial and scientific explanation of the cellular and molecular interactions of our human immune components such as lymphocytes and antibodies to control the normal defense of the human body against multiple diseases.  The research and understanding from this discipline has contributed significantly to our ability to use antibodies and cellular immunotherapy for biopharmaceutical applications. </p>
+
+<p>In this course, the fundamental principles of the mechanisms of human immune responses will be thoroughly discussed. Advances in immunology related researches provide a more complete view of the innate lymphoid cells, the biology of the inflammation activation, subsets of the memory lymphocytes, or the role of IgE in allergy.  Our translational understanding of the human immune responses has helped us address questions in autoimmunity, immunodeficiencies, transplantation rejection, HIV infection, microbiome interaction, or cancer immunotherapy and many more.  Furthermore, knowledge from this discipline has formed the cornerstone of many therapeutic products in the biotech industry, such as in the area of biologic antibodies therapeutics or cellular immunotherapy.<br><br><strong>Prerequisites:</strong> BIOL 1010 Introduction to Biology I</p>
+
+<p><a href="preview_course_nopop.php?catoid=28&coid=95036" onclick="acalogPopup('preview_course.php?catoid=28&coid=95036&print', '3', 770, 530, 'yes');return false;" rel="remote /ajax/preview_course.php?catoid=28&coid=95036&display_options[location]=tooltip&show" id="tt8894" target="_blank"> CHEM 1010 - Introduction to Chemistry I</a><span style="display: none !important">&#160;</span> <br><br><strong>Anticipated Terms Offered:</strong> As needed.  Course is a pre-requisite admission requirements for BS Biotechnology program.<br><br></p><div style="display: none; z-index: 1000;" class="tooltip for_tt8894"></div></div>		</td>
+	</tr>
+</table>
+<br>
