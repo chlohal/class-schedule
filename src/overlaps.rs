@@ -62,6 +62,15 @@ pub fn classes_overlap(a: &CourseSection, b: &CourseSection) -> bool {
     return false;
 }
 
+pub fn class_overlaps_with_classes(aection: &Arc<CourseSection>, b: &Vec<Arc<CourseSection>>) -> bool {
+    for bection in b {
+        if classes_overlap(aection, bection) {
+            return true;
+        }
+    }
+    return false;
+}
+
 fn minute_ranges<'a>(periods: &'a Vec<ClassPeriod>) -> impl Iterator<Item = (u32, u32)> + 'a {
     periods.iter().flat_map(|period| {
         let t = &period.time;

@@ -9,6 +9,7 @@ use crate::course_types::{Course, CourseSection};
 pub struct CourseLibrary {
     sections: Vec<Arc<CourseSection>>,
     course_name_index: HashMap<String, Weak<Course>>,
+    section_crn_index: HashMap<u32, Weak<CourseSection>>
 }
 
 impl CourseLibrary {
@@ -26,10 +27,15 @@ impl CourseLibrary {
     pub fn add_section(&mut self, section: Arc<CourseSection>) {
         self.add_course(Arc::downgrade(&section.course));
 
+        self.section_crn_index.insert(section.crn, Arc::downgrade(&section));
+
         self.sections.push(section);
     }
     pub fn get_by_name(&self, name: &String) -> Option<Weak<Course>> {
         self.course_name_index.get(name).cloned()
+    }
+    pub fn get_by_crn(&self, crn: &u32) -> Option<Weak<CourseSection>> {
+        self.section_crn_index.get(&crn).cloned()
     }
 
     pub fn iter(&self) -> std::slice::Iter<Arc<CourseSection>> {

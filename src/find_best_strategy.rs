@@ -1,6 +1,5 @@
 use std::{
-    char::MAX,
-    collections::{HashSet, VecDeque},
+    collections::HashSet,
     sync::Arc,
 };
 
@@ -8,18 +7,36 @@ use itertools::Itertools;
 
 use crate::{
     args::ProgramArgs,
-    course_types::{Course, CourseSection},
+    course_types::{CourseSection},
     evaluate_strategy::evaluate_strategy,
-    overlaps::{classes_overlap, NonOverlappingSections},
-    top_n::TopN,
+    overlaps::{NonOverlappingSections, self, classes_overlap, class_overlaps_with_classes},
+    top_n::TopN, NUM_COURSES_MAX, course_library::CourseLibrary,
 };
-
-const MAX_COURSES: usize = 4;
 
 #[derive(Debug, Default, Clone)]
 pub struct Strategy {
     pub courses: Vec<Arc<CourseSection>>,
     pub score: f64,
+}
+impl Strategy {
+    pub fn from_crns(base: &Vec<u32>, universe: &CourseLibrary) -> Strategy {
+        base
+            .iter()
+            .map(|crn| universe.get_by_crn(crn)
+                .expect("couldn't find base CRN").upgrade()
+                .expect("couldn't upgrade weak pointer for base CRN"))
+            .collect::<Vec<_>>()
+            .into() 
+    }
+
+    pub fn len(&self) -> usize {
+        self.courses.len()
+    }
+
+    fn insert(&mut self, section: Arc<CourseSection>) {
+        self.courses.push(section);
+        self.score = evaluate_strategy(&self.courses);
+    }
 }
 
 impl From<Vec<Arc<CourseSection>>> for Strategy {
@@ -57,25 +74,24 @@ pub struct ProgramResults {
 }
 
 pub fn find_best_strategy(args: ProgramArgs, keep_num: usize) -> ProgramResults {
-    let possible_combination_cells = NonOverlappingSections::new(&args.courses);
-
-    println!(
-        "{}x{}",
-        possible_combination_cells.0.len(),
-        possible_combination_cells.max_possible()
-    );
-
-    let cell_count = possible_combination_cells.0.len();
 
     let mut top_strats: TopN<Strategy> = TopN::new(keep_num);
 
-    let mut done = 0;
-    for possibilities in possible_combination_cells.0.into_iter() {
-        for best_strat in choose_possible_strategies(&possibilities, keep_num) {
-            top_strats.insert(best_strat);
+    let base: Strategy = Strategy::from_crns(&args.base, &args.courses);
+
+    for possibilities in args.courses.iter().permutations(NUM_COURSES_MAX - base.len()) {
+        let mut new = base.clone();
+        for p in possibilities {
+            if p.cap == p.enr { continue; }
+            
+            if !class_overlaps_with_classes(p, &new.courses) {
+                new.insert(p.clone());
+            }
         }
-        println!("{}/{} ({})", done, cell_count, possibilities.len());
-        done += 1;
+
+        if new.len() == NUM_COURSES_MAX {
+            top_strats.insert(new);
+        }
     }
 
     ProgramResults { best_n: top_strats }
@@ -87,7 +103,7 @@ fn choose_possible_strategies(
 ) -> TopN<Strategy> {
     let mut top_strats: TopN<Strategy> = TopN::new(keep_num);
 
-    for courses in universe.iter().permutations(4) {
+    for courses in universe.iter().permutations(NUM_COURSES_MAX) {
         let strat = Strategy::from(courses.into_iter().map(|x| x.clone()).collect::<Vec<_>>());
 
         top_strats.insert(strat);

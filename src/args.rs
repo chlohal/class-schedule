@@ -9,7 +9,8 @@ pub struct ProgramArgs {
     pub goals: Vec<Goal>,
     pub taken: Vec<CourseCredit>,
     pub courses: CourseLibrary,
-    pub extra: Vec<String>
+    pub extra: Vec<String>,
+    pub base: Vec<u32>
 }
 
 #[derive(Debug)]
@@ -63,5 +64,9 @@ fn handle_argument(parsed_args: &mut ProgramArgs, arg: String) {
             Ok(mut credits) => parsed_args.taken.append(&mut credits),
             Err(err) => eprintln!("Error adding courses taken: {:?}", err),
         }
+    }
+
+    if name_key == "base" {
+        parsed_args.base = value.split(",").map(|x| x.parse().expect("couldn't parse a CRN in the base argument")).collect()
     }
 }

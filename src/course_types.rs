@@ -1,4 +1,4 @@
-use std::{str::FromStr, sync::Arc};
+use std::{str::FromStr, sync::Arc, fmt::Display};
 
 #[derive(Debug)]
 pub struct CourseCredit {
@@ -111,6 +111,12 @@ pub struct TimeRange {
     pub start: TimeOfDay,
     pub end: TimeOfDay,
 }
+impl Display for TimeRange {
+    fn fmt(&self, f: &mut std::fmt::Formatter<'_>) -> std::fmt::Result {
+        f.write_fmt(format_args!("{} - {}", self.start, self.end))
+    }
+}
+
 impl FromStr for ClassTime {
     type Err = ();
 
@@ -134,6 +140,14 @@ pub struct TimeOfDay {
     pub minute: u32,
 }
 
+impl Display for TimeOfDay {
+    fn fmt(&self, f: &mut std::fmt::Formatter<'_>) -> std::fmt::Result {
+        let h = if self.hour < 12 { self.hour } else if self.hour > 12 { self.hour - 12 } else { 12 };
+
+        f.write_fmt(format_args!("{}:{:0>2} {}", h, self.minute, if self.hour < 12 { "AM" } else { "PM" }))
+    }
+}
+
 impl FromStr for TimeOfDay {
     type Err = ();
 
@@ -142,10 +156,12 @@ impl FromStr for TimeOfDay {
             return Err(());
         }
 
-        let hour_offset = if input.ends_with("PM") { 12 } else { 0 };
+        
 
         let hour: u32 = input[0..2].parse().map_err(|_| ())?;
         let min: u32 = input[3..5].parse().map_err(|_| ())?;
+
+        let hour_offset = if input.ends_with("PM") && hour < 12 { 12 } else { 0 };
 
         Ok(TimeOfDay {
             hour: hour + hour_offset,
@@ -166,6 +182,7 @@ pub enum CourseAttribute {
     SP,
     VE,
     VP,
+    FYI
 }
 
 impl FromStr for CourseAttribute {
@@ -183,6 +200,7 @@ impl FromStr for CourseAttribute {
             "SP" => Ok(CourseAttribute::SP),
             "VE" => Ok(CourseAttribute::VE),
             "VP" => Ok(CourseAttribute::VP),
+            "FYI" => Ok(CourseAttribute::FYI),
             _ => Err(()),
         }
     }
@@ -319,6 +337,7 @@ pub enum Department {
     TA,
     UDSC,
     WGS,
+    ESL
 }
 
 impl FromStr for Department {
@@ -394,6 +413,7 @@ impl FromStr for Department {
             "TA" => Ok(Department::TA),
             "UDSC" => Ok(Department::UDSC),
             "WGS" => Ok(Department::WGS),
+            "ESL" => Ok(Department::ESL),
             _ => Err(()),
         }
     }
